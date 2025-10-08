@@ -1,0 +1,788 @@
+{
+    "Series": [
+        {
+            "id": "series1",
+            "title": "Serie 1",
+            "shortDescription": "Descripción corta Serie 1",
+            "longDescription": "Descripción detallada de la Serie 1.",
+            "thumbnail": "https://example.com/images/series1.jpg",
+            "releaseDate": "2021-01-01",
+            "genres": [
+                "Drama",
+                "Acción"
+            ],
+            "seasons": [
+                {
+                    "seasonNumber": 1,
+                    "episodes": [
+                        {
+                            "id": "s1e1",
+                            "title": "Episodio 1 - Serie 1",
+                            "shortDescription": "Primer episodio de Serie 1.",
+                            "longDescription": "Detalles del primer episodio de Serie 1.",
+                            "thumbnail": "https://example.com/images/s1e1.jpg",
+                            "releaseDate": "2021-01-02",
+                            "content": {
+                                "duration": 1800,
+                                "videos": [
+                                    {
+                                        "url": "https://example.com/videos/s1e1.mp4",
+                                        "videoType": "mp4"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "series2",
+            "title": "Serie 2",
+            "shortDescription": "Descripción corta Serie 2",
+            "longDescription": "Descripción detallada de la Serie 2.",
+            "thumbnail": "https://example.com/images/series2.jpg",
+            "releaseDate": "2021-01-02",
+            "genres": [
+                "Drama",
+                "Acción"
+            ],
+            "seasons": [
+                {
+                    "seasonNumber": 1,
+                    "episodes": [
+                        {
+                            "id": "s2e1",
+                            "title": "Episodio 1 - Serie 2",
+                            "shortDescription": "Primer episodio de Serie 2.",
+                            "longDescription": "Detalles del primer episodio de Serie 2.",
+                            "thumbnail": "https://example.com/images/s2e1.jpg",
+                            "releaseDate": "2021-01-03",
+                            "content": {
+                                "duration": 1800,
+                                "videos": [
+                                    {
+                                        "url": "https://example.com/videos/s2e1.mp4",
+                                        "videoType": "mp4"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "series3",
+            "title": "Serie 3",
+            "shortDescription": "Descripción corta Serie 3",
+            "longDescription": "Descripción detallada de la Serie 3.",
+            "thumbnail": "https://example.com/images/series3.jpg",
+            "releaseDate": "2021-01-03",
+            "genres": [
+                "Drama",
+                "Acción"
+            ],
+            "seasons": [
+                {
+                    "seasonNumber": 1,
+                    "episodes": [
+                        {
+                            "id": "s3e1",
+                            "title": "Episodio 1 - Serie 3",
+                            "shortDescription": "Primer episodio de Serie 3.",
+                            "longDescription": "Detalles del primer episodio de Serie 3.",
+                            "thumbnail": "https://example.com/images/s3e1.jpg",
+                            "releaseDate": "2021-01-04",
+                            "content": {
+                                "duration": 1800,
+                                "videos": [
+                                    {
+                                        "url": "https://example.com/videos/s3e1.mp4",
+                                        "videoType": "mp4"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "series4",
+            "title": "Serie 4",
+            "shortDescription": "Descripción corta Serie 4",
+            "longDescription": "Descripción detallada de la Serie 4.",
+            "thumbnail": "https://example.com/images/series4.jpg",
+            "releaseDate": "2021-01-04",
+            "genres": [
+                "Drama",
+                "Acción"
+            ],
+            "seasons": [
+                {
+                    "seasonNumber": 1,
+                    "episodes": [
+                        {
+                            "id": "s4e1",
+                            "title": "Episodio 1 - Serie 4",
+                            "shortDescription": "Primer episodio de Serie 4.",
+                            "longDescription": "Detalles del primer episodio de Serie 4.",
+                            "thumbnail": "https://example.com/images/s4e1.jpg",
+                            "releaseDate": "2021-01-05",
+                            "content": {
+                                "duration": 1800,
+                                "videos": [
+                                    {
+                                        "url": "https://example.com/videos/s4e1.mp4",
+                                        "videoType": "mp4"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "series5",
+            "title": "Serie 5",
+            "shortDescription": "Descripción corta Serie 5",
+            "longDescription": "Descripción detallada de la Serie 5.",
+            "thumbnail": "https://example.com/images/series5.jpg",
+            "releaseDate": "2021-01-05",
+            "genres": [
+                "Drama",
+                "Acción"
+            ],
+            "seasons": [
+                {
+                    "seasonNumber": 1,
+                    "episodes": [
+                        {
+                            "id": "s5e1",
+                            "title": "Episodio 1 - Serie 5",
+                            "shortDescription": "Primer episodio de Serie 5.",
+                            "longDescription": "Detalles del primer episodio de Serie 5.",
+                            "thumbnail": "https://example.com/images/s5e1.jpg",
+                            "releaseDate": "2021-01-06",
+                            "content": {
+                                "duration": 1800,
+                                "videos": [
+                                    {
+                                        "url": "https://example.com/videos/s5e1.mp4",
+                                        "videoType": "mp4"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "series6",
+            "title": "Serie 6",
+            "shortDescription": "Descripción corta Serie 6",
+            "longDescription": "Descripción detallada de la Serie 6.",
+            "thumbnail": "https://example.com/images/series6.jpg",
+            "releaseDate": "2021-01-06",
+            "genres": [
+                "Drama",
+                "Acción"
+            ],
+            "seasons": [
+                {
+                    "seasonNumber": 1,
+                    "episodes": [
+                        {
+                            "id": "s6e1",
+                            "title": "Episodio 1 - Serie 6",
+                            "shortDescription": "Primer episodio de Serie 6.",
+                            "longDescription": "Detalles del primer episodio de Serie 6.",
+                            "thumbnail": "https://example.com/images/s6e1.jpg",
+                            "releaseDate": "2021-01-07",
+                            "content": {
+                                "duration": 1800,
+                                "videos": [
+                                    {
+                                        "url": "https://example.com/videos/s6e1.mp4",
+                                        "videoType": "mp4"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "series7",
+            "title": "Serie 7",
+            "shortDescription": "Descripción corta Serie 7",
+            "longDescription": "Descripción detallada de la Serie 7.",
+            "thumbnail": "https://example.com/images/series7.jpg",
+            "releaseDate": "2021-01-07",
+            "genres": [
+                "Drama",
+                "Acción"
+            ],
+            "seasons": [
+                {
+                    "seasonNumber": 1,
+                    "episodes": [
+                        {
+                            "id": "s7e1",
+                            "title": "Episodio 1 - Serie 7",
+                            "shortDescription": "Primer episodio de Serie 7.",
+                            "longDescription": "Detalles del primer episodio de Serie 7.",
+                            "thumbnail": "https://example.com/images/s7e1.jpg",
+                            "releaseDate": "2021-01-08",
+                            "content": {
+                                "duration": 1800,
+                                "videos": [
+                                    {
+                                        "url": "https://example.com/videos/s7e1.mp4",
+                                        "videoType": "mp4"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "series8",
+            "title": "Serie 8",
+            "shortDescription": "Descripción corta Serie 8",
+            "longDescription": "Descripción detallada de la Serie 8.",
+            "thumbnail": "https://example.com/images/series8.jpg",
+            "releaseDate": "2021-01-08",
+            "genres": [
+                "Drama",
+                "Acción"
+            ],
+            "seasons": [
+                {
+                    "seasonNumber": 1,
+                    "episodes": [
+                        {
+                            "id": "s8e1",
+                            "title": "Episodio 1 - Serie 8",
+                            "shortDescription": "Primer episodio de Serie 8.",
+                            "longDescription": "Detalles del primer episodio de Serie 8.",
+                            "thumbnail": "https://example.com/images/s8e1.jpg",
+                            "releaseDate": "2021-01-09",
+                            "content": {
+                                "duration": 1800,
+                                "videos": [
+                                    {
+                                        "url": "https://example.com/videos/s8e1.mp4",
+                                        "videoType": "mp4"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "series9",
+            "title": "Serie 9",
+            "shortDescription": "Descripción corta Serie 9",
+            "longDescription": "Descripción detallada de la Serie 9.",
+            "thumbnail": "https://example.com/images/series9.jpg",
+            "releaseDate": "2021-01-09",
+            "genres": [
+                "Drama",
+                "Acción"
+            ],
+            "seasons": [
+                {
+                    "seasonNumber": 1,
+                    "episodes": [
+                        {
+                            "id": "s9e1",
+                            "title": "Episodio 1 - Serie 9",
+                            "shortDescription": "Primer episodio de Serie 9.",
+                            "longDescription": "Detalles del primer episodio de Serie 9.",
+                            "thumbnail": "https://example.com/images/s9e1.jpg",
+                            "releaseDate": "2021-01-10",
+                            "content": {
+                                "duration": 1800,
+                                "videos": [
+                                    {
+                                        "url": "https://example.com/videos/s9e1.mp4",
+                                        "videoType": "mp4"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "series10",
+            "title": "Serie 10",
+            "shortDescription": "Descripción corta Serie 10",
+            "longDescription": "Descripción detallada de la Serie 10.",
+            "thumbnail": "https://example.com/images/series10.jpg",
+            "releaseDate": "2021-01-10",
+            "genres": [
+                "Drama",
+                "Acción"
+            ],
+            "seasons": [
+                {
+                    "seasonNumber": 1,
+                    "episodes": [
+                        {
+                            "id": "s10e1",
+                            "title": "Episodio 1 - Serie 10",
+                            "shortDescription": "Primer episodio de Serie 10.",
+                            "longDescription": "Detalles del primer episodio de Serie 10.",
+                            "thumbnail": "https://example.com/images/s10e1.jpg",
+                            "releaseDate": "2021-01-11",
+                            "content": {
+                                "duration": 1800,
+                                "videos": [
+                                    {
+                                        "url": "https://example.com/videos/s10e1.mp4",
+                                        "videoType": "mp4"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "TV": [
+        {
+            "id": "tv1",
+            "title": "Canal TV 1",
+            "shortDescription": "Descripción corta Canal TV 1",
+            "longDescription": "Detalles del Canal TV 1 en vivo.",
+            "thumbnail": "https://example.com/images/tv1.jpg",
+            "releaseDate": "2022-01-01",
+            "genres": [
+                "Noticias",
+                "Entretenimiento"
+            ],
+            "content": {
+                "duration": 0,
+                "videos": [
+                    {
+                        "url": "https://example.com/live/tv1.m3u8",
+                        "videoType": "hls"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "tv2",
+            "title": "Canal TV 2",
+            "shortDescription": "Descripción corta Canal TV 2",
+            "longDescription": "Detalles del Canal TV 2 en vivo.",
+            "thumbnail": "https://example.com/images/tv2.jpg",
+            "releaseDate": "2022-01-02",
+            "genres": [
+                "Noticias",
+                "Entretenimiento"
+            ],
+            "content": {
+                "duration": 0,
+                "videos": [
+                    {
+                        "url": "https://example.com/live/tv2.m3u8",
+                        "videoType": "hls"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "tv3",
+            "title": "Canal TV 3",
+            "shortDescription": "Descripción corta Canal TV 3",
+            "longDescription": "Detalles del Canal TV 3 en vivo.",
+            "thumbnail": "https://example.com/images/tv3.jpg",
+            "releaseDate": "2022-01-03",
+            "genres": [
+                "Noticias",
+                "Entretenimiento"
+            ],
+            "content": {
+                "duration": 0,
+                "videos": [
+                    {
+                        "url": "https://example.com/live/tv3.m3u8",
+                        "videoType": "hls"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "tv4",
+            "title": "Canal TV 4",
+            "shortDescription": "Descripción corta Canal TV 4",
+            "longDescription": "Detalles del Canal TV 4 en vivo.",
+            "thumbnail": "https://example.com/images/tv4.jpg",
+            "releaseDate": "2022-01-04",
+            "genres": [
+                "Noticias",
+                "Entretenimiento"
+            ],
+            "content": {
+                "duration": 0,
+                "videos": [
+                    {
+                        "url": "https://example.com/live/tv4.m3u8",
+                        "videoType": "hls"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "tv5",
+            "title": "Canal TV 5",
+            "shortDescription": "Descripción corta Canal TV 5",
+            "longDescription": "Detalles del Canal TV 5 en vivo.",
+            "thumbnail": "https://example.com/images/tv5.jpg",
+            "releaseDate": "2022-01-05",
+            "genres": [
+                "Noticias",
+                "Entretenimiento"
+            ],
+            "content": {
+                "duration": 0,
+                "videos": [
+                    {
+                        "url": "https://example.com/live/tv5.m3u8",
+                        "videoType": "hls"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "tv6",
+            "title": "Canal TV 6",
+            "shortDescription": "Descripción corta Canal TV 6",
+            "longDescription": "Detalles del Canal TV 6 en vivo.",
+            "thumbnail": "https://example.com/images/tv6.jpg",
+            "releaseDate": "2022-01-06",
+            "genres": [
+                "Noticias",
+                "Entretenimiento"
+            ],
+            "content": {
+                "duration": 0,
+                "videos": [
+                    {
+                        "url": "https://example.com/live/tv6.m3u8",
+                        "videoType": "hls"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "tv7",
+            "title": "Canal TV 7",
+            "shortDescription": "Descripción corta Canal TV 7",
+            "longDescription": "Detalles del Canal TV 7 en vivo.",
+            "thumbnail": "https://example.com/images/tv7.jpg",
+            "releaseDate": "2022-01-07",
+            "genres": [
+                "Noticias",
+                "Entretenimiento"
+            ],
+            "content": {
+                "duration": 0,
+                "videos": [
+                    {
+                        "url": "https://example.com/live/tv7.m3u8",
+                        "videoType": "hls"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "tv8",
+            "title": "Canal TV 8",
+            "shortDescription": "Descripción corta Canal TV 8",
+            "longDescription": "Detalles del Canal TV 8 en vivo.",
+            "thumbnail": "https://example.com/images/tv8.jpg",
+            "releaseDate": "2022-01-08",
+            "genres": [
+                "Noticias",
+                "Entretenimiento"
+            ],
+            "content": {
+                "duration": 0,
+                "videos": [
+                    {
+                        "url": "https://example.com/live/tv8.m3u8",
+                        "videoType": "hls"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "tv9",
+            "title": "Canal TV 9",
+            "shortDescription": "Descripción corta Canal TV 9",
+            "longDescription": "Detalles del Canal TV 9 en vivo.",
+            "thumbnail": "https://example.com/images/tv9.jpg",
+            "releaseDate": "2022-01-09",
+            "genres": [
+                "Noticias",
+                "Entretenimiento"
+            ],
+            "content": {
+                "duration": 0,
+                "videos": [
+                    {
+                        "url": "https://example.com/live/tv9.m3u8",
+                        "videoType": "hls"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "tv10",
+            "title": "Canal TV 10",
+            "shortDescription": "Descripción corta Canal TV 10",
+            "longDescription": "Detalles del Canal TV 10 en vivo.",
+            "thumbnail": "https://example.com/images/tv10.jpg",
+            "releaseDate": "2022-01-10",
+            "genres": [
+                "Noticias",
+                "Entretenimiento"
+            ],
+            "content": {
+                "duration": 0,
+                "videos": [
+                    {
+                        "url": "https://example.com/live/tv10.m3u8",
+                        "videoType": "hls"
+                    }
+                ]
+            }
+        }
+    ],
+    "Movies": [
+        {
+            "id": "movie1",
+            "title": "Película 1",
+            "shortDescription": "Descripción corta Película 1",
+            "longDescription": "Detalles completos de la Película 1.",
+            "thumbnail": "https://example.com/images/movie1.jpg",
+            "releaseDate": "2020-06-01",
+            "genres": [
+                "Acción",
+                "Aventura"
+            ],
+            "content": {
+                "duration": 7200,
+                "videos": [
+                    {
+                        "url": "https://example.com/videos/movie1.mp4",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "movie2",
+            "title": "Película 2",
+            "shortDescription": "Descripción corta Película 2",
+            "longDescription": "Detalles completos de la Película 2.",
+            "thumbnail": "https://example.com/images/movie2.jpg",
+            "releaseDate": "2020-06-02",
+            "genres": [
+                "Acción",
+                "Aventura"
+            ],
+            "content": {
+                "duration": 7200,
+                "videos": [
+                    {
+                        "url": "https://example.com/videos/movie2.mp4",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "movie3",
+            "title": "Película 3",
+            "shortDescription": "Descripción corta Película 3",
+            "longDescription": "Detalles completos de la Película 3.",
+            "thumbnail": "https://example.com/images/movie3.jpg",
+            "releaseDate": "2020-06-03",
+            "genres": [
+                "Acción",
+                "Aventura"
+            ],
+            "content": {
+                "duration": 7200,
+                "videos": [
+                    {
+                        "url": "https://example.com/videos/movie3.mp4",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "movie4",
+            "title": "Película 4",
+            "shortDescription": "Descripción corta Película 4",
+            "longDescription": "Detalles completos de la Película 4.",
+            "thumbnail": "https://example.com/images/movie4.jpg",
+            "releaseDate": "2020-06-04",
+            "genres": [
+                "Acción",
+                "Aventura"
+            ],
+            "content": {
+                "duration": 7200,
+                "videos": [
+                    {
+                        "url": "https://example.com/videos/movie4.mp4",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "movie5",
+            "title": "Película 5",
+            "shortDescription": "Descripción corta Película 5",
+            "longDescription": "Detalles completos de la Película 5.",
+            "thumbnail": "https://example.com/images/movie5.jpg",
+            "releaseDate": "2020-06-05",
+            "genres": [
+                "Acción",
+                "Aventura"
+            ],
+            "content": {
+                "duration": 7200,
+                "videos": [
+                    {
+                        "url": "https://example.com/videos/movie5.mp4",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "movie6",
+            "title": "Película 6",
+            "shortDescription": "Descripción corta Película 6",
+            "longDescription": "Detalles completos de la Película 6.",
+            "thumbnail": "https://example.com/images/movie6.jpg",
+            "releaseDate": "2020-06-06",
+            "genres": [
+                "Acción",
+                "Aventura"
+            ],
+            "content": {
+                "duration": 7200,
+                "videos": [
+                    {
+                        "url": "https://example.com/videos/movie6.mp4",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "movie7",
+            "title": "Película 7",
+            "shortDescription": "Descripción corta Película 7",
+            "longDescription": "Detalles completos de la Película 7.",
+            "thumbnail": "https://example.com/images/movie7.jpg",
+            "releaseDate": "2020-06-07",
+            "genres": [
+                "Acción",
+                "Aventura"
+            ],
+            "content": {
+                "duration": 7200,
+                "videos": [
+                    {
+                        "url": "https://example.com/videos/movie7.mp4",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "movie8",
+            "title": "Película 8",
+            "shortDescription": "Descripción corta Película 8",
+            "longDescription": "Detalles completos de la Película 8.",
+            "thumbnail": "https://example.com/images/movie8.jpg",
+            "releaseDate": "2020-06-08",
+            "genres": [
+                "Acción",
+                "Aventura"
+            ],
+            "content": {
+                "duration": 7200,
+                "videos": [
+                    {
+                        "url": "https://example.com/videos/movie8.mp4",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "movie9",
+            "title": "Película 9",
+            "shortDescription": "Descripción corta Película 9",
+            "longDescription": "Detalles completos de la Película 9.",
+            "thumbnail": "https://example.com/images/movie9.jpg",
+            "releaseDate": "2020-06-09",
+            "genres": [
+                "Acción",
+                "Aventura"
+            ],
+            "content": {
+                "duration": 7200,
+                "videos": [
+                    {
+                        "url": "https://example.com/videos/movie9.mp4",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "movie10",
+            "title": "Película 10",
+            "shortDescription": "Descripción corta Película 10",
+            "longDescription": "Detalles completos de la Película 10.",
+            "thumbnail": "https://example.com/images/movie10.jpg",
+            "releaseDate": "2020-06-10",
+            "genres": [
+                "Acción",
+                "Aventura"
+            ],
+            "content": {
+                "duration": 7200,
+                "videos": [
+                    {
+                        "url": "https://example.com/videos/movie10.mp4",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        }
+    ]
+}
