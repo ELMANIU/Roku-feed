@@ -30,6 +30,27 @@
           "streamFormat": "m3u8"
         },
         {
+    "Title": "Scooby-Doo: La Película (2002)",
+    "Stream": "https://dl.dropbox.com/scl/fi/2miqldty5vc2u5sal0tdr/Scooby-Doo-La-Pel-cula-2002-1080p-DUAL-id_9637.mkv?rlkey=vbyv2v1aftxb1syrphwuyoppm&st=dood1gpo&raw=1",
+    "Logo": "https://m.media-amazon.com/images/S/pv-target-images/597e766e16d81965cc4f46decece4e729266bbe6e51fd444c113d4c88064c65b._SX1080_FMjpg_.jpg",
+    "description": "Scooby-Doo y su pandilla viajan a una isla misteriosa donde deberán resolver un caso lleno de criaturas extrañas y secretos ocultos.",
+    "streamFormat": "progressive"
+  },
+  {
+    "Title": "Scooby-Doo 2: Monstruos Sueltos (2004)",
+    "Stream": "https://dl.dropbox.com/scl/fi/196c0uxse9s29eqjrq04n/Scooby-Doo-2-Monstruos-Sueltos-2004-1080p-DUAL-id_11024.mkv?rlkey=t453nerzmuuw9jpopznenyb2z&st=opdyydlz&raw=1",
+    "Logo": "https://m.media-amazon.com/images/S/pv-target-images/bc48687fa3f1a38c4fb143d5800e4a856cb7cae2aac1ddced2769e14f6eb5c02._UR1920,1080_.jpg",
+    "description": "La pandilla Mystery Inc. regresa para enfrentar a un villano que utiliza antiguos disfraces de monstruos para sembrar el caos.",
+    "streamFormat": "progressive"
+  },
+  {
+    "Title": "Scooby-Doo 3: El misterio comienza (2009)",
+    "Stream": "https://dl.dropbox.com/scl/fi/2ofnf3qlk96os7n5in8gb/Scooby-Doo-3-El-misterio-comienza-2009-id_22620.mkv?rlkey=79nwy01lu3qifgz56yei5t568&st=44g1atbk&raw=1",
+    "Logo": "https://m.media-amazon.com/images/S/pv-target-images/791380d85651b9698d21cea89e30f51a2f30cc3ddd02a6e77502343b8bda7f81.jpg",
+    "description": "La historia del origen de Scooby-Doo y sus amigos, mostrando cómo se conocieron y resolvieron su primer gran misterio.",
+    "streamFormat": "progressive"
+  },
+        {
           "Title": "Plantonk la película (2025)",
           "Stream": "https://archive.org/download/super-mario-galaxy-la-pelicula/Super%20Mario%20Galaxy%20la%20pel%C3%ADcula.mp4",
           "Logo": "https://m.media-amazon.com/images/M/MV5BOTg2YTMyNTktNTc5Yy00MTQzLWE0YTAtYWZiNTBjNDc0OGVlXkEyXkFqcGc@._V1_.jpg",
