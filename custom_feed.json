@@ -1,165 +1,18 @@
 {
-  "drama": [
+  "rows": [
+    
     {
-      "Title": "John Wick: Sin Control (2014)",
-      "streamFormat": "progressive",
-      "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGURbFEzedCM5Mo5QiRnIRgsnoWPNYQjURMovyCAcNNq15cqE8w4lKslA&s=10",
-      "Stream": "https://dn721801.ca.archive.org/0/items/johnwicksincontrol2014dvdriplatinothriller/John%20Wick%20Sin%20Control%20%282014%29%20Dvdrip%20Latino%20%5BThriller%5D.mp4"
+      "title": "PELÍCULAS - DRAMA",
+      "items": [
+        {
+          "Title": "100 Metros (2016)",
+          "Stream": "https://dl.dropbox.com/scl/fi/ue7i7rvtkc9s0lw418ejg/100.Metros.2025.1080P-Dual-Lat.mkv?rlkey=3i4qsgkiohcx1etp07xt6m0bu&st=3ebpedza&raw=1",
+          "Logo": "https://i.ytimg.com/vi/GrzqhC6Y-Y8/maxresdefault.jpg",
+          "description": "Ramón sufre esclerosis múltiple y le dicen que no podrá caminar 100 metros. Contra todo pronóstico, decide entrenar para terminar un Ironman, demostrando que la fuerza de voluntad puede superar cualquier límite.",
+          "streamFormat": "progressive"
+        }
+      ]
     }
-  ],
 
-  "animacion": [
-    {
-      "Title": "Plantonk la película (2025)",
-      "streamFormat": "m3u8",
-      "Logo": "https://m.media-amazon.com/images/M/MV5BOTg2YTMyNTktNTc5Yy00MTQzLWE0YTAtYWZiNTBjNDc0OGVlXkEyXkFqcGc@._V1_.jpg",
-      "Stream": "https://ia601900.us.archive.org/8/items/peliculas_20260215/Toy%20Story%20Toons%20Extra%20Small%20Mini%20Pelicula%20Completa%20en%20Espa%C3%B1ol%20Latino%2007m%2009s.mp4"
-    },
-    {
-      "Title": "Home: No hay lugar como el hogar (2015)",
-      "streamFormat": "m3u8",
-      "Logo": "https://m.media-amazon.com/images/S/pv-target-images/6ee0e5c19e5903652ead8357446bdaf5b2141bd5f699f30163e61068dfce824a._UR1920,1080_SX500_FMjpg_.jpg",
-      "Stream": "https://zerostorage.net/api/files/ea332ffa-e1a0-472b-bf9a-a5f6620f5259/stream"
-    },
-    {
-      "Title": "Un gran dinosaurio (2015)",
-      "streamFormat": "m3u8",
-      "Logo": "https://is1-ssl.mzstatic.com/image/thumb/Video123/v4/56/28/f3/5628f340-b9c5-9904-f838-6b2cb4b18c3c/DIS_GOOD_DINOSAUR_THE_WW_ARTWORK_ES-419_3840x2160_24RS33000000PN.lsr/1200x675.jpg",
-      "Stream": "https://zerostorage.net/api/files/3d6bd128-38f2-4132-944b-0081922e30ca/stream"
-    },
-    {
-      "Title": "La cabra que cambió el juego: Goat (2025)",
-      "streamFormat": "m3u8",
-      "Logo": "https://m.media-amazon.com/images/S/pv-target-images/151042cf679ea1f772b2a378c0d407571d78a25ca17006150db0e484dcae46f4.jpg",
-      "Stream": "https://zerostorage.net/api/files/fa9e70c5-dc01-4323-90ce-c8d5e265761f/stream"
-    },
-    {
-      "Title": "Los Tipos Malos (2022)",
-      "streamFormat": "m3u8",
-      "Logo": "https://m.media-amazon.com/images/S/pv-target-images/0a7ef103ed12f6267c9e23f8bebd047f356220e202d2ac039cce9ac8cc25605c._UR1920,1080_.jpg",
-      "Stream": "https://zerostorage.net/api/files/128a46ec-6d9f-4862-b39b-583212208d0b/stream"
-    },
-    {
-      "Title": "Los Tipos Malos 2 (2025)",
-      "streamFormat": "m3u8",
-      "Logo": "https://m.media-amazon.com/images/S/pv-target-images/89128ed2b414a07ca9df870500cb5e10ce3ce2468188a9c05c47dc4bb413c71b._UR1920,1080_.jpg",
-      "Stream": "https://zerostorage.net/api/files/54c679a1-8992-4000-be38-b823128e043e/stream"
-    },
-    {
-      "Title": "200% Lobo (2024)",
-      "streamFormat": "progressive",
-      "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBXEgBlAUBZ1WmWe77mUKsIz3XZRe99d_MXvbasIA-g3Vn2FG-hwkyuW8&s=10",
-      "Stream": "https://dl.dropbox.com/scl/fi/gwgjr1ljotx799y3obdm0/200-lobo.mp4?rlkey=mvhoxj22exo39q29nejl6s6xz&st=afa9a0no&raw=1"
-    },
-    {
-      "Title": "Caminando entre dinosaurios (2013)",
-      "streamFormat": "progressive",
-      "Logo": "https://m.media-amazon.com/images/S/pv-target-images/5d57ca4c96c96e25d16ee6bb0acd28bb34e961631485c21ef9760d31acc05248.jpg",
-      "Stream": "https://dl.dropbox.com/scl/fi/pak4424mdqzsx4zzkhe2j/1280x536-Caminando-entre-dinosaurios.mp4?rlkey=e3f2eaaxilgmwz98i7tcxx7pn&st=h1smk9sx&raw=1"
-    },
-    {
-      "Title": "Los Cretinos (2025)",
-      "streamFormat": "progressive",
-      "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaoIY4zk_eyy6p675jxazE5AYNQf6-u-aUMxOx4Ikzu13uAW4EZXYPGBWL&s=10",
-      "Stream": "https://dl.dropbox.com/scl/fi/epu4yfv4wjn2hw0gjmr7k/1440x720-Los-Cretinos.mp4?rlkey=hcoa5j5wloz6zgogz08fwlpaa&st=8ifg81q7&raw=1"
-    },
-    {
-      "Title": "Kung Fu Panda 2 (2011)",
-      "streamFormat": "progressive",
-      "Logo": "https://m.media-amazon.com/images/S/pv-target-images/86ed2812d8010d5b9ddb01153f0444aa5bb1a74d4031e15f3710a297ce37c4f6.jpg",
-      "Stream": "https://dl.dropbox.com/scl/fi/eb99zm64047hz8gmlsxs3/Kung.fu.panda.2.2011.1080P-Dual-Lat.mp4?rlkey=ohc3woqpxzwmuj6tt8carepx6&st=qy2mejsf&raw=1"
-    },
-    {
-      "Title": "Kung Fu Panda 3 (2016)",
-      "streamFormat": "progressive",
-      "Logo": "https://m.media-amazon.com/images/S/pv-target-images/ec693f0cda341e6ae5510e9743a92fcdd61f8d11a5984839d28984f0f0844e1c.jpg",
-      "Stream": "https://dl.dropbox.com/scl/fi/5kqci7o1t8cgl1ye36h0k/Kung.fu.panda.3.2016.1080P-Dual-Lat.mp4?rlkey=4zglihvhjineiwfvnof9f36vq&st=t1tekb89&raw=1"
-    },
-    {
-      "Title": "Kung Fu Panda 4 (2024)",
-      "streamFormat": "progressive",
-      "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST0i-YHwhpMXERSLm_bKQRVOaWMiW2Eih_iwZZE4pSJV3vYKOiPa5KuVxw&s=10",
-      "Stream": "https://dl.dropbox.com/scl/fi/62tbey1bqsorquiyipnex/1918x800-Kung-Fu-Panda-4_1.mp4?rlkey=b65a2ortsdit5nn94ey8y5s2y&st=nubumngz&raw=1"
-    },
-    {
-      "Title": "DC Liga de Supermascotas (2022)",
-      "streamFormat": "progressive",
-      "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6W8Ce_1b-eV_wnSXHfQN862e1gdvm9PIY85R6G0kqGTg4lHq3UPfYdg4&s=10",
-      "Stream": "https://dl.dropbox.com/scl/fi/ankp8fvrmfc5yvit0b38g/1920x800-DC-Liga-de-supermascotas.mp4?rlkey=z6s8imj5ytnwyoebui5zk8mft&st=gfpx54d9&raw=1"
-    },
-    {
-      "Title": "David y los Elfos (2021)",
-      "streamFormat": "progressive",
-      "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6W8Ce_1b-eV_wnSXHfQN862e1gdvm9PIY85R6G0kqGTg4lHq3UPfYdg4&s=10",
-      "Stream": "https://dl.dropbox.com/scl/fi/iegh4q1gv0d0jggzq22xl/1920x960-David-y-los-Elfos.mp4?rlkey=v03frx7chq88oq6kqzmc7z5yk&st=suxq4v1c&raw=1"
-    },
-    {
-      "Title": "En sueños (2025)",
-      "streamFormat": "progressive",
-      "Logo": "https://i.ytimg.com/vi/cSjWOxarT54/hq720.jpg",
-      "Stream": "https://dl.dropbox.com/scl/fi/ijb4oyj3mslswepkaugb5/1920x1080-En-sue-os.mp4?rlkey=uubliqfuvderxlcg2cd10dqhw&st=e7eckwxx&raw=1"
-    },
-    {
-      "Title": "Bob Esponja: En busca de los pantalones cuadrados (2025)",
-      "streamFormat": "progressive",
-      "Logo": "https://dx35vtwkllhj9.cloudfront.net/paramountpictures/the-spongebob-movie-search-for-squarepants-intl/images/regions/mx/share.png",
-      "Stream": "https://dl.dropbox.com/scl/fi/6m528le0msg2mqb2dj0as/Bob-Esponja-En-busca-de-los-pantalones-cuadrados.mp4?rlkey=cltapovrhzbu6q8v847s9cl3w&st=0zpvvvor&raw=1"
-    },
-    {
-      "Title": "Bolt: Un perro fuera de serie (2008)",
-      "streamFormat": "progressive",
-      "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmslwG-ZW49naB42C1EL8B1qIr636HvodxBBW_D9T96SXBU8jCgzdjjM4&s=10",
-      "Stream": "https://dl.dropbox.com/scl/fi/o7klp01rdrji02wukbasc/Bolt.Un.Perro.Fuera.De.Serie.1080P-Dual-Lat.mkv?rlkey=vmc8y665umb8flem0cnbw1l6t&st=xusa15p5&raw=1"
-    },
-    {
-      "Title": "Soy Frankelda (2025)",
-      "streamFormat": "progressive",
-      "Logo": "https://m.media-amazon.com/images/S/pv-target-images/f6a1a8f90bd12c40fce95ae5de8023e8cc4066049f12d78c2b0f20352b48bd30.png",
-      "Stream": "https://dl.dropbox.com/scl/fi/out52tbmmpe4yuuavkb9z/Soy-Frankelda-LAT-1080p-id_1119090.mkv?rlkey=ys5tt2h2hmk6r75uc2qhqnxbf&st=cjtnubg8&raw=1"
-    },
-    {
-      "Title": "Un dulce desastre de Navidad (2022)",
-      "streamFormat": "progressive",
-      "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6W8Ce_1b-eV_wnSXHfQN862e1gdvm9PIY85R6G0kqGTg4lHq3UPfYdg4&s=10",
-      "Stream": "https://dl.dropbox.com/scl/fi/7gmbmw0lk10m0zckv1mdp/Un-dulce-desastre-de-Navidad-2022-1080p-TRIAL-id_1028552.mkv?rlkey=4s4jzubquu8st2ojymtrtdztv&st=cjd46rv1&raw=1"
-    },
-    {
-      "Title": "Una Navidad ex-cepcional (2025)",
-      "streamFormat": "progressive",
-      "Logo": "https://is1-ssl.mzstatic.com/image/thumb/JGeqyySxDPKZ93wJfY8Pyg/1200x675.jpg",
-      "Stream": "https://dl.dropbox.com/scl/fi/edfvrds19i3vf7qunfxoy/Una.Navidad.Ex-Cepcional.2025.1080P-Dual-Lat.mkv?rlkey=rgifemvwvafhaugmss0pgz5ox&st=yuy8bmkr&raw=1"
-    },
-    {
-      "Title": "Una película de Minecraft (2025)",
-      "streamFormat": "progressive",
-      "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5g3TCg5-f375ki9j5Tl5NVR7Tyjt2_HHCTfvstBhoFLAEtxtW6Frsz-4&s=10",
-      "Stream": "https://dl.dropbox.com/scl/fi/64snxcw8u5nysdj6puy9q/Una.Pel-cula.De.Minecraft.2025.1080P-Dual-Lat.mkv?rlkey=z4yw4t5h2y3amo4e6z21qmff4&st=1h9b3jcn&raw=1"
-    },
-    {
-      "Title": "Ralph El Demoledor (2012)",
-      "streamFormat": "progressive",
-      "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSilS3ytJndHepbSCKvXT9cik7Bh3VBq9GNIXmAYu55IxYRcsdoSUOJ-2tj&s=10",
-      "Stream": "https://dl.dropbox.com/scl/fi/ubvnq3xr2u3cztm7y6ops/Wreck-it.ralph.2012.1080P-Dual-Lat.mp4?rlkey=gtxlbjo114pqegfx1ev2zvopi&st=o288c8ej&raw=1"
-    },
-    {
-      "Title": "Zootopia 2 (2025)",
-      "streamFormat": "progressive",
-      "Logo": "https://m.media-amazon.com/images/S/pv-target-images/cd335f41ea2d54011891c844e96cbb90c9982f98adf81d460a86e683134652a6.jpg",
-      "Stream": "https://dl.dropbox.com/scl/fi/wfxiq0ilarf8nxyy45nbb/Zootopia-2.mp4?rlkey=njth30lo2868ij6tf5lxgvi4z&st=z0r7s7zy&raw=1"
-    }
-  ],
-
-  "accion": [],
-  "anime": [],
-  "comedia": [],
-  "movies": [],
-  "series": [],
-  "tv": [],
-  "tvOnline": [],
-  "tvOpcion1": [],
-  "tvServidor1": [],
-  "estreno": [],
-  "navidad": [],
-  "animeMovies": [],
-  "rickAndMorty": []
+  ]
 }
