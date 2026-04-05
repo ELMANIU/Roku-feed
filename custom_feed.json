@@ -1,6 +1,6 @@
 {
   "rows": [
-    
+
     {
       "title": "PELÍCULAS - DRAMA",
       "items": [
@@ -9,6 +9,68 @@
           "Stream": "https://dl.dropbox.com/scl/fi/ue7i7rvtkc9s0lw418ejg/100.Metros.2025.1080P-Dual-Lat.mkv?rlkey=3i4qsgkiohcx1etp07xt6m0bu&st=3ebpedza&raw=1",
           "Logo": "https://i.ytimg.com/vi/GrzqhC6Y-Y8/maxresdefault.jpg",
           "description": "Ramón sufre esclerosis múltiple y le dicen que no podrá caminar 100 metros. Contra todo pronóstico, decide entrenar para terminar un Ironman, demostrando que la fuerza de voluntad puede superar cualquier límite.",
+          "streamFormat": "progressive"
+        }
+      ]
+    },
+
+    {
+      "title": "PELÍCULAS - ANIMACIÓN",
+      "items": [
+        {
+          "Title": "Plantonk la película (2025)",
+          "Stream": "https://archive.org/download/super-mario-galaxy-la-pelicula/Super%20Mario%20Galaxy%20la%20pel%C3%ADcula.mp4",
+          "Logo": "https://m.media-amazon.com/images/M/MV5BOTg2YTMyNTktNTc5Yy00MTQzLWE0YTAtYWZiNTBjNDc0OGVlXkEyXkFqcGc@._V1_.jpg",
+          "description": "",
+          "streamFormat": "mp4"
+        },
+        {
+          "Title": "Home: No hay lugar como el hogar (2015)",
+          "Stream": "https://zerostorage.net/api/files/ea332ffa-e1a0-472b-bf9a-a5f6620f5259/stream",
+          "Logo": "https://m.media-amazon.com/images/S/pv-target-images/6ee0e5c19e5903652ead8357446bdaf5b2141bd5f699f30163e61068dfce824a._UR1920,1080_SX500_FMjpg_.jpg",
+          "description": "",
+          "streamFormat": "m3u8"
+        },
+        {
+          "Title": "Un gran dinosaurio (2015)",
+          "Stream": "https://zerostorage.net/api/files/3d6bd128-38f2-4132-944b-0081922e30ca/stream",
+          "Logo": "https://is1-ssl.mzstatic.com/image/thumb/Video123/v4/56/28/f3/5628f340-b9c5-9904-f838-6b2cb4b18c3c/DIS_GOOD_DINOSAUR_THE_WW_ARTWORK_ES-419_3840x2160_24RS33000000PN.lsr/1200x675.jpg",
+          "description": "",
+          "streamFormat": "m3u8"
+        },
+        {
+          "Title": "La cabra que cambió el juego: Goat (2025)",
+          "Stream": "https://zerostorage.net/api/files/fa9e70c5-dc01-4323-90ce-c8d5e265761f/stream",
+          "Logo": "https://m.media-amazon.com/images/S/pv-target-images/151042cf679ea1f772b2a378c0d407571d78a25ca17006150db0e484dcae46f4.jpg",
+          "description": "",
+          "streamFormat": "m3u8"
+        },
+        {
+          "Title": "Los Tipos Malos (2022)",
+          "Stream": "https://zerostorage.net/api/files/128a46ec-6d9f-4862-b39b-583212208d0b/stream",
+          "Logo": "https://m.media-amazon.com/images/S/pv-target-images/0a7ef103ed12f6267c9e23f8bebd047f356220e202d2ac039cce9ac8cc25605c._UR1920,1080_.jpg",
+          "description": "",
+          "streamFormat": "m3u8"
+        },
+        {
+          "Title": "Los Tipos Malos 2 (2025)",
+          "Stream": "https://zerostorage.net/api/files/54c679a1-8992-4000-be38-b823128e043e/stream",
+          "Logo": "https://m.media-amazon.com/images/S/pv-target-images/89128ed2b414a07ca9df870500cb5e10ce3ce2468188a9c05c47dc4bb413c71b._UR1920,1080_.jpg",
+          "description": "",
+          "streamFormat": "m3u8"
+        },
+        {
+          "Title": "200% Lobo (2024)",
+          "Stream": "https://dl.dropbox.com/scl/fi/gwgjr1ljotx799y3obdm0/200-lobo.mp4?rlkey=mvhoxj22exo39q29nejl6s6xz&st=afa9a0no&raw=1",
+          "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBXEgBlAUBZ1WmWe77mUKsIz3XZRe99d_MXvbasIA-g3Vn2FG-hwkyuW8&s=10",
+          "description": "",
+          "streamFormat": "progressive"
+        },
+        {
+          "Title": "Caminando entre dinosaurios (2013)",
+          "Stream": "https://dl.dropbox.com/scl/fi/pak4424mdqzsx4zzkhe2j/1280x536-Caminando-entre-dinosaurios.mp4?rlkey=e3f2eaaxilgmwz98i7tcxx7pn&st=h1smk9sx&raw=1",
+          "Logo": "https://m.media-amazon.com/images/S/pv-target-images/5d57ca4c96c96e25d16ee6bb0acd28bb34e961631485c21ef9760d31acc05248.jpg",
+          "description": "",
           "streamFormat": "progressive"
         }
       ]
