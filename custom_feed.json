@@ -1,6 +1,5 @@
 {
   "rows": [
-
     {
       "title": "PELÍCULAS - DRAMA",
       "items": [
@@ -13,23 +12,22 @@
         }
       ]
     },
-
     {
       "title": "PELÍCULAS - ANIMACIÓN",
       "items": [
         {
-  "Title": "Mufasa: El Rey León (2024)",
-  "Stream": "https://dl.dropbox.com/scl/fi/cebxhw5mpveemgn7mzzse/Mufasa-El-Rey-Le-n-1080p-DUAL-id_762509.mkv?rlkey=u8jhahz2lsh72xuz4nsnirb3q&st=rvg7qvdz&raw=1",
-  "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMkJWBCf7W5oJ94F78cgkh1tv9U7Brv1XVJraXNqIWu3q9bvnWr1ajBaiq&s=10",
-  "description": "La historia de los orígenes de Mufasa, desde un cachorro huérfano hasta convertirse en el legendario rey de la Tierra del Orgullo. Una aventura épica sobre destino, familia y liderazgo.",
-  "streamFormat": "progressive"
+          "Title": "Mufasa: El Rey León (2024)",
+          "Stream": "https://dl.dropbox.com/scl/fi/cebxhw5mpveemgn7mzzse/Mufasa-El-Rey-Le-n-1080p-DUAL-id_762509.mkv?rlkey=u8jhahz2lsh72xuz4nsnirb3q&st=rvg7qvdz&raw=1",
+          "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMkJWBCf7W5oJ94F78cgkh1tv9U7Brv1XVJraXNqIWu3q9bvnWr1ajBaiq&s=10",
+          "description": "La historia de los orígenes de Mufasa, desde un cachorro huérfano hasta convertirse en el legendario rey de la Tierra del Orgullo.",
+          "streamFormat": "progressive"
         },
         {
-  "Title": "Super Mario Galaxy: La Película (2026)",
-  "Stream": "https://zerostorage.net/api/files/577e2b22-265f-4b98-b3ce-d68d158ea3f9/stream",
-  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/d1c9be2942ebfbbc9d2e59b6aee75d93c66357630ec3ab5c9e6afe7cc6a235e5.jpg",
-  "description": "Mario y Luigi viajan más allá del Reino Champiñón hacia el espacio para enfrentar una nueva amenaza junto a Yoshi y Rosalina. Una aventura galáctica llena de acción, humor y nuevos aliados.",
-  "streamFormat": "m3u8"
+          "Title": "Super Mario Galaxy: La Película (2026)",
+          "Stream": "https://zerostorage.net/api/files/577e2b22-265f-4b98-b3ce-d68d158ea3f9/stream",
+          "Logo": "https://m.media-amazon.com/images/S/pv-target-images/d1c9be2942ebfbbc9d2e59b6aee75d93c66357630ec3ab5c9e6afe7cc6a235e5.jpg",
+          "description": "Mario y Luigi viajan más allá del Reino Champiñón hacia el espacio para enfrentar una nueva amenaza.",
+          "streamFormat": "m3u8"
         },
         {
           "Title": "Plantonk la película (2025)",
@@ -61,7 +59,7 @@
         },
         {
           "Title": "Los Tipos Malos (2022)",
-          "Stream": "https://zerostorage.net/api/files/download/128a46ec-6d9f-4862-b39b-583212208d0b?track=true",
+          "Stream": "https://zerostorage.net/api/files/128a46ec-6d9f-4862-b39b-583212208d0b/stream",
           "Logo": "https://m.media-amazon.com/images/S/pv-target-images/0a7ef103ed12f6267c9e23f8bebd047f356220e202d2ac039cce9ac8cc25605c._UR1920,1080_.jpg",
           "description": "",
           "streamFormat": "m3u8"
@@ -74,18 +72,18 @@
           "streamFormat": "m3u8"
         },
         {
-  "Title": "Locos por las Nueces (2014)",
-  "Stream": "https://zerostorage.net/api/files/a1d5ac9e-bcde-44af-bedf-6761661b6e9f/stream",
-  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/ab0dda7e9bad1480aab56dcf1013f47436c328c4ddb2e8a30811be56d7549fa8.jpg",
-  "description": "Una ardilla rebelde planea robar una enorme tienda de nueces junto a sus amigos, desencadenando una divertida aventura llena de caos y trabajo en equipo.",
-  "streamFormat": "m3u8"
+          "Title": "Locos por las Nueces (2014)",
+          "Stream": "https://zerostorage.net/api/files/a1d5ac9e-bcde-44af-bedf-6761661b6e9f/stream",
+          "Logo": "https://m.media-amazon.com/images/S/pv-target-images/ab0dda7e9bad1480aab56dcf1013f47436c328c4ddb2e8a30811be56d7549fa8.jpg",
+          "description": "Una ardilla rebelde planea robar una enorme tienda de nueces junto a sus amigos.",
+          "streamFormat": "m3u8"
         },
         {
-  "Title": "Hotel Transilvania 3: Monstruos de vacaciones (2018)",
-  "Stream": "https://zerostorage.net/api/files/9d7d8d00-eb18-4f9e-ae23-f95a9d26a91a/stream",
-  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/0b019f45612521126849688a006b3ca08e63b23104020c4e80e2caa7a5616ffb.jpg",
-  "description": "Drácula y su familia se embarcan en un crucero de lujo para monstruos, donde todo se complica cuando el conde se enamora de la misteriosa capitana del barco.",
-  "streamFormat": "m3u8"
+          "Title": "Hotel Transilvania 3: Monstruos de vacaciones (2018)",
+          "Stream": "https://zerostorage.net/api/files/9d7d8d00-eb18-4f9e-ae23-f95a9d26a91a/stream",
+          "Logo": "https://m.media-amazon.com/images/S/pv-target-images/0b019f45612521126849688a006b3ca08e63b23104020c4e80e2caa7a5616ffb.jpg",
+          "description": "Drácula y su familia se embarcan en un crucero de lujo para monstruos.",
+          "streamFormat": "m3u8"
         },
         {
           "Title": "200% Lobo (2024)",
@@ -102,7 +100,158 @@
           "streamFormat": "progressive"
         }
       ]
+    },
+    {
+      "title": "📺 TV PREMIUM",
+      "items": [
+        {
+          "Title": "Telemundo",
+          "streamFormat": "progressive",
+          "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg?rlkey=lmehkm3y23lhyseaptmdl5tz7&st=4rh7qkgo&dl=1",
+          "Stream": "http://104.238.205.28:9090/278662_.m3u8",
+          "description": "Canal de televisión estadounidense en español"
+        },
+        {
+          "Title": "Univision",
+          "streamFormat": "progressive",
+          "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg?rlkey=lmehkm3y23lhyseaptmdl5tz7&st=4rh7qkgo&dl=1",
+          "Stream": "http://104.238.205.28:9090/278699_.m3u8",
+          "description": "Canal de televisión estadounidense en español"
+        },
+        {
+          "Title": "Azteca Uno",
+          "streamFormat": "progressive",
+          "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg?rlkey=lmehkm3y23lhyseaptmdl5tz7&st=4rh7qkgo&dl=1",
+          "Stream": "http://104.250.145.76/livehttpplay?channel_id=23300",
+          "description": "Canal de televisión mexicano"
+        },
+        {
+          "Title": "Las Estrellas",
+          "streamFormat": "progressive",
+          "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg?rlkey=lmehkm3y23lhyseaptmdl5tz7&st=4rh7qkgo&dl=1",
+          "Stream": "http://104.250.145.76/livehttpplay?channel_id=23301",
+          "description": "Canal de telenovelas y entretenimiento mexicano"
+        },
+        {
+          "Title": "Imagen TV",
+          "streamFormat": "progressive",
+          "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg?rlkey=lmehkm3y23lhyseaptmdl5tz7&st=4rh7qkgo&dl=1",
+          "Stream": "http://104.250.145.76/livehttpplay?channel_id=23302",
+          "description": "Canal de televisión mexicano"
+        },
+        {
+          "Title": "Canal 5",
+          "streamFormat": "progressive",
+          "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg?rlkey=lmehkm3y23lhyseaptmdl5tz7&st=4rh7qkgo&dl=1",
+          "Stream": "http://104.250.145.76/livehttpplay?channel_id=23303",
+          "description": "Canal de televisión abierta mexicano"
+        },
+        {
+          "Title": "Azteca 7",
+          "streamFormat": "progressive",
+          "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg?rlkey=lmehkm3y23lhyseaptmdl5tz7&st=4rh7qkgo&dl=1",
+          "Stream": "http://104.250.145.76/livehttpplay?channel_id=23304",
+          "description": "Canal de televisión mexicano"
+        },
+        {
+          "Title": "Star Channel",
+          "streamFormat": "progressive",
+          "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg?rlkey=lmehkm3y23lhyseaptmdl5tz7&st=4rh7qkgo&dl=1",
+          "Stream": "http://104.250.145.76/livehttpplay?channel_id=23305",
+          "description": "Canal de series y películas"
+        },
+        {
+          "Title": "Universal TV",
+          "streamFormat": "progressive",
+          "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg?rlkey=lmehkm3y23lhyseaptmdl5tz7&st=4rh7qkgo&dl=1",
+          "Stream": "http://104.250.145.76/livehttpplay?channel_id=23306",
+          "description": "Canal de entretenimiento"
+        },
+        {
+          "Title": "Sony Channel",
+          "streamFormat": "progressive",
+          "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg?rlkey=lmehkm3y23lhyseaptmdl5tz7&st=4rh7qkgo&dl=1",
+          "Stream": "http://104.250.145.76/livehttpplay?channel_id=23307",
+          "description": "Canal de series y películas"
+        },
+        {
+          "Title": "Warner Bros",
+          "streamFormat": "progressive",
+          "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg?rlkey=lmehkm3y23lhyseaptmdl5tz7&st=4rh7qkgo&dl=1",
+          "Stream": "http://104.250.145.76/livehttpplay?channel_id=23308",
+          "description": "Canal de películas de Warner"
+        },
+        {
+          "Title": "AMC",
+          "streamFormat": "progressive",
+          "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg?rlkey=lmehkm3y23lhyseaptmdl5tz7&st=4rh7qkgo&dl=1",
+          "Stream": "http://104.250.145.76/livehttpplay?channel_id=23309",
+          "description": "Canal de series premium"
+        },
+        {
+          "Title": "AXN",
+          "streamFormat": "progressive",
+          "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg?rlkey=lmehkm3y23lhyseaptmdl5tz7&st=4rh7qkgo&dl=1",
+          "Stream": "http://104.250.145.76/livehttpplay?channel_id=23311",
+          "description": "Canal de acción y suspenso"
+        },
+        {
+          "Title": "FX",
+          "streamFormat": "progressive",
+          "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg?rlkey=lmehkm3y23lhyseaptmdl5tz7&st=4rh7qkgo&dl=1",
+          "Stream": "http://104.250.145.76/livehttpplay?channel_id=23312",
+          "description": "Canal de series originales"
+        },
+        {
+          "Title": "Space",
+          "streamFormat": "progressive",
+          "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg?rlkey=lmehkm3y23lhyseaptmdl5tz7&st=4rh7qkgo&dl=1",
+          "Stream": "http://104.250.145.76/livehttpplay?channel_id=23313",
+          "description": "Canal de ciencia ficción"
+        },
+        {
+          "Title": "TNT",
+          "streamFormat": "progressive",
+          "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg?rlkey=lmehkm3y23lhyseaptmdl5tz7&st=4rh7qkgo&dl=1",
+          "Stream": "http://104.250.145.76/livehttpplay?channel_id=23348",
+          "description": "Canal de series y películas"
+        },
+        {
+          "Title": "HBO",
+          "streamFormat": "progressive",
+          "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg?rlkey=lmehkm3y23lhyseaptmdl5tz7&st=4rh7qkgo&dl=1",
+          "Stream": "http://104.250.145.76/livehttpplay?channel_id=23356",
+          "description": "Canal premium de series y películas"
+        },
+        {
+          "Title": "ESPN",
+          "streamFormat": "progressive",
+          "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg?rlkey=lmehkm3y23lhyseaptmdl5tz7&st=4rh7qkgo&dl=1",
+          "Stream": "http://104.250.145.76/livehttpplay?channel_id=23342",
+          "description": "Canal de deportes"
+        },
+        {
+          "Title": "Discovery Channel",
+          "streamFormat": "progressive",
+          "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg?rlkey=lmehkm3y23lhyseaptmdl5tz7&st=4rh7qkgo&dl=1",
+          "Stream": "http://104.250.145.76/livehttpplay?channel_id=23332",
+          "description": "Canal de documentales"
+        },
+        {
+          "Title": "National Geographic",
+          "streamFormat": "progressive",
+          "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg?rlkey=lmehkm3y23lhyseaptmdl5tz7&st=4rh7qkgo&dl=1",
+          "Stream": "http://104.250.145.76/livehttpplay?channel_id=23334",
+          "description": "Canal de naturaleza y ciencia"
+        },
+        {
+          "Title": "History Channel",
+          "streamFormat": "progressive",
+          "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg?rlkey=lmehkm3y23lhyseaptmdl5tz7&st=4rh7qkgo&dl=1",
+          "Stream": "http://104.250.145.76/livehttpplay?channel_id=23336",
+          "description": "Canal de historia y documentales"
+        }
+      ]
     }
-
   ]
 }
