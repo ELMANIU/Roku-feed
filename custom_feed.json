@@ -54,7 +54,7 @@
         },
         {
           "Title": "Los Tipos Malos (2022)",
-          "Stream": "https://zerostorage.net/api/files/128a46ec-6d9f-4862-b39b-583212208d0b/stream",
+          "Stream": "https://zerostorage.net/api/files/download/128a46ec-6d9f-4862-b39b-583212208d0b?track=true",
           "Logo": "https://m.media-amazon.com/images/S/pv-target-images/0a7ef103ed12f6267c9e23f8bebd047f356220e202d2ac039cce9ac8cc25605c._UR1920,1080_.jpg",
           "description": "",
           "streamFormat": "m3u8"
