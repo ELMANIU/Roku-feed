@@ -26,10 +26,10 @@
         },
         {
   "Title": "Super Mario Galaxy: La Película (2026)",
-  "Stream": "https://dl.dropbox.com/scl/fi/nblo1eriw60vyg6bh5lcr/Super-Mario-Galaxy-la-pel-cula.mp4?rlkey=2xx7ymq2x8281e6t8u7glipz3&st=17spfc04&dl=1",
+  "Stream": "https://zerostorage.net/api/files/577e2b22-265f-4b98-b3ce-d68d158ea3f9/stream",
   "Logo": "https://m.media-amazon.com/images/S/pv-target-images/d1c9be2942ebfbbc9d2e59b6aee75d93c66357630ec3ab5c9e6afe7cc6a235e5.jpg",
   "description": "Mario y Luigi viajan más allá del Reino Champiñón hacia el espacio para enfrentar una nueva amenaza junto a Yoshi y Rosalina. Una aventura galáctica llena de acción, humor y nuevos aliados.",
-  "streamFormat": "progressive"
+  "streamFormat": "m3u8"
         },
         {
           "Title": "Plantonk la película (2025)",
