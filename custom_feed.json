@@ -332,6 +332,19 @@
           "description": "Canal de historia y documentales"
         }
       ]
+    },
+       {
+      "title": "LOS TIPOS MALOS: MALOS COMIENZOS (2025)",
+      "items": [
+        {
+          "Title": "S01 E01 - Malos Comienzos ",
+          "streamFormat": "progressive",
+          "Logo": "https://i.ytimg.com/vi/Mau7ucTGbUE/maxresdefault.jpg",
+          "Stream": "https://1a-1791.com/video/fww1/f6/s8/2/I/d/Q/c/IdQcA.aaa.mp4",
+          "description": "Para ganar fama, el Sr. Lobo y su leal banda de ladrones planean robar una icónica pintura del museo local."
+        }
+      ]
     }
   ]
 }
+
