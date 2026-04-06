@@ -13,6 +13,46 @@
       ]
     },
     {
+  "title": "PELÍCULAS - ANIMES",
+  "items": [
+    {
+      "Title": "Saint Seiya: La Reencarnación de Eris (1987)",
+      "Stream": "https://archive.org/download/saint-seiya-anime-archive/MOVIES/Saint%20Seiya%20Movie%201%20-%20Jashin%20Eris%20%281987%29/Saint%20Seiya%20Movie%201%20-%20Jashin%20Eris%20%281987%29.mkv",
+      "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXZwuFQHWZSkYhkKvSM4NyKkCM04OyAB9xrAogJm7Cj9ZbAiD7iezud9MU&s=10",
+      "description": "Eris, la diosa de la discordia, regresa a la Tierra y secuestra a Athena, obligando a los Caballeros a luchar para salvarla.",
+      "streamFormat": "progressive"
+    },
+    {
+      "Title": "Saint Seiya: La Gran Batalla de los Dioses (1988)",
+      "Stream": "https://archive.org/download/saint-seiya-anime-archive/MOVIES/Saint%20Seiya%20Movie%202%20-%20Kamigami%20no%20Atsuki%20Tatakai%20%281988%29/Saint%20Seiya%20Movie%202%20-%20Kamigami%20no%20Atsuki%20Tatakai%20%281988%29.mkv",
+      "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv6TimfpkMZ8ieWcxHFP7PKPr12n87N467PjrvD-bgmeQpWAFCWYw9CxU&s=10",
+      "description": "Los Caballeros viajan a Asgard para rescatar a Hyoga y enfrentarse a poderosos enemigos.",
+      "streamFormat": "progressive"
+    },
+    {
+      "Title": "Saint Seiya: La Leyenda de los Jóvenes Escarlata (1988)",
+      "Stream": "https://archive.org/download/saint-seiya-anime-archive/MOVIES/Saint%20Seiya%20Movie%203%20-%20Shinku%20no%20Shounen%20Densetsu%20%281988%29/Saint%20Seiya%20Movie%203%20-%20Shinku%20no%20Shounen%20Densetsu%20%281988%29.mkv",
+      "Logo": "https://i.ytimg.com/vi/8GVAt0oRF44/hq720.jpg",
+      "description": "El dios Abel regresa con nuevos guerreros para desafiar a Athena y dominar la Tierra.",
+      "streamFormat": "progressive"
+    },
+    {
+      "Title": "Saint Seiya: Los Guerreros de la Última Guerra Santa (1989)",
+      "Stream": "https://archive.org/download/saint-seiya-anime-archive/MOVIES/Saint%20Seiya%20Movie%204%20-%20Saishuu%20Seisen%20no%20Senshi%20Tachi%20%281989%29/Saint%20Seiya%20Movie%204%20-%20Saishuu%20Seisen%20no%20Senshi%20Tachi%20%281989%29.mkv",
+      "Logo": "https://i.ytimg.com/vi/5DBq5GasEVg/hq720.jpg",
+      "description": "Lucifer y sus ángeles caídos regresan para destruir a la humanidad en una batalla épica.",
+      "streamFormat": "progressive"
+    },
+    {
+      "Title": "Saint Seiya: Obertura del Cielo (2004)",
+      "Stream": "https://archive.org/download/saint-seiya-anime-archive/MOVIES/Saint%20Seiya%20Movie%205%20-%20Tenkai%20Hen%20Josou%20~Overture~%20%282004%29/Saint%20Seiya%20The%20Movie%205%20-%20Tenkai%20Hen%20Josou%20~Overture~%20%282004%29.mkv",
+      "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUJWNX9qB-kARVFXYvOX6mN6XmIlxltsnxdN9zAKTMOFw82Zbys0NxIz4&s=10",
+      "description": "Los Caballeros enfrentan a los dioses del Olimpo en una batalla final tras la saga de Hades.",
+      "streamFormat": "progressive"
+    }
+  ]
+    },
+    {
       "title": "PELÍCULAS - DRAMA",
       "items": [
         {
