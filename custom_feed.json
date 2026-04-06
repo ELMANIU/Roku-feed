@@ -342,7 +342,22 @@
           "Logo": "https://i.ytimg.com/vi/Mau7ucTGbUE/maxresdefault.jpg",
           "Stream": "https://rumble.com/hls-vod/75ynhy/playlist.m3u8?u=0&b=0",
           "description": "Para ganar fama, el Sr. Lobo y su leal banda de ladrones planean robar una icónica pintura del museo local."
-        }
+        },
+        {
+  "Title": "S01 E02 - El Robo Más Dulce",
+  "streamFormat": "progressive",
+  "Logo": "https://i.ytimg.com/vi/Mau7ucTGbUE/maxresdefault.jpg",
+  "Stream": "https://rumble.com/hls-vod/75xpei/playlist.m3u8?u=0&b=0",
+  "description": "Como todavía desean ser reconocidos por sus crímenes, los Tipos Malos intentan robar la receta supersecreta de una sospechosa fabricante de dulces."
+        },
+        
+{
+  "Title": "S01 E03 - Si No Hay Noticias, Son Malas Noticias",
+  "streamFormat": "progressive",
+  "Logo": "https://i.ytimg.com/vi/Mau7ucTGbUE/maxresdefault.jpg",
+  "Stream": "https://rumble.com/hls-vod/75ynoq/playlist.m3u8?u=0&b=0",
+  "description": "Lobo consigue una entrevista para el equipo en las noticias como una manera de promocionar sus robos. ¿Pero están los Tipos Malos preparados para tanta atención?"
+}
       ]
     }
   ]
