@@ -23,6 +23,13 @@
   "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU3qgvTFuJ4KBdrY72SoEa4tQBvo-gsDSsnb4jr6EvWgfZQhiltTOJqyvX&s=10",
   "Stream": "https://rumble.com/hls-vod/75yytc/playlist.m3u8?u=0&b=0",
   "description": "Raizo es uno de los asesinos más letales entrenados por un clan secreto de ninjas. Tras traicionar a la organización que lo crió, se convierte en su objetivo mientras busca venganza y redención."
+        },
+        {
+  "Title": "El maestro del Tai Chi (2013)",
+  "streamFormat": "progressive",
+  "Logo": "https://www.findelahistoria.com/web/wp-content/uploads/2013/08/man_of_tai_chi_ver2_xxlg-1024x512.jpg",
+  "Stream": "https://rumble.com/hls-vod/75z0ew/playlist.m3u8?u=0&b=0",
+  "description": "Un joven prodigio del Tai Chi es descubierto por un misterioso empresario que lo introduce en el mundo de las peleas clandestinas, donde deberá luchar por dinero mientras pone en riesgo su disciplina y valores."
         }
       ]
     },
