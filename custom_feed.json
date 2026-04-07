@@ -399,7 +399,40 @@
       "description": "Keiji, un gallo errante, protege a la humanidad enfrentándose a criaturas gigantes que amenazan el mundo."
     }
   ]
-}
+},
+    {
+  "title": "LOS DINOSAURIOS (2026)",
+  "items": [
+    {
+      "Title": "S01 E01 - El origen",
+      "streamFormat": "progressive",
+      "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRquKHisgG_9KItZEn-pGVlxvBklvVX6ZNiVvHA1NZu78iKdcWbnXmLZlC&s=10",
+      "Stream": "https://rumble.com/hls-vod/75z5hc/playlist.m3u8?u=0&b=0",
+      "description": "Desde los primeros dinosaurios hasta su dominio de la Tierra. Un viaje épico a un mundo perdido que abarca 165 millones de años de evolución."
+    },
+    {
+      "Title": "S01 E02 - El reinado",
+      "streamFormat": "progressive",
+      "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRquKHisgG_9KItZEn-pGVlxvBklvVX6ZNiVvHA1NZu78iKdcWbnXmLZlC&s=10",
+      "Stream": "https://rumble.com/hls-vod/75z5x6/playlist.m3u8?u=0&b=0",
+      "description": "Los dinosaurios alcanzan su máximo esplendor. Criaturas colosales como el Argentinosaurus dominan el paisaje mientras surgen nuevos depredadores."
+    },
+    {
+      "Title": "S01 E03 - La extinción",
+      "streamFormat": "progressive",
+      "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRquKHisgG_9KItZEn-pGVlxvBklvVX6ZNiVvHA1NZu78iKdcWbnXmLZlC&s=10",
+      "Stream": "https://rumble.com/hls-vod/75z3cc/playlist.m3u8?u=0&b=0",
+      "description": "El cataclismo que acabó con los dinosaurios no aviares. Cómo un asteroide cambió para siempre el curso de la vida en la Tierra."
+    },
+    {
+      "Title": "S01 E04 - El legado",
+      "streamFormat": "progressive",
+      "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRquKHisgG_9KItZEn-pGVlxvBklvVX6ZNiVvHA1NZu78iKdcWbnXmLZlC&s=10",
+      "Stream": "https://rumble.com/hls-vod/75z488/playlist.m3u8?u=0&b=0",
+      "description": "El final de la era de los dinosaurios y el ascenso de los mamíferos. Las aves, sus únicos descendientes vivos, continúan su legado."
+    }
+  ]
+    }
   ]
 }
 
