@@ -387,7 +387,19 @@
   "description": "Tras arruinar un atraco, Redes teme quedarse fuera de la pandilla, así que recurre a un legendario escapista para que les enseñe nuevos trucos a todos."
         }
       ]
+    },
+    {
+  "Title": "ROOSTER FIGHTER (2024)",
+  "ContentList": [
+    {
+      "Title": "S01 E01 - Un gallo entre grullas",
+      "streamFormat": "progressive",
+      "Logo": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/e25dc87a090a72ecfb0e4476b1853cb7.png",
+      "Stream": "https://rumble.com/hls-vod/75z2qu/playlist.m3u8?u=0&b=0",
+      "description": "Keiji, un gallo errante, protege a la humanidad enfrentándose a criaturas gigantes que amenazan el mundo."
     }
+  ]
+}
   ]
 }
 
