@@ -114,6 +114,18 @@
   ]
     },
     {
+  "title": "PELÍCULAS - COMEDIA",
+  "items": [
+    {
+      "Title": "El maestro luchador (2012)",
+      "streamFormat": "progressive",
+      "Logo": "https://is1-ssl.mzstatic.com/image/thumb/Hl0omKsQVrzRtjkX8WFQeA/1200x675.jpg",
+      "Stream": "https://rumble.com/hls-vod/75zw94/playlist.m3u8?u=0&b=0",
+      "description": "Un profesor de biología de 42 años se mete en el mundo de las artes marciales mixtas para recaudar dinero y salvar el programa de música de su escuela."
+    }
+  ]
+},
+    {
       "title": "PELÍCULAS - DRAMA",
       "items": [
         {
