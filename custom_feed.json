@@ -298,6 +298,13 @@
   "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQreYMGiUux_ZbbdHkSMZUuA0NKZa5gH1BfBaxIvw--NQrjGtf-BAPr5so&s=10",
   "Stream": "https://rumble.com/hls-vod/760rt8/playlist.m3u8?u=0&b=0",
   "description": "Cuando una joven monja se suicida en una abadía de Rumania, el Vaticano envía a un sacerdote con un pasado tormentoso y a una novicia para investigar. Juntos descubren el profano secreto de la orden y se enfrentan a una fuerza maléfica en forma de monja demoníaca."
+    },
+    {
+  "Title": "La monja 2 (2023)",
+  "streamFormat": "progressive",
+  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/b5472fcf3c20db50e0ff8e41ab47d5ba87859aab7f7e2a3bbc394789fb960664._UR1920,1080_.jpg",
+  "Stream": "https://nas1.d.tube/videos/bdff87c5-353c-4466-a806-0d819320fd98/1080p/playlist.m3u8",
+  "description": "Cuatro años después de los eventos en Rumania, la hermana Irene se enfrenta nuevamente a Valak, la monja demonio, que ahora aterroriza un internado en Francia mientras busca un poderoso relicario."
     }
   ]
     },
