@@ -548,6 +548,13 @@
       "Logo": "https://img.nm-ovp.nelonenmedia.fi/v1/longbow?src=videoCollection/9e330b02-4a30-413e-bc38-d4125ddc8b61/9bba5400-160e-45f0-aa62-9ff894ac07f2.jpg&width=1920&height=1080",
       "Stream": "https://nas1.d.tube/videos/2e4f4906-6133-4dda-b668-9c28bd4ccaec/1080p/playlist.m3u8",
       "description": "Carly y sus amigos compiten para ver quién consigue más espectadores."
+    },
+    {
+  "Title": "S01 E03 - El sueño de bailar",
+  "streamFormat": "progressive",
+  "Logo": "https://img.nm-ovp.nelonenmedia.fi/v1/longbow?src=videoCollection/9e330b02-4a30-413e-bc38-d4125ddc8b61/9bba5400-160e-45f0-aa62-9ff894ac07f2.jpg&width=1920&height=1080",
+  "Stream": "https://nas1.d.tube/videos/3622aad5-5ff0-4a50-a5f4-6073109a7506/1080p/playlist.m3u8",
+  "description": "Carly, Sam y Freddie ven videos de baile enviados por fans y se quedan dormidos, teniendo cada uno extraños sueños relacionados con el baile."
     }
   ]
     }
