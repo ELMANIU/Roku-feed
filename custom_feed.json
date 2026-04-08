@@ -11,6 +11,13 @@
           "streamFormat": "progressive"
         },
         {
+  "Title": "Avatar (2009)",
+  "streamFormat": "progressive",
+  "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwzPYA9798UGOXGmJChcO3VlczpA8xbIwcJY_6pexCjw&s=10",
+  "Stream": "https://nas1.d.tube/videos/18759d68-2949-41af-949a-45c408c8dc9c/1080p/playlist.m3u8",
+  "description": "Un exmarine parapléjico es enviado a Pandora, donde se infiltra entre los Na'vi usando un avatar y termina luchando por la supervivencia de su nuevo mundo."
+        },
+        {
   "Title": "Depredador: Tierras Salvajes (2025)",
   "streamFormat": "progressive",
   "Logo": "https://m.media-amazon.com/images/S/pv-target-images/511ecb2aeb4e3be41671c22c2521a777f8b2ae1d424e7452b6884f927460a19c.jpg",
@@ -147,6 +154,13 @@
     {
       "title": "PELÍCULAS - ANIMACIÓN",
       "items": [
+        {
+  "Title": "Elio (2025)",
+  "streamFormat": "progressive",
+  "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU0Llfu6BDWx3pw96Miq3BeFnLB9r_0ErrrSa0W3rs-Fty_HO1CWmMY-A&s=10",
+  "Stream": "https://nas1.d.tube/videos/516e384b-01b5-47cc-9c42-323d546cd029/720p/playlist.m3u8",
+  "description": "Un niño fanático del espacio es transportado al Communiverse, una organización interplanetaria, donde es confundido con el líder de la Tierra y debe salvar la galaxia."
+        },
         {
           "Title": "Mufasa: El Rey León (2024)",
           "Stream": "https://dl.dropbox.com/scl/fi/9f6by38ekjvxxilatpm3w/Mufasa-el-rey-leon.mp4?rlkey=fpz2rm46zq3gseafcy4ppv76f&st=h3ccavx6&raw=1",
