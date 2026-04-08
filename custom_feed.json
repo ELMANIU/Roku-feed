@@ -348,14 +348,14 @@
           "Title": "Telemundo",
           "streamFormat": "progressive",
           "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg?rlkey=lmehkm3y23lhyseaptmdl5tz7&st=4rh7qkgo&dl=1",
-          "Stream": "http://104.238.205.28:9090/278662_.m3u8",
+          "Stream": "http://origin.thetvapp.to/hls/TelemundoEast/index.m3u8",
           "description": "Canal de televisión estadounidense en español"
         },
         {
           "Title": "Univision",
           "streamFormat": "progressive",
           "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg?rlkey=lmehkm3y23lhyseaptmdl5tz7&st=4rh7qkgo&dl=1",
-          "Stream": "http://104.238.205.28:9090/278699_.m3u8",
+          "Stream": "http://origin.thetvapp.to/hls/UnivisionEast/index.m3u8",
           "description": "Canal de televisión estadounidense en español"
         },
         {
