@@ -524,7 +524,35 @@
   "Logo": "https://i.ytimg.com/vi/Mau7ucTGbUE/maxresdefault.jpg",
   "Stream": "https://rumble.com/hls-vod/75yz4q/playlist.m3u8?u=0&b=0",
   "description": "Tras arruinar un atraco, Redes teme quedarse fuera de la pandilla, así que recurre a un legendario escapista para que les enseñe nuevos trucos a todos."
-        }
+        },
+        {
+  "Title": "S01 E06 - Misión en la granja",
+  "streamFormat": "progressive",
+  "Logo": "https://i.ytimg.com/vi/wz89LEfBS-0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAmhyTcjEtAZvsNvLPIoQkzge33Hw",
+  "Stream": "https://nas1.d.tube/videos/a2384365-6659-42d9-a2be-1113d5c111c5/1080p/playlist.m3u8",
+  "description": "Los Tipos Malos intentan robar un valioso huevo de oro de una granja, pero los animales del lugar les tenderán una trampa."
+        },
+        {
+  "Title": "S01 E07 - El escape imposible",
+  "streamFormat": "progressive",
+  "Logo": "https://i.ytimg.com/vi/wz89LEfBS-0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAmhyTcjEtAZvsNvLPIoQkzge33Hw",
+  "Stream": "https://nas1.d.tube/videos/ccf4b272-6906-4cce-99e1-b091f02b3a29/1080p/playlist.m3u8",
+  "description": "Atrapados en una bóveda de máxima seguridad, la banda deberá usar todas sus habilidades para escapar antes de que llegue la policía."
+},
+        {
+  "Title": "S01 E08 - El rival misterioso",
+  "streamFormat": "progressive",
+  "Logo": "https://i.ytimg.com/vi/wz89LEfBS-0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAmhyTcjEtAZvsNvLPIoQkzge33Hw",
+  "Stream": "https://nas1.d.tube/videos/4a7648fb-4bb5-48f9-ae13-c6df306a2c73/1080p/playlist.m3u8",
+  "description": "Un nuevo grupo de villanos aparece en la ciudad y compite con los Tipos Malos por el botín más grande, desatando una guerra de robos."
+        },
+        {
+  "Title": "S01 E09 - El gran engaño",
+  "streamFormat": "progressive",
+  "Logo": "https://i.ytimg.com/vi/wz89LEfBS-0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAmhyTcjEtAZvsNvLPIoQkzge33Hw",
+  "Stream": "https://nas1.d.tube/videos/dba7f7a9-1483-406d-bbaa-21d6c51aa452/1080p/playlist.m3u8",
+  "description": "Los Tipos Malos planean su robo más ambicioso, pero nada es lo que parece cuando descubren que alguien los ha estado manipulando desde las sombras."
+}
       ]
     },
     {
