@@ -291,6 +291,13 @@
   "Logo": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/5ed8a825-101d-4438-8153-f6d5c9b405f9/6b296408b2561dffca113d566b8c5cd7bfec158f.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
   "Stream": "https://rumble.com/hls-vod/760kp2/playlist.m3u8?u=0&b=0",
   "description": "Los Warren investigan el primer caso en la historia de Estados Unidos donde un asesino acusado alegó posesión demoníaca como defensa, enfrentándose a una maldición oculta que conecta múltiples muertes."
+    },
+    {
+  "Title": "La monja (2018)",
+  "streamFormat": "progressive",
+  "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQreYMGiUux_ZbbdHkSMZUuA0NKZa5gH1BfBaxIvw--NQrjGtf-BAPr5so&s=10",
+  "Stream": "https://rumble.com/hls-vod/760rt8/playlist.m3u8?u=0&b=0",
+  "description": "Cuando una joven monja se suicida en una abadía de Rumania, el Vaticano envía a un sacerdote con un pasado tormentoso y a una novicia para investigar. Juntos descubren el profano secreto de la orden y se enfrentan a una fuerza maléfica en forma de monja demoníaca."
     }
   ]
     },
