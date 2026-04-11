@@ -307,6 +307,13 @@
   "title": "PELÍCULAS - TERROR",
   "items": [
     {
+  "Title": "Infectados (2009)",
+  "streamFormat": "progressive",
+  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/9f5e5453eaebf0e69fb5d413c1035cea06209258a57aae8997486905558fa537.jpg",
+  "Stream": "https://nas1.d.tube/videos/44ca75ac-26b5-485e-8d16-a466dafb1adb/720p/playlist.m3u8",
+  "description": "Cuatro jóvenes huyen de un virus mortal que ha arrasado el planeta. En su viaje hacia una playa aislada, descubren que su peor enemigo no es la enfermedad, sino la crueldad humana."
+    },
+    {
       "Title": "Pesadilla Jurásica (2012)",
       "streamFormat": "progressive",
       "Logo": "https://is1-ssl.mzstatic.com/image/thumb/wobscZWXETKR9A17sxdRUw/1200x675.jpg",
