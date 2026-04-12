@@ -112,12 +112,12 @@
   "title": "PELÍCULAS - ANIMES",
   "items": [
     {
-      "Title": "Saint Seiya: La Reencarnación de Eris (1987)",
-      "Stream": "https://nas1.d.tube/videos/79f58b8b-621f-4525-ae25-82b6bf6d53bd/1080p/playlist.m3u8",
-      "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXZwuFQHWZSkYhkKvSM4NyKkCM04OyAB9xrAogJm7Cj9ZbAiD7iezud9MU&s=10",
-      "description": "Eris, la diosa de la discordia, regresa a la Tierra y secuestra a Athena, obligando a los Caballeros a luchar para salvarla.",
-      "streamFormat": "progressive"
-    },
+  "Title": "Demon Slayer: Kimetsu no Yaiba – Tren Infinito (2020)",
+  "streamFormat": "progressive",
+  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/6c2cbe6087ef9e1834e213a22b66076bfb23c67dc42f5d03809d4503d2b2b2cd.jpg",
+  "Stream": "https://nas1.d.tube/videos/675e4c99-27f9-4129-b7f0-8c9d6c869821/1080p/playlist.m3u8",
+  "description": "Tanjiro y sus amigos abordan el Tren Infinito para ayudar al Pilar de Fuego, Rengoku, a enfrentar a Enmu, un demonio que atrapa a sus víctimas en sueños profundos."
+},
     {
       "Title": "Saint Seiya: La Gran Batalla de los Dioses (1988)",
       "Stream": "https://archive.org/download/saint-seiya-anime-archive/MOVIES/Saint%20Seiya%20Movie%202%20-%20Kamigami%20no%20Atsuki%20Tatakai%20%281988%29/Saint%20Seiya%20Movie%202%20-%20Kamigami%20no%20Atsuki%20Tatakai%20%281988%29.mkv",
