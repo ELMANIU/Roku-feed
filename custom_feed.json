@@ -780,6 +780,62 @@
   ]
     },
     {
+  "title": "INVENCIBLE - TEMPORADA 1 (2021)",
+  "description": "Serie animada de superhéroes sobre Mark Grayson.",
+  "hdPosterUrl": "https://m.media-amazon.com/images/S/pv-target-images/78afe406779795dfbc13b08845a48edcd88a5deb81130a437b358170a1fa8552.png",
+
+  "episodes": [
+    {
+      "title": "S01 E01 - Ya era hora",
+      "url": "AQUI_TU_LINK.m3u8",
+      "streamFormat": "hls",
+      "description": "Mark Grayson finalmente hereda los poderes de su padre superhéroe."
+    },
+    {
+      "title": "S01 E02 - De perdidos al río",
+      "url": "AQUI_TU_LINK.m3u8",
+      "streamFormat": "hls",
+      "description": "Mark une fuerzas con un equipo de superhéroes adolescentes."
+    },
+    {
+      "title": "S01 E03 - ¿A quién llamas feo?",
+      "url": "AQUI_TU_LINK.m3u8",
+      "streamFormat": "hls",
+      "description": "Mark salva el Monte Rushmore de un científico loco."
+    },
+    {
+      "title": "S01 E04 - Chúpate esa, Neil Armstrong",
+      "url": "AQUI_TU_LINK.m3u8",
+      "streamFormat": "hls",
+      "description": "Mark tiene su primera cita y viaja a otro planeta."
+    },
+    {
+      "title": "S01 E05 - Eso sí que me ha dolido",
+      "url": "AQUI_TU_LINK.m3u8",
+      "streamFormat": "hls",
+      "description": "Mark se alía con un villano para derrotar a un criminal."
+    },
+    {
+      "title": "S01 E06 - Te ves algo muerto",
+      "url": "AQUI_TU_LINK.m3u8",
+      "streamFormat": "hls",
+      "description": "Mark visita una universidad mientras Debbie descubre algo inquietante."
+    },
+    {
+      "title": "S01 E07 - Tenemos que hablar",
+      "url": "AQUI_TU_LINK.m3u8",
+      "streamFormat": "hls",
+      "description": "Mark busca consejo mientras todos lo buscan."
+    },
+    {
+      "title": "S01 E08 - De dónde vengo realmente",
+      "url": "AQUI_TU_LINK.m3u8",
+      "streamFormat": "hls",
+      "description": "Mark enfrenta una fuerza imparable."
+    }
+  ]
+},
+    {
   "title": "ICARLY (2007)",
   "items": [
     {
