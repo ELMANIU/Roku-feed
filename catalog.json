@@ -1892,6 +1892,116 @@
   "streamFormat": "mkv",
   "id": "series-bluey-2018-s1e20",
   "enabled": true
+},
+        {
+  "Title": "S01 E21 - Las Montañas Azules",
+  "season": "1",
+  "episode": "21",
+  "Description": "Durante un picnic, Bluey, Bingo, Mamá y Papá convierten sus manos en personajes y emprenden una aventura más allá de las Montañas Azules en busca de las camas más suaves y calentitas del mundo.",
+  "Logo": "https://www.bluey.tv/wp-content/themes/bluey/assets/img/bluey-default-cover.jpg",
+  "Stream": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Bluey.S01E21.2018.720p-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "id": "series-bluey-2018-s1e21",
+  "enabled": true
+},
+{
+  "Title": "S01 E22 - La piscina",
+  "season": "1",
+  "episode": "22",
+  "Description": "Bluey y Papá se burlan de Mamá por preocuparse tanto por preparar todo antes de ir a la piscina. Cuando llegan sin las cosas necesarias, descubren que las tareas aburridas también son importantes para poder divertirse.",
+  "Logo": "https://www.bluey.tv/wp-content/themes/bluey/assets/img/bluey-default-cover.jpg",
+  "Stream": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Bluey.S01E22.2018.720p-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "id": "series-bluey-2018-s1e22",
+  "enabled": true
+},
+{
+  "Title": "S01 E23 - Tiendas",
+  "season": "1",
+  "episode": "23",
+  "Description": "Bluey y sus amigos quieren jugar a las tiendas, pero antes deben ponerse de acuerdo sobre las reglas y los personajes. Tantos cambios hacen que comenzar el juego sea mucho más difícil de lo que esperaban.",
+  "Logo": "https://www.bluey.tv/wp-content/themes/bluey/assets/img/bluey-default-cover.jpg",
+  "Stream": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Bluey.S01E23.2018.720p-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "id": "series-bluey-2018-s1e23",
+  "enabled": true
+},
+{
+  "Title": "S01 E24 - Paseo en carrito",
+  "season": "1",
+  "episode": "24",
+  "Description": "Papá lleva a Bluey y Bingo al parque en su carrito. Bluey está ansiosa por llegar a las barras, pero tendrá que aprender a ser paciente cada vez que Papá se detiene a conversar con otros adultos.",
+  "Logo": "https://www.bluey.tv/wp-content/themes/bluey/assets/img/bluey-default-cover.jpg",
+  "Stream": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Bluey.S01E24.2018.720p-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "id": "series-bluey-2018-s1e24",
+  "enabled": true
+},
+{
+  "Title": "S01 E25 - Taxi",
+  "season": "1",
+  "episode": "25",
+  "Description": "Bluey monta su propio servicio de taxi y Papá se convierte en un empresario apurado que necesita llegar al aeropuerto. Una serie de retrasos inesperados convierte el viaje en una divertida carrera contra el tiempo.",
+  "Logo": "https://www.bluey.tv/wp-content/themes/bluey/assets/img/bluey-default-cover.jpg",
+  "Stream": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Bluey.S01E25.2018.720p-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "id": "series-bluey-2018-s1e25",
+  "enabled": true
+},
+{
+  "Title": "S01 E26 - La playa",
+  "season": "1",
+  "episode": "26",
+  "Description": "Cuando Mamá sale a caminar sola por la playa, Bluey decide alcanzarla para enseñarle una concha que encontró. En el camino vive una pequeña aventura por su cuenta y descubre muchas cosas nuevas.",
+  "Logo": "https://www.bluey.tv/wp-content/themes/bluey/assets/img/bluey-default-cover.jpg",
+  "Stream": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Bluey.S01E26.2018.720p-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "id": "series-bluey-2018-s1e26",
+  "enabled": true
+},
+{
+  "Title": "S01 E27 - Los piratas",
+  "season": "1",
+  "episode": "27",
+  "Description": "Bluey, Bingo y Missy convierten una hamaca del parque en un barco pirata. Para sobrevivir a tormentas y ataques de una enorme ballena, Missy tendrá que encontrar el valor para superar sus miedos.",
+  "Logo": "https://www.bluey.tv/wp-content/themes/bluey/assets/img/bluey-default-cover.jpg",
+  "Stream": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Bluey.S01E27.2018.720p-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "id": "series-bluey-2018-s1e27",
+  "enabled": true
+},
+{
+  "Title": "S01 E28 - Las abuelitas",
+  "season": "1",
+  "episode": "28",
+  "Description": "Bluey y Bingo se divierten jugando a ser abuelitas hasta que discuten sobre si las abuelas pueden bailar. Para resolver la cuestión deciden hacer una videollamada a su verdadera abuela.",
+  "Logo": "https://www.bluey.tv/wp-content/themes/bluey/assets/img/bluey-default-cover.jpg",
+  "Stream": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Bluey.S01E28.2018.720p-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "id": "series-bluey-2018-s1e28",
+  "enabled": true
+},
+{
+  "Title": "S01 E29 - El arroyo",
+  "season": "1",
+  "episode": "29",
+  "Description": "Cansados del parque de siempre, Papá lleva a Bluey, Bingo y Mackenzie a explorar un arroyo. Aunque al principio Bluey se siente incómoda lejos de su entorno habitual, pronto descubre la belleza de la naturaleza.",
+  "Logo": "https://www.bluey.tv/wp-content/themes/bluey/assets/img/bluey-default-cover.jpg",
+  "Stream": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Bluey.S01E29.2018.720p-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "id": "series-bluey-2018-s1e29",
+  "enabled": true
+},
+{
+  "Title": "S01 E30 - Hadas",
+  "season": "1",
+  "episode": "30",
+  "Description": "La casa de Bluey parece haber sido invadida por unas traviesas hadas invisibles que hacen todo tipo de bromas. La familia deberá trabajar unida para descubrir qué quieren y conseguir que todo vuelva a la normalidad.",
+  "Logo": "https://www.bluey.tv/wp-content/themes/bluey/assets/img/bluey-default-cover.jpg",
+  "Stream": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Bluey.S01E30.2018.720p-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "id": "series-bluey-2018-s1e30",
+  "enabled": true
 }
       ],
       "id": "series-bluey-2018",
