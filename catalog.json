@@ -1705,7 +1705,194 @@
           "streamFormat": "mkv",
           "id": "series-bluey-2018-s1e3",
           "enabled": true
-        }
+        },
+        {
+  "Title": "S01 E04 - Papi Robot",
+  "season": "1",
+  "episode": "4",
+  "Description": "Bluey y Bingo no quieren ordenar sus juguetes, así que convierten a Papá en un robot encargado de hacer el trabajo. Pero sus instrucciones terminan provocando un divertido desastre.",
+  "Logo": "https://www.bluey.tv/wp-content/themes/bluey/assets/img/bluey-default-cover.jpg",
+  "Stream": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Bluey.S01E04.2018.720p-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "id": "series-bluey-2018-s1e4",
+  "enabled": true
+},
+{
+  "Title": "S01 E05 - La sombra",
+  "season": "1",
+  "episode": "5",
+  "Description": "Bluey, Coco y Snickers juegan a avanzar únicamente por las zonas con sombra. Cuando Coco quiere cambiar las reglas para hacerlo más fácil, descubre que respetarlas hace el juego mucho más divertido.",
+  "Logo": "https://www.bluey.tv/wp-content/themes/bluey/assets/img/bluey-default-cover.jpg",
+  "Stream": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Bluey.S01E05.2018.720p-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "id": "series-bluey-2018-s1e5",
+  "enabled": true
+},
+{
+  "Title": "S01 E06 - Fin de semana",
+  "season": "1",
+  "episode": "6",
+  "Description": "Durante un divertido fin de semana, Bluey y Bingo juegan con Papá. Bingo encuentra una pequeña criatura en el jardín y se entristece cuando Papá está demasiado distraído para ir a verla.",
+  "Logo": "https://www.bluey.tv/wp-content/themes/bluey/assets/img/bluey-default-cover.jpg",
+  "Stream": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Bluey.S01E06.2018.720p-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "id": "series-bluey-2018-s1e6",
+  "enabled": true
+},
+{
+  "Title": "S01 E07 - Parrillada",
+  "season": "1",
+  "episode": "7",
+  "Description": "Mientras los adultos disfrutan de una parrillada, Bingo intenta preparar la ensalada perfecta para todos. Lo que parecía una tarea sencilla termina convirtiéndose en una gran aventura.",
+  "Logo": "https://www.bluey.tv/wp-content/themes/bluey/assets/img/bluey-default-cover.jpg",
+  "Stream": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Bluey.S01E07.2018.720p-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "id": "series-bluey-2018-s1e7",
+  "enabled": true
+},
+{
+  "Title": "S01 E08 - Murciélago",
+  "season": "1",
+  "episode": "8",
+  "Description": "Bluey desea poder quedarse despierta toda la noche y termina soñando que se convierte en un murciélago nocturno mientras observa las aventuras de Papá.",
+  "Logo": "https://www.bluey.tv/wp-content/themes/bluey/assets/img/bluey-default-cover.jpg",
+  "Stream": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Bluey.S01E08.2018.720p-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "id": "series-bluey-2018-s1e8",
+  "enabled": true
+},
+{
+  "Title": "S01 E09 - Caballito",
+  "season": "1",
+  "episode": "9",
+  "Description": "Bluey, Bingo, Muffin y Socks convencen a Papá y al tío Stripe de convertirse en caballitos para jugar. Lo que comienza como un paseo tranquilo pronto se vuelve una competencia llena de diversión.",
+  "Logo": "https://www.bluey.tv/wp-content/themes/bluey/assets/img/bluey-default-cover.jpg",
+  "Stream": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Bluey.S01E09.2018.720p-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "id": "series-bluey-2018-s1e9",
+  "enabled": true
+},
+{
+  "Title": "S01 E10 - Hotel",
+  "season": "1",
+  "episode": "10",
+  "Description": "Bluey y Bingo convierten la casa en un hotel y Papá se convierte en su huésped. Pero las dos hermanas tienen ideas muy diferentes sobre cómo atenderlo.",
+  "Logo": "https://www.bluey.tv/wp-content/themes/bluey/assets/img/bluey-default-cover.jpg",
+  "Stream": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Bluey.S01E10.2018.720p-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "id": "series-bluey-2018-s1e10",
+  "enabled": true
+},
+{
+  "Title": "S01 E11 - La Bicicleta",
+  "season": "1",
+  "episode": "11",
+  "Description": "Bluey se frustra cuando no logra andar en bicicleta. Al observar a sus amigos enfrentarse a sus propios desafíos, encuentra la motivación necesaria para seguir intentándolo.",
+  "Logo": "https://www.bluey.tv/wp-content/themes/bluey/assets/img/bluey-default-cover.jpg",
+  "Stream": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Bluey.S01E11.2018.720p-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "id": "series-bluey-2018-s1e11",
+  "enabled": true
+},
+{
+  "Title": "S01 E12 - Bob, el conejo",
+  "season": "1",
+  "episode": "12",
+  "Description": "Bingo lleva a casa a Bob, el conejo de su escuela, y la familia intenta llenar su diario con grandes aventuras. Pronto descubren que pasar tiempo juntos es más importante que las pantallas.",
+  "Logo": "https://www.bluey.tv/wp-content/themes/bluey/assets/img/bluey-default-cover.jpg",
+  "Stream": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Bluey.S01E12.2018.720p-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "id": "series-bluey-2018-s1e12",
+  "enabled": true
+},
+{
+  "Title": "S01 E13 - Juego de espías",
+  "season": "1",
+  "episode": "13",
+  "Description": "Bluey y sus amigos juegan a ser espías en el parque, pero cuando Bingo abandona el juego todo empieza a salir mal. Bluey descubre que cada integrante del equipo es importante.",
+  "Logo": "https://www.bluey.tv/wp-content/themes/bluey/assets/img/bluey-default-cover.jpg",
+  "Stream": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Bluey.S01E13.2018.720p-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "id": "series-bluey-2018-s1e13",
+  "enabled": true
+},
+{
+  "Title": "S01 E14 - Para llevar",
+  "season": "1",
+  "episode": "14",
+  "Description": "Papá espera con Bluey y Bingo la comida para llevar. Solo tienen que esperar unos minutos, pero con las niñas cerca, ese breve tiempo se convierte en una aventura caótica.",
+  "Logo": "https://www.bluey.tv/wp-content/themes/bluey/assets/img/bluey-default-cover.jpg",
+  "Stream": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Bluey.S01E14.2018.720p-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "id": "series-bluey-2018-s1e14",
+  "enabled": true
+},
+{
+  "Title": "S01 E15 - Mariposas",
+  "season": "1",
+  "episode": "15",
+  "Description": "Bluey, Bingo y Judo juegan a las mariposas. Cuando Bluey decide seguir a Judo y deja sola a Bingo, tendrá que aprender una importante lección sobre la amistad y los sentimientos de su hermana.",
+  "Logo": "https://www.bluey.tv/wp-content/themes/bluey/assets/img/bluey-default-cover.jpg",
+  "Stream": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Bluey.S01E15.2018.720p-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "id": "series-bluey-2018-s1e15",
+  "enabled": true
+},
+{
+  "Title": "S01 E16 - Pelota de yoga",
+  "season": "1",
+  "episode": "16",
+  "Description": "Bingo disfruta jugando con Papá, pero algunas veces él juega demasiado brusco. Con ayuda de Mamá, Bingo aprende a expresar claramente cuándo algo le incomoda.",
+  "Logo": "https://www.bluey.tv/wp-content/themes/bluey/assets/img/bluey-default-cover.jpg",
+  "Stream": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Bluey.S01E16.2018.720p-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "id": "series-bluey-2018-s1e16",
+  "enabled": true
+},
+{
+  "Title": "S01 E17 - Calypso",
+  "season": "1",
+  "episode": "17",
+  "Description": "En la escuela, Calypso guía discretamente a los niños mientras sus diferentes juegos comienzan a conectarse entre sí. Incluso Pretzel encuentra algo especial que hacer.",
+  "Logo": "https://www.bluey.tv/wp-content/themes/bluey/assets/img/bluey-default-cover.jpg",
+  "Stream": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Bluey.S01E17.2018.720p-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "id": "series-bluey-2018-s1e17",
+  "enabled": true
+},
+{
+  "Title": "S01 E18 - La doctora",
+  "season": "1",
+  "episode": "18",
+  "Description": "Bingo juega a ser doctora y Bluey se convierte en su recepcionista. Honey espera pacientemente su turno mientras una serie de pacientes con problemas cada vez más extraños pasa primero.",
+  "Logo": "https://www.bluey.tv/wp-content/themes/bluey/assets/img/bluey-default-cover.jpg",
+  "Stream": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Bluey.S01E18.2018.720p-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "id": "series-bluey-2018-s1e18",
+  "enabled": true
+},
+{
+  "Title": "S01 E19 - La máquina",
+  "season": "1",
+  "episode": "19",
+  "Description": "Papá transforma su brazo en una máquina de premios para Bluey y Bingo. Las niñas intentan ganar el gran premio mientras Mamá y Papá aprovechan el juego para enseñarles sobre esfuerzo y perseverancia.",
+  "Logo": "https://www.bluey.tv/wp-content/themes/bluey/assets/img/bluey-default-cover.jpg",
+  "Stream": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Bluey.S01E19.2018.720p-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "id": "series-bluey-2018-s1e19",
+  "enabled": true
+},
+{
+  "Title": "S01 E20 - El mercado",
+  "season": "1",
+  "episode": "20",
+  "Description": "Bluey recibe cinco dólares del hada de los dientes y visita el mercado con Indy. Con tantas cosas interesantes para comprar, decidir en qué gastar su dinero resulta mucho más difícil de lo esperado.",
+  "Logo": "https://www.bluey.tv/wp-content/themes/bluey/assets/img/bluey-default-cover.jpg",
+  "Stream": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Bluey.S01E20.2018.720p-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "id": "series-bluey-2018-s1e20",
+  "enabled": true
+}
       ],
       "id": "series-bluey-2018",
       "enabled": true
