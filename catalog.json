@@ -6823,7 +6823,205 @@
             "episode": "4",
             "Duration": "437",
             "enabled": true
-          }
+          },
+          {
+  "Title": "La doctora",
+  "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Bluey.S01E18.2018.720p-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "season": "1",
+  "episode": "18",
+  "Duration": "437",
+  "enabled": true
+},
+{
+  "Title": "Los piratas",
+  "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Bluey.S01E27.2018.720p-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "season": "1",
+  "episode": "27",
+  "Duration": "437",
+  "enabled": true
+},
+{
+  "Title": "La Bicicleta",
+  "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Bluey.S01E11.2018.720p-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "season": "1",
+  "episode": "11",
+  "Duration": "437",
+  "enabled": true
+},
+{
+  "Title": "Paseo en carrito",
+  "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Bluey.S01E24.2018.720p-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "season": "1",
+  "episode": "24",
+  "Duration": "437",
+  "enabled": true
+},
+{
+  "Title": "Mariposas",
+  "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Bluey.S01E15.2018.720p-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "season": "1",
+  "episode": "15",
+  "Duration": "437",
+  "enabled": true
+},
+{
+  "Title": "Hadas",
+  "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Bluey.S01E30.2018.720p-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "season": "1",
+  "episode": "30",
+  "Duration": "437",
+  "enabled": true
+},
+{
+  "Title": "Caballito",
+  "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Bluey.S01E09.2018.720p-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "season": "1",
+  "episode": "9",
+  "Duration": "437",
+  "enabled": true
+},
+{
+  "Title": "La piscina",
+  "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Bluey.S01E22.2018.720p-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "season": "1",
+  "episode": "22",
+  "Duration": "437",
+  "enabled": true
+},
+{
+  "Title": "Pelota de yoga",
+  "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Bluey.S01E16.2018.720p-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "season": "1",
+  "episode": "16",
+  "Duration": "437",
+  "enabled": true
+},
+{
+  "Title": "Las abuelitas",
+  "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Bluey.S01E28.2018.720p-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "season": "1",
+  "episode": "28",
+  "Duration": "437",
+  "enabled": true
+},
+{
+  "Title": "Bob, el conejo",
+  "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Bluey.S01E12.2018.720p-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "season": "1",
+  "episode": "12",
+  "Duration": "437",
+  "enabled": true
+},
+{
+  "Title": "Taxi",
+  "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Bluey.S01E25.2018.720p-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "season": "1",
+  "episode": "25",
+  "Duration": "437",
+  "enabled": true
+},
+{
+  "Title": "La máquina",
+  "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Bluey.S01E19.2018.720p-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "season": "1",
+  "episode": "19",
+  "Duration": "437",
+  "enabled": true
+},
+{
+  "Title": "Tiendas",
+  "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Bluey.S01E23.2018.720p-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "season": "1",
+  "episode": "23",
+  "Duration": "437",
+  "enabled": true
+},
+{
+  "Title": "Hotel",
+  "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Bluey.S01E10.2018.720p-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "season": "1",
+  "episode": "10",
+  "Duration": "437",
+  "enabled": true
+},
+{
+  "Title": "El arroyo",
+  "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Bluey.S01E29.2018.720p-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "season": "1",
+  "episode": "29",
+  "Duration": "437",
+  "enabled": true
+},
+{
+  "Title": "Para llevar",
+  "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Bluey.S01E14.2018.720p-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "season": "1",
+  "episode": "14",
+  "Duration": "437",
+  "enabled": true
+},
+{
+  "Title": "La playa",
+  "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Bluey.S01E26.2018.720p-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "season": "1",
+  "episode": "26",
+  "Duration": "437",
+  "enabled": true
+},
+{
+  "Title": "Calypso",
+  "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Bluey.S01E17.2018.720p-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "season": "1",
+  "episode": "17",
+  "Duration": "437",
+  "enabled": true
+},
+{
+  "Title": "Las Montañas Azules",
+  "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Bluey.S01E21.2018.720p-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "season": "1",
+  "episode": "21",
+  "Duration": "437",
+  "enabled": true
+},
+{
+  "Title": "Juego de espías",
+  "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Bluey.S01E13.2018.720p-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "season": "1",
+  "episode": "13",
+  "Duration": "437",
+  "enabled": true
+},
+{
+  "Title": "El mercado",
+  "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Bluey.S01E20.2018.720p-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "season": "1",
+  "episode": "20",
+  "Duration": "437",
+  "enabled": true
+}
         ]
       }
     },
