@@ -4523,7 +4523,7 @@
         {
           "Title": "TLC",
           "Description": "Entretenimiento, estilo de vida y realities en vivo.",
-          "Url": "https://streamer.metronethn.com/TLC/index.m3u8",
+          "Url": "http://xtvpe.ddns.net:2400/play/a1pu/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-entretenimiento-tlc",
           "enabled": true
