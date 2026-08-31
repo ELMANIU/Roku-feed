@@ -4778,7 +4778,7 @@
         {
           "Title": "HBO",
           "Description": "Películas y producciones HBO en vivo.",
-          "Url": "https://streamer.metronethn.com/HBO/playlist.m3u8",
+          "Url": "http://xtvpe.ddns.net:2400/play/a1o1/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-hbo",
           "enabled": true
@@ -4794,7 +4794,7 @@
         {
           "Title": "HBO Family",
           "Description": "Películas para toda la familia en vivo.",
-          "Url": "https://streamer.metronethn.com/HBOFamily/playlist.m3u8",
+          "Url": "http://xtvpe.ddns.net:2400/play/a18t/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-hbo-family",
           "enabled": true
@@ -4802,7 +4802,7 @@
         {
           "Title": "HBO Xtreme",
           "Description": "Cine de acción y suspenso en vivo.",
-          "Url": "https://streamer.metronethn.com/HBOXtreme/playlist.m3u8",
+          "Url": "http://xtvpe.ddns.net:2400/play/a18u/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-hbo-xtreme",
           "enabled": true
@@ -4810,7 +4810,7 @@
         {
           "Title": "Cinemax",
           "Description": "Películas y cine en vivo.",
-          "Url": "https://streamer.metronethn.com/Cinemax/index.m3u8",
+          "Url": "http://xtvpe.ddns.net:2400/play/a1pr/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-cinemax",
           "enabled": true
@@ -4826,7 +4826,7 @@
         {
           "Title": "Space",
           "Description": "Cine de acción y entretenimiento en vivo.",
-          "Url": "https://streamer.metronethn.com/Space/index.m3u8",
+          "Url": "http://xtvpe.ddns.net:2400/play/a1p6/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-space",
           "enabled": true
@@ -5242,7 +5242,7 @@
         {
           "Title": "AMC",
           "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a09x/index.m3u8",
+          "Url": "http://xtvpe.ddns.net:2400/play/a1ah/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-amc",
           "enabled": true
@@ -5266,7 +5266,7 @@
         {
           "Title": "FX HD",
           "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a02i/index.m3u8",
+          "Url": "http://xtvpe.ddns.net:2400/play/a1p9/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-fx-hd",
           "enabled": true
@@ -5282,7 +5282,7 @@
         {
           "Title": "Golden Edge",
           "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a03v/index.m3u8",
+          "Url": "http://xtvpe.ddns.net:2400/play/a1b2/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-golden-edge",
           "enabled": true
@@ -5290,7 +5290,7 @@
         {
           "Title": "Golden HD R",
           "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a027/index.m3u8",
+          "Url": "http://xtvpe.ddns.net:2400/play/a1bb/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-golden-hd-r",
           "enabled": true
@@ -5457,7 +5457,7 @@
         {
           "Title": "A&E",
           "Description": "Series, realities y entretenimiento en vivo.",
-          "Url": "https://streamer.metronethn.com/AE/playlist.m3u8",
+          "Url": "http://xtvpe.ddns.net:2400/play/a17a/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-series-a-e",
           "enabled": true
@@ -5465,7 +5465,7 @@
         {
           "Title": "AXN",
           "Description": "Series de acción y suspenso en vivo.",
-          "Url": "https://streamer.metronethn.com/AXN/playlist.m3u8",
+          "Url": "http://xtvpe.ddns.net:2400/play/a1p4/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-series-axn",
           "enabled": true
