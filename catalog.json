@@ -6,6 +6,96 @@
   "replaceLocalTv": true,
   "movies": [
     {
+  "Title": "Terrifier (2016)",
+  "Section": "Terror",
+  "Year": "2016",
+  "Genre": "Terror · Slasher · Gore",
+  "Runtime": "85 min",
+  "Director": "Damien Leone",
+  "Cast": "Jenna Kanell, Samantha Scaffidi, David Howard Thornton, Catherine Corcoran",
+  "Language": "Español Latino",
+  "Country": "Estados Unidos",
+  "Quality": "FHD",
+  "Description": "En la noche de Halloween, dos jóvenes se convierten en el objetivo de Art the Clown, un perturbador payaso que desata una brutal noche de terror y violencia.",
+  "Logo": "https://image.tmdb.org/t/p/original/fjXqhGmaeQpB73WerhrYU6HlyV5.jpg",
+  "Stream": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Terrifier.2016.1080P-Dual-Lat.mp4",
+  "streamFormat": "mp4",
+  "id": "movie-terrifier-2016",
+  "enabled": true
+},
+{
+  "Title": "El Escuadrón Suicida (2021)",
+  "Section": "Acción",
+  "Year": "2021",
+  "Genre": "Acción · Aventura · Comedia · Superhéroes",
+  "Runtime": "132 min",
+  "Director": "James Gunn",
+  "Cast": "Margot Robbie, Idris Elba, John Cena, Joel Kinnaman, Daniela Melchior, Viola Davis",
+  "Language": "Español Latino",
+  "Country": "Estados Unidos",
+  "Quality": "FHD",
+  "Description": "Un grupo de peligrosos supervillanos es enviado a la isla de Corto Maltese en una misión secreta y prácticamente suicida para destruir una amenaza de enormes proporciones.",
+  "Logo": "https://image.tmdb.org/t/p/original/q61qEyssk2ku3okWICKArlAdhBn.jpg",
+  "Stream": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/The.suicide.squad.2021.1080P-Dual-Lat.mp4",
+  "streamFormat": "mp4",
+  "id": "movie-el-escuadron-suicida-2021",
+  "enabled": true
+},
+{
+  "Title": "Escuadrón suicida (2016)",
+  "Section": "Acción",
+  "Year": "2016",
+  "Genre": "Acción · Aventura · Fantasía · Superhéroes",
+  "Runtime": "123 min",
+  "Director": "David Ayer",
+  "Cast": "Will Smith, Jared Leto, Margot Robbie, Joel Kinnaman, Viola Davis, Jai Courtney, Cara Delevingne",
+  "Language": "Español Latino",
+  "Country": "Estados Unidos",
+  "Quality": "FHD",
+  "Description": "Una agencia secreta del gobierno reúne a varios de los criminales más peligrosos del mundo para realizar misiones de alto riesgo a cambio de reducir sus condenas.",
+  "Logo": "https://image.tmdb.org/t/p/original/sk3FZgh3sRrmr8vyhaitNobMcfh.jpg",
+  "Stream": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Suicide.squad.2016.1080p-dual-lat.mp4",
+  "streamFormat": "mp4",
+  "id": "movie-escuadron-suicida-2016",
+  "enabled": true
+},
+{
+  "Title": "Mountainhead (2025)",
+  "Section": "Comedia",
+  "Year": "2025",
+  "Genre": "Comedia · Drama",
+  "Runtime": "108 min",
+  "Director": "Jesse Armstrong",
+  "Cast": "Steve Carell, Jason Schwartzman, Cory Michael Smith, Ramy Youssef",
+  "Language": "Español Latino",
+  "Country": "Estados Unidos",
+  "Quality": "FHD",
+  "Description": "Cuatro multimillonarios vinculados al mundo de la tecnología se reúnen en una lujosa residencia mientras una creciente crisis internacional amenaza con alterar el mundo que ayudaron a construir.",
+  "Logo": "https://image.tmdb.org/t/p/original/jZKK5mFKWbquxhAGMkRJtNYwk0I.jpg",
+  "Stream": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Mountainhead.2025.1080P-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "id": "movie-mountainhead-2025",
+  "enabled": true
+},
+{
+  "Title": "El reino prohibido (2008)",
+  "Section": "Acción",
+  "Year": "2008",
+  "Genre": "Acción · Aventura · Fantasía · Artes marciales",
+  "Runtime": "104 min",
+  "Director": "Rob Minkoff",
+  "Cast": "Jackie Chan, Jet Li, Michael Angarano, Liu Yifei, Li Bingbing, Collin Chou",
+  "Language": "Español Latino",
+  "Country": "Estados Unidos · China · Hong Kong",
+  "Quality": "FHD",
+  "Description": "Un joven aficionado al kung-fu encuentra un antiguo báculo que lo transporta a la China legendaria, donde deberá unirse a varios maestros de las artes marciales para liberar al Rey Mono.",
+  "Logo": "https://image.tmdb.org/t/p/original/2Cl8oOuNiBPJGNYZzbyRR6BDhKd.jpg",
+  "Stream": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/El.Reino.Prohibido.2008.1080P-Dual-Lat.mkv",
+  "streamFormat": "mkv",
+  "id": "movie-el-reino-prohibido-2008",
+  "enabled": true
+},
+    {
       "Title": "Alvin y las Ardillas: Aventura sobre ruedas (2015)",
       "Section": "Animación",
       "Description": "Alvin, Simón y Teodoro se embarcan en una divertida aventura sobre ruedas.",
@@ -7055,7 +7145,13 @@
             "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Ong-Bak2.2008.1080P-Dual-Lat.mp4",
             "streamFormat": "mp4",
             "Duration": 5880
-          }
+          },
+          {
+      "Title": "El reino prohibido",
+      "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/El.Reino.Prohibido.2008.1080P-Dual-Lat.mkv",
+      "streamFormat": "mkv",
+      "Duration": 6240
+    }
         ]
       }
     }
