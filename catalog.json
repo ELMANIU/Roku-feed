@@ -4531,7 +4531,7 @@
         {
           "Title": "Adult Swim",
           "Description": "Animación y entretenimiento para adultos en vivo.",
-          "Url": "https://streamer.metronethn.com/AdultSwim/index.m3u8",
+          "Url": "https://canal-bluey.elmanuchale.workers.dev/live.m3u8",
           "streamFormat": "hls",
           "id": "tv-entretenimiento-adult-swim",
           "enabled": true
