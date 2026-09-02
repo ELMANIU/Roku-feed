@@ -6533,7 +6533,7 @@
         {
           "Title": "VVD DISNEY JUNIOR",
           "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a0tg/index.m3u8",
+          "Url": "http://45.226.28.9:8085/Live/ea8418ffa14fcd9d5581c06e2153361e/local-disneychannel.playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-infantil-vvd-disney-junior",
           "enabled": true
