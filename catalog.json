@@ -7116,6 +7116,70 @@
       }
     },
     {
+  "id": "equipo-umizoomi-247",
+  "enabled": true,
+  "Title": "Equipo Umizoomi 24/7",
+  "Description": "Canal lineal 24/7 de Equipo Umizoomi.",
+  "CategoryKey": "24_7",
+  "CategoryTitle": "24/7",
+  "specialKey": "equipoUmizoomi247",
+  "channelMode": "linear",
+  "playerStyle": "generic247",
+  "linearAnchor": 1787875200,
+  "tagline": "Equipo Umizoomi 24/7",
+  "bugUrl": "https://static.wikia.nocookie.net/logopedia/images/f/f7/TeamUmizoomiHQ.png/revision/latest?cb=20150708195811",
+  "schedule": {
+    "type": "playlist",
+    "items": [
+      {
+        "Title": "Equipo Umizoomi S01E01",
+        "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Equipo%20umizumi/Equipo%20Umizoomi%20S01E01.mp4",
+        "streamFormat": "mp4",
+        "season": "1",
+        "episode": "1",
+        "Duration": "1380",
+        "enabled": true
+      },
+      {
+        "Title": "Equipo Umizoomi S01E02",
+        "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Equipo%20umizumi/Equipo%20Umizoomi%20S01E02.mp4",
+        "streamFormat": "mp4",
+        "season": "1",
+        "episode": "2",
+        "Duration": "1380",
+        "enabled": true
+      },
+      {
+        "Title": "Equipo Umizoomi S01E03",
+        "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Equipo%20umizumi/Equipo%20Umizoomi%20S01E03.mp4",
+        "streamFormat": "mp4",
+        "season": "1",
+        "episode": "3",
+        "Duration": "1380",
+        "enabled": true
+      },
+      {
+        "Title": "Equipo Umizoomi S01E04",
+        "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Equipo%20umizumi/Equipo%20Umizoomi%20S01E04.mp4",
+        "streamFormat": "mp4",
+        "season": "1",
+        "episode": "4",
+        "Duration": "1380",
+        "enabled": true
+      },
+      {
+        "Title": "Equipo Umizoomi S01E05",
+        "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/Equipo%20umizumi/Equipo%20Umizoomi%20S01E05.mp4",
+        "streamFormat": "mp4",
+        "season": "1",
+        "episode": "5",
+        "Duration": "1380",
+        "enabled": true
+      }
+    ]
+  }
+},
+    {
       "id": "fenix-channel",
       "enabled": true,
       "Title": "Fénix Channel",
