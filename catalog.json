@@ -6389,7 +6389,7 @@
         {
           "Title": "Disney Junior",
           "Description": "Programación infantil de Disney en vivo.",
-          "Url": "https://streamer.metronethn.com/DisneyJR/index.m3u8",
+          "Url": "http://45.226.28.9:8085/Live/5a13eba449269ad831f5bc9fd563ccb3/local-hbofamily_720.m3u8",
           "streamFormat": "hls",
           "id": "tv-infantil-disney-junior",
           "enabled": true
