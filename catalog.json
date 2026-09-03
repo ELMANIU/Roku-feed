@@ -4746,7 +4746,7 @@
         {
           "Title": "Golden",
           "Description": "Películas y cine en español en vivo.",
-          "Url": "https://streamer.metronethn.com/Golden/index.m3u8",
+          "Url": "http://38.224.175.2:8000/play/a027/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-golden",
           "enabled": true
@@ -4754,7 +4754,7 @@
         {
           "Title": "Golden Edge",
           "Description": "Cine de acción y suspenso en vivo.",
-          "Url": "https://streamer.metronethn.com/GoldenEdge/index.m3u8",
+          "Url": "http://38.224.175.2:8000/play/a03v/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-golden-edge",
           "enabled": true
@@ -4762,7 +4762,7 @@
         {
           "Title": "TCM",
           "Description": "Cine clásico en vivo.",
-          "Url": "https://streamer.metronethn.com/TCM/playlist.m3u8",
+          "Url": "http://38.224.175.2:8000/play/a03w/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-tcm",
           "enabled": true
@@ -4770,7 +4770,7 @@
         {
           "Title": "TNT",
           "Description": "Películas y entretenimiento en vivo.",
-          "Url": "https://streamer.metronethn.com/TNT/playlist.m3u8",
+          "Url": "http://38.224.175.2:8000/play/a06y/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-tnt",
           "enabled": true
@@ -4794,7 +4794,7 @@
         {
           "Title": "HBO Family",
           "Description": "Películas para toda la familia en vivo.",
-          "Url": "http://xtvpe.ddns.net:2400/play/a18t/index.m3u8",
+          "Url": "http://38.224.175.2:8000/play/a07x/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-hbo-family",
           "enabled": true
@@ -4802,7 +4802,7 @@
         {
           "Title": "HBO Xtreme",
           "Description": "Cine de acción y suspenso en vivo.",
-          "Url": "http://xtvpe.ddns.net:2400/play/a18u/index.m3u8",
+          "Url": "http://38.224.175.2:8000/play/a00p/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-hbo-xtreme",
           "enabled": true
@@ -4810,7 +4810,7 @@
         {
           "Title": "Cinemax",
           "Description": "Películas y cine en vivo.",
-          "Url": "http://xtvpe.ddns.net:2400/play/a1pr/index.m3u8",
+          "Url": "http://38.224.175.2:8000/play/a01u/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-cinemax",
           "enabled": true
