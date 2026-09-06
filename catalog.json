@@ -6,6 +6,24 @@
   "replaceLocalTv": true,
   "movies": [
     {
+  "Title": "Una historia de supervivencia (2023)",
+  "Section": "Drama",
+  "Year": "2023",
+  "Genre": "Drama · Historia · Guerra · Supervivencia",
+  "Runtime": "100 min",
+  "Director": "Rebecca Snow",
+  "Cast": "Jett Klyne, Emersyn O'Neill, Joshua Peace, Richard Armitage",
+  "Language": "Español Latino",
+  "Country": "Canadá",
+  "Quality": "FHD",
+  "Description": "Durante la Segunda Guerra Mundial, Max, un niño judío que se separa de su familia, debe aprender a sobrevivir en los bosques mientras intenta escapar de los nazis y encontrar una forma de mantenerse con vida.",
+  "Logo": "https://image.tmdb.org/t/p/original/nPxX8S8J98w7sNMZqz3lDOvRRwZ.jpg",
+  "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/90/s8/2/K/V/T/R/KVTRA.aaa.mkv",
+  "streamFormat": "mkv",
+  "id": "movie-una-historia-de-supervivencia-2023",
+  "enabled": true
+},
+    {
   "Title": "Terrifier (2016)",
   "Section": "Terror",
   "Year": "2016",
