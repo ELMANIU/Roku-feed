@@ -4784,6 +4784,14 @@
           "enabled": true
         },
         {
+          "Title": "HBO HD",
+          "Description": "Películas y producciones HBO en vivo.",
+          "Url": "http://181.119.177.253:8000/play/a00x/index.m3u8",
+          "streamFormat": "hls",
+          "id": "tv-peliculas-hbohd",
+          "enabled": true
+        },
+        {
           "Title": "HBO Plus",
           "Description": "Películas y entretenimiento premium en vivo.",
           "Url": "http://181.119.177.253:8000/play/a00z/index.m3u8",
