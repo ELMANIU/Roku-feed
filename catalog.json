@@ -4531,7 +4531,7 @@
         {
           "Title": "Adult Swim",
           "Description": "Animación y entretenimiento para adultos en vivo.",
-          "Url": "https://canal-bluey.elmanuchale.workers.dev/live.m3u8",
+          "Url": "http://38.224.175.2:8000/play/a03e/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-entretenimiento-adult-swim",
           "enabled": true
@@ -4539,7 +4539,7 @@
         {
           "Title": "Universal",
           "Description": "Series, películas y entretenimiento en vivo.",
-          "Url": "https://streamer.metronethn.com/Universal/index.m3u8",
+          "Url": "http://38.224.175.2:8000/play/a07w/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-entretenimiento-universal",
           "enabled": true
@@ -4547,7 +4547,7 @@
         {
           "Title": "MTV",
           "Description": "Música, realities y entretenimiento en vivo.",
-          "Url": "https://streamer.metronethn.com/MTV/index.m3u8",
+          "Url": "http://38.224.175.2:8000/play/a087/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-entretenimiento-mtv",
           "enabled": true
@@ -4555,7 +4555,7 @@
         {
           "Title": "Lifetime",
           "Description": "Series, películas y entretenimiento en vivo.",
-          "Url": "https://streamer.metronethn.com/Lifetime/index.m3u8",
+          "Url": "http://38.224.175.2:8000/play/a03d/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-entretenimiento-lifetime",
           "enabled": true
@@ -4778,7 +4778,7 @@
         {
           "Title": "HBO",
           "Description": "Películas y producciones HBO en vivo.",
-          "Url": "http://xtvpe.ddns.net:2400/play/a1o1/index.m3u8",
+          "Url": "http://181.119.177.253:8000/play/a00x/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-hbo",
           "enabled": true
@@ -4786,7 +4786,7 @@
         {
           "Title": "HBO Plus",
           "Description": "Películas y entretenimiento premium en vivo.",
-          "Url": "https://streamer.metronethn.com/HBOPlus/playlist.m3u8",
+          "Url": "http://181.119.177.253:8000/play/a00z/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-hbo-plus",
           "enabled": true
@@ -4818,7 +4818,7 @@
         {
           "Title": "Sony Movies",
           "Description": "Películas de Sony en vivo.",
-          "Url": "https://streamer.metronethn.com/SonyMovies/index.m3u8",
+          "Url": "http://181.119.177.253:8000/play/a0dk/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-sony-movies",
           "enabled": true
@@ -4834,7 +4834,7 @@
         {
           "Title": "Studio Universal",
           "Description": "Cine y películas de Studio Universal en vivo.",
-          "Url": "https://streamer.metronethn.com/StudioUniversal/playlist.m3u8",
+          "Url": "http://181.119.177.253:8000/play/a0db/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-studio-universal",
           "enabled": true
@@ -5449,7 +5449,7 @@
         {
           "Title": "AMC",
           "Description": "Series y películas de AMC en vivo.",
-          "Url": "https://streamer.metronethn.com/AMC/playlist.m3u8",
+          "Url": "http://181.119.177.253:8000/play/a0dg/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-series-amc",
           "enabled": true
@@ -5473,7 +5473,7 @@
         {
           "Title": "Pasiones",
           "Description": "Telenovelas y dramas en vivo.",
-          "Url": "https://streamer.metronethn.com/Pasiones/index.m3u8",
+          "Url": "http://181.119.177.253:8000/play/a0ct/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-series-pasiones",
           "enabled": true
@@ -5481,7 +5481,7 @@
         {
           "Title": "Warner",
           "Description": "Series y entretenimiento Warner en vivo.",
-          "Url": "https://streamer.metronethn.com/Warner/index.m3u8",
+          "Url": "http://181.119.177.253:8000/play/a0eg/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-series-warner",
           "enabled": true
@@ -5489,7 +5489,7 @@
         {
           "Title": "Sony",
           "Description": "Series y entretenimiento Sony en vivo.",
-          "Url": "https://streamer.metronethn.com/SONY/index.m3u8",
+          "Url": "http://181.119.177.253:8000/play/a03z/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-series-sony",
           "enabled": true
@@ -5497,7 +5497,7 @@
         {
           "Title": "TNT Series",
           "Description": "Series y producciones TNT en vivo.",
-          "Url": "https://streamer.metronethn.com/TNT_Series/index.m3u8",
+          "Url": "http://181.119.177.253:8000/play/a0cq/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-series-tnt-series",
           "enabled": true
@@ -5505,7 +5505,7 @@
         {
           "Title": "TNT Novelas",
           "Description": "Novelas y dramas en vivo.",
-          "Url": "https://streamer.metronethn.com/TNT_NOVELAS/playlist.m3u8",
+          "Url": "http://181.119.177.253:8000/play/a01n/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-series-tnt-novelas",
           "enabled": true
@@ -5513,7 +5513,7 @@
         {
           "Title": "RCN Novelas",
           "Description": "Telenovelas y series de RCN en vivo.",
-          "Url": "https://streamer.metronethn.com/RCNNovelas/index.m3u8",
+          "Url": "http://181.119.177.253:8000/play/a037/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-series-rcn-novelas",
           "enabled": true
@@ -5600,7 +5600,7 @@
         {
           "Title": "ESPN Deportes",
           "Description": "Programación deportiva en español en vivo.",
-          "Url": "https://streamer.metronethn.com/EspnDeportes/index.m3u8",
+          "Url": "http://181.119.177.253:8000/play/a0ck/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-deportes-espn-deportes",
           "enabled": true
@@ -5608,7 +5608,7 @@
         {
           "Title": "ESPN 6",
           "Description": "Eventos y programación deportiva en vivo.",
-          "Url": "https://streamer.metronethn.com/ESPN6/index.m3u8",
+          "Url": "http://181.119.177.253:8000/play/a0cn/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-deportes-espn-6",
           "enabled": true
@@ -5799,7 +5799,7 @@
         {
           "Title": "Discovery",
           "Description": "Ciencia, tecnología y documentales en vivo.",
-          "Url": "https://streamer.metronethn.com/Discovery/index.m3u8",
+          "Url": "http://181.119.177.253:8000/play/a0cr/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-documentales-discovery",
           "enabled": true
@@ -5807,7 +5807,7 @@
         {
           "Title": "Animal Planet",
           "Description": "Naturaleza y vida animal en vivo.",
-          "Url": "https://streamer.metronethn.com/AnimalPlanet/index.m3u8",
+          "Url": "http://181.119.177.253:8000/play/a0dc/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-documentales-animal-planet",
           "enabled": true
@@ -5815,7 +5815,7 @@
         {
           "Title": "National Geographic",
           "Description": "Ciencia, historia y naturaleza en vivo.",
-          "Url": "https://streamer.metronethn.com/NatGeo/index.m3u8",
+          "Url": "http://181.119.177.253:8000/play/a0co/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-documentales-national-geographic",
           "enabled": true
@@ -5823,7 +5823,7 @@
         {
           "Title": "History",
           "Description": "Historia y documentales en vivo.",
-          "Url": "https://streamer.metronethn.com/History/index.m3u8",
+          "Url": "http://181.119.177.253:8000/play/a0en/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-documentales-history",
           "enabled": true
@@ -5831,7 +5831,7 @@
         {
           "Title": "H2",
           "Description": "Historia, ciencia y documentales en vivo.",
-          "Url": "https://streamer.metronethn.com/H2/index.m3u8",
+          "Url": "http://181.119.177.253:8000/play/a039/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-documentales-h2",
           "enabled": true
@@ -5839,7 +5839,7 @@
         {
           "Title": "Discovery World",
           "Description": "Viajes, cultura y documentales en vivo.",
-          "Url": "https://streamer.metronethn.com/DiscoveryWorld/index.m3u8",
+          "Url": "http://181.119.177.253:8000/play/a0cs/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-documentales-discovery-world",
           "enabled": true
@@ -5847,7 +5847,7 @@
         {
           "Title": "Investigation Discovery",
           "Description": "Investigación y crimen real en vivo.",
-          "Url": "https://streamer.metronethn.com/DiscoveryID/index.m3u8",
+          "Url": "http://181.119.177.253:8000/play/a0cv/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-documentales-investigation-discovery",
           "enabled": true
@@ -5855,7 +5855,7 @@
         {
           "Title": "Discovery Turbo",
           "Description": "Motores, tecnología y velocidad en vivo.",
-          "Url": "https://streamer.metronethn.com/DiscoveryTurbo/index.m3u8",
+          "Url": "http://181.119.177.253:8000/play/a04k/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-documentales-discovery-turbo",
           "enabled": true
@@ -5863,7 +5863,7 @@
         {
           "Title": "Discovery Science",
           "Description": "Ciencia y tecnología en vivo.",
-          "Url": "https://streamer.metronethn.com/DiscoveryScience/index.m3u8",
+          "Url": "http://38.224.175.2:8000/play/a00g/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-documentales-discovery-science",
           "enabled": true
@@ -5871,7 +5871,7 @@
         {
           "Title": "Discovery Theater",
           "Description": "Documentales y producciones especiales en vivo.",
-          "Url": "https://streamer.metronethn.com/DiscoveryTheater/index.m3u8",
+          "Url": "http://38.224.175.2:8000/play/a06w/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-documentales-discovery-theater",
           "enabled": true
@@ -5879,7 +5879,7 @@
         {
           "Title": "Discovery H&H",
           "Description": "Hogar, salud y estilo de vida en vivo.",
-          "Url": "https://streamer.metronethn.com/DiscoveryHH/index.m3u8",
+          "Url": "http://38.224.175.2:8000/play/a080/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-documentales-discovery-h-h",
           "enabled": true
@@ -5887,7 +5887,7 @@
         {
           "Title": "HGTV",
           "Description": "Hogar, diseño y renovación en vivo.",
-          "Url": "https://streamer.metronethn.com/HGTV/index.m3u8",
+          "Url": "http://38.224.175.2:8000/play/a03b/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-documentales-hgtv",
           "enabled": true
@@ -6244,9 +6244,9 @@
           "enabled": true
         },
         {
-          "Title": "TVE",
+          "Title": "TV+",
           "Description": "Programación internacional de España en vivo.",
-          "Url": "https://streamer.metronethn.com/TVE/playlist.m3u8",
+          "Url": "http://38.224.175.2:8000/play/a020/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-internacional-tve",
           "enabled": true
@@ -6254,7 +6254,7 @@
         {
           "Title": "Telemundo",
           "Description": "Entretenimiento y programación internacional en vivo.",
-          "Url": "https://streamer.metronethn.com/Telemundo/index.m3u8",
+          "Url": "http://38.224.175.2:8000/play/a01w/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-internacional-telemundo",
           "enabled": true
@@ -6262,25 +6262,9 @@
         {
           "Title": "Univision",
           "Description": "Noticias y entretenimiento hispano en vivo.",
-          "Url": "https://streamer.metronethn.com/Univision/index.m3u8",
+          "Url": "http://181.119.177.253:8000/play/a0cu/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-internacional-univision",
-          "enabled": true
-        },
-        {
-          "Title": "VTV",
-          "Description": "Programación internacional en vivo.",
-          "Url": "https://streamer.metronethn.com/VTV/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-internacional-vtv",
-          "enabled": true
-        },
-        {
-          "Title": "Antena 3",
-          "Description": "Programación internacional de España en vivo.",
-          "Url": "https://streamer.metronethn.com/Antena3/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-internacional-antena-3",
           "enabled": true
         },
         {
@@ -6397,7 +6381,7 @@
         {
           "Title": "Tooncast",
           "Description": "Caricaturas y animación en vivo.",
-          "Url": "https://streamer.metronethn.com/Tooncast/index.m3u8",
+          "Url": "http://181.119.177.253:8000/play/a03p/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-infantil-tooncast",
           "enabled": true
@@ -6405,7 +6389,7 @@
         {
           "Title": "Cartoonito",
           "Description": "Programación para los más pequeños en vivo.",
-          "Url": "https://streamer.metronethn.com/Cartoonito/index.m3u8",
+          "Url": "http://181.119.177.253:8000/play/a01e/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-infantil-cartoonito",
           "enabled": true
@@ -6413,7 +6397,7 @@
         {
           "Title": "Cartoon Network",
           "Description": "Caricaturas y series animadas en vivo.",
-          "Url": "https://streamer.metronethn.com/CartoonNetwork/index.m3u8",
+          "Url": "http://181.119.177.253:8000/play/a00w/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-infantil-cartoon-network",
           "enabled": true
@@ -6421,7 +6405,7 @@
         {
           "Title": "Discovery Kids",
           "Description": "Programación educativa e infantil en vivo.",
-          "Url": "https://streamer.metronethn.com/DiscoveryKids/index.m3u8",
+          "Url": "http://181.119.177.253:8000/play/a04h/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-infantil-discovery-kids",
           "enabled": true
@@ -6429,7 +6413,7 @@
         {
           "Title": "BabyTV",
           "Description": "Programación para bebés y preescolares en vivo.",
-          "Url": "https://streamer.metronethn.com/BabyTV/index.m3u8",
+          "Url": "http://181.119.177.253:8000/play/a06c/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-infantil-babytv",
           "enabled": true
@@ -6533,7 +6517,7 @@
         {
           "Title": "VVD DISNEY JUNIOR",
           "Description": "Canal en vivo.",
-          "Url": "http://45.226.28.9:8085/Live/ea8418ffa14fcd9d5581c06e2153361e/local-disneychannel.playlist.m3u8",
+          "Url": "http://181.119.177.253:8000/play/a0em/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-infantil-vvd-disney-junior",
           "enabled": true
