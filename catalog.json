@@ -6664,9 +6664,9 @@
       "Description": "Anime, caricaturas y series con programación continua.",
       "Channels": [
         {
-          "Title": "MCU 24/7",
-          "Description": "Marvel Cinematic Universe 24 horas.",
-          "Url": "https://lbgo.bozztv.com/ssh101/ssh101/imcu/playlist.m3u8",
+          "Title": "GRAVITY FALLS 24/7",
+          "Description": "GRAVITY FALLS 24 horas.",
+          "Url": "https://canal-bluey.elmanuchale.workers.dev/gravityfalls/live.m3u8",
           "streamFormat": "hls",
           "id": "tv-24-7-mcu-24-7",
           "enabled": true
