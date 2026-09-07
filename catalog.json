@@ -6,6 +6,24 @@
   "replaceLocalTv": true,
   "movies": [
     {
+  "Title": "LEGO Star Wars: The Mandalorian (2026)",
+  "Section": "Animación",
+  "Year": "2026",
+  "Genre": "Animación · Acción · Aventura · Comedia · Ciencia ficción",
+  "Runtime": "49 min",
+  "Director": "Chris Buckley",
+  "Cast": "Gavin Hammon, Amy Sedaris, Rosario Dawson, Katee Sackhoff, Bill Burr, David Pasquesi",
+  "Language": "Español Latino",
+  "Country": "Estados Unidos",
+  "Quality": "FHD",
+  "Description": "El Mandaloriano y Grogu se reúnen con sus peculiares aliados para una celebración especial en honor a sus heroicas aventuras. Mientras sus amigos recuerdan sus momentos más importantes, una nueva amenaza pirata aparece y pone en peligro la tranquilidad de la galaxia.",
+  "Logo": "https://image.tmdb.org/t/p/original/6sUsn029xHGQxO8VAJXfYcHmKB7.jpg",
+  "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/7c/s8/2/4/R/X/V/4RXVA.aaa.mkv",
+  "streamFormat": "mkv",
+  "id": "movie-lego-star-wars-the-mandalorian-2026",
+  "enabled": true
+    },
+    {
   "Title": "Jim y el durazno gigante (1996)",
   "Section": "Animación",
   "Year": "1996",
