@@ -6782,6 +6782,22 @@
       "Description": "Anime, caricaturas y series con programación continua.",
       "Channels": [
         {
+  "Title": "EL SHOW DE SCOOBY-DOO Y SCRAPPY-DOO 24/7",
+  "Description": "EL SHOW DE SCOOBY-DOO Y SCRAPPY-DOO 24/7.",
+  "Url": "https://canal-bluey.elmanuchale.workers.dev/scooby/live.m3u8",
+  "streamFormat": "hls",
+  "id": "tv-scooby-scrappy-24-7",
+  "enabled": true
+},
+{
+  "Title": "FENIX MUSIC BANDA 24/7",
+  "Description": "FENIX MUSIC BANDA 24/7.",
+  "Url": "https://canal-bluey.elmanuchale.workers.dev/fenixmusic/live.m3u8",
+  "streamFormat": "hls",
+  "id": "tv-fenix-music-banda-24-7",
+  "enabled": true
+},
+        {
           "Title": "GRAVITY FALLS 24/7",
           "Description": "GRAVITY FALLS 24 horas.",
           "Url": "https://canal-bluey.elmanuchale.workers.dev/gravityfalls/live.m3u8",
