@@ -6,24 +6,6 @@
   "replaceLocalTv": true,
   "movies": [
   {
-    "Title": "Moana (2026)",
-    "Section": "Aventura",
-    "Year": "2026",
-    "Genre": "Aventura · Animación · Familia · Fantasía",
-    "Runtime": "N/D",
-    "Director": "Thomas Kail",
-    "Cast": "Catherine Laga'aia, Dwayne Johnson, Auli'i Cravalho, Alan Tudyk",
-    "Language": "Español Latino",
-    "Country": "Estados Unidos",
-    "Quality": "FHD",
-    "Description": "Moana emprende un nuevo viaje por los mares de Oceanía después de recibir un llamado inesperado de sus ancestros. Junto con nuevos aliados y enfrentando grandes desafíos, deberá descubrir secretos del océano para proteger a su pueblo.",
-    "Logo": "https://image.tmdb.org/t/p/original/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
-    "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/c2/s8/2/k/K/0/W/kK0WA.aaa.mkv",
-    "streamFormat": "mkv",
-    "id": "movie-moana-2026",
-    "enabled": true
-  },
-  {
     "Title": "La leyenda de los guardianes: Las lechuzas de Ga'Hoole (2010)",
     "Section": "Animación",
     "Year": "2010",
@@ -57,6 +39,24 @@
     "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/19/s8/2/Q/U/0/W/QU0WA.aaa.mkv",
     "streamFormat": "mkv",
     "id": "movie-la-furia-de-los-thundermans-2026",
+    "enabled": true
+  },
+    {
+    "Title": "Moana (2026)",
+    "Section": "Aventura",
+    "Year": "2026",
+    "Genre": "Aventura · Animación · Familia · Fantasía",
+    "Runtime": "N/D",
+    "Director": "Thomas Kail",
+    "Cast": "Catherine Laga'aia, Dwayne Johnson, Auli'i Cravalho, Alan Tudyk",
+    "Language": "Español Latino",
+    "Country": "Estados Unidos",
+    "Quality": "FHD",
+    "Description": "Moana emprende un nuevo viaje por los mares de Oceanía después de recibir un llamado inesperado de sus ancestros. Junto con nuevos aliados y enfrentando grandes desafíos, deberá descubrir secretos del océano para proteger a su pueblo.",
+    "Logo": "https://image.tmdb.org/t/p/original/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+    "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/c2/s8/2/k/K/0/W/kK0WA.aaa.mkv",
+    "streamFormat": "mkv",
+    "id": "movie-moana-2026",
     "enabled": true
   },
     {
