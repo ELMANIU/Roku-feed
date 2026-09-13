@@ -4844,22 +4844,6 @@
           "enabled": true
         },
         {
-          "Title": "FMH MOVIES",
-          "Description": "Películas en vivo.",
-          "Url": "http://45.186.254.75:8000/play/a07j/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-fmh-movies",
-          "enabled": true
-        },
-        {
-          "Title": "FMH FAMILY",
-          "Description": "Películas familiares en vivo.",
-          "Url": "http://45.186.254.75:8000/play/a07l/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-fmh-family",
-          "enabled": true
-        },
-        {
           "Title": "Popcorn Central",
           "Description": "Películas y cine en vivo.",
           "Url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16640",
