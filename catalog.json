@@ -6798,6 +6798,7 @@
         {
   "Title": "EL SHOW DE SCOOBY-DOO Y SCRAPPY-DOO 24/7",
   "Description": "EL SHOW DE SCOOBY-DOO Y SCRAPPY-DOO 24/7.",
+  "Logo": "https://image.tmdb.org/t/p/original/jGourdExU9LmIh56DxT6qe1OL0r.png",
   "Url": "https://canal-bluey.elmanuchale.workers.dev/scooby/live.m3u8",
   "streamFormat": "hls",
   "id": "tv-scooby-scrappy-24-7",
