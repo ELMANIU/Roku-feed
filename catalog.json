@@ -4597,35 +4597,11 @@
       "Description": "Canales de entretenimiento y programación variada.",
       "Channels": [
         {
-          "Title": "Canal 69 TV",
-          "Description": "Programación variada en vivo.",
-          "Url": "https://live20.bozztv.com/akamaissh101/ssh101/canal69tv/playlist.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-entretenimiento-canal-69-tv",
-          "enabled": true
-        },
-        {
-          "Title": "Retrox TV",
-          "Description": "Programación retro en vivo.",
-          "Url": "https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-entretenimiento-retrox-tv",
-          "enabled": true
-        },
-        {
           "Title": "Metro TV",
           "Description": "Programación general en vivo.",
           "Url": "https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8",
           "streamFormat": "hls",
           "id": "tv-entretenimiento-metro-tv",
-          "enabled": true
-        },
-        {
-          "Title": "Canal 70 TV",
-          "Description": "Programación variada en vivo.",
-          "Url": "https://183.bozztv.com/giatv/giatv-cnal70tv/cnal70tv/playlist.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-entretenimiento-canal-70-tv",
           "enabled": true
         },
         {
