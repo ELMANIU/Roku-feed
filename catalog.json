@@ -4886,7 +4886,7 @@
         {
           "Title": "Golden",
           "Description": "Películas y cine en español en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a027/index.m3u8",
+          "Url": "http://xtvpe.ddns.net:2400/play/a1bb/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-golden",
           "enabled": true
@@ -4894,7 +4894,7 @@
         {
           "Title": "Golden Edge",
           "Description": "Cine de acción y suspenso en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a03v/index.m3u8",
+          "Url": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/495.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-golden-edge",
           "enabled": true
