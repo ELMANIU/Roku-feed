@@ -4902,7 +4902,7 @@
         {
           "Title": "TCM",
           "Description": "Cine clásico en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a03w/index.m3u8",
+          "Url": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/862.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-tcm",
           "enabled": true
@@ -4910,7 +4910,7 @@
         {
           "Title": "TNT",
           "Description": "Películas y entretenimiento en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a06y/index.m3u8",
+          "Url": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/921.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-tnt",
           "enabled": true
@@ -4918,7 +4918,7 @@
         {
           "Title": "HBO",
           "Description": "Películas y producciones HBO en vivo.",
-          "Url": "http://181.119.177.253:8000/play/a00x/index.m3u8",
+          "Url": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/512.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-hbo",
           "enabled": true
@@ -4926,7 +4926,7 @@
         {
           "Title": "HBO HD",
           "Description": "Películas y producciones HBO en vivo.",
-          "Url": "http://181.119.177.253:8000/play/a00x/index.m3u8",
+          "Url": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/527.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-hbohd",
           "enabled": true
@@ -4934,7 +4934,7 @@
         {
           "Title": "HBO Plus",
           "Description": "Películas y entretenimiento premium en vivo.",
-          "Url": "http://181.119.177.253:8000/play/a00z/index.m3u8",
+          "Url": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/518.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-hbo-plus",
           "enabled": true
@@ -4942,7 +4942,7 @@
         {
           "Title": "HBO Family",
           "Description": "Películas para toda la familia en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a07x/index.m3u8",
+          "Url": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/525.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-hbo-family",
           "enabled": true
@@ -4950,7 +4950,7 @@
         {
           "Title": "HBO Xtreme",
           "Description": "Cine de acción y suspenso en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a00p/index.m3u8",
+          "Url": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/543.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-hbo-xtreme",
           "enabled": true
@@ -4958,7 +4958,7 @@
         {
           "Title": "Cinemax",
           "Description": "Películas y cine en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a01u/index.m3u8",
+          "Url": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/190.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-cinemax",
           "enabled": true
@@ -4966,7 +4966,7 @@
         {
           "Title": "Sony Movies",
           "Description": "Películas de Sony en vivo.",
-          "Url": "http://181.119.177.253:8000/play/a0dk/index.m3u8",
+          "Url": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/815.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-sony-movies",
           "enabled": true
@@ -4974,7 +4974,7 @@
         {
           "Title": "Space",
           "Description": "Cine de acción y entretenimiento en vivo.",
-          "Url": "http://xtvpe.ddns.net:2400/play/a1p6/index.m3u8",
+          "Url": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/823.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-space",
           "enabled": true
@@ -4982,7 +4982,7 @@
         {
           "Title": "Studio Universal",
           "Description": "Cine y películas de Studio Universal en vivo.",
-          "Url": "http://181.119.177.253:8000/play/a0db/index.m3u8",
+          "Url": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/845.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-studio-universal",
           "enabled": true
