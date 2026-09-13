@@ -4764,8 +4764,7 @@
   "streamFormat": "hls",
   "id": "premiere",
   "enabled": true,
-  "guideUrl": "https://canales-con-comerciales.elmanuchale.workers.dev/guide.json"
-},
+        },
         {
           "Title": "Sistema 1 TV",
           "Description": "Programación general en vivo.",
