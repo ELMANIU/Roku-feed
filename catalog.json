@@ -4759,22 +4759,40 @@
         {
   "Title": "FÉNIX PREMIER",
   "Description": "Estrenos y películas 24/7.",
-  "Logo": "TU_LOGO",
+  "Logo": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/file_00000000452c81fd8d72873263854d48.png",
+  "bugUrl": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/file_00000000452c81fd8d72873263854d48.png",
   "Url": "https://canales-con-comerciales.elmanuchale.workers.dev/premiere/live.m3u8",
+  "guideUrl": "https://canales-con-comerciales.elmanuchale.workers.dev/premiere/guide.json",
+  "statusUrl": "https://canales-con-comerciales.elmanuchale.workers.dev/premiere/status",
   "streamFormat": "hls",
   "id": "premiere",
-  "enabled": true,
-  "guideUrl": "https://canales-con-comerciales.elmanuchale.workers.dev/guide.json"
+  "showLogoOnVideo": true,
+  "hideLogoDuringCommercials": true,
+  "bugPosition": "top-right",
+  "bugWidth": 280,
+  "bugHeight": 125,
+  "bugOpacity": 0.88,
+  "epgPrefetch": true,
+  "enabled": true
 },
-        {
+{
   "Title": "FÉNIX MIX",
-  "Description": "Estrenos y películas 24/7.",
-  "Logo": "TU_LOGO",
+  "Description": "Series, películas y entretenimiento 24/7.",
+  "Logo": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/file_00000000380c81fd817fd5527f26d874.png",
+  "bugUrl": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/file_00000000380c81fd817fd5527f26d874.png",
   "Url": "https://canales-con-comerciales.elmanuchale.workers.dev/fenixmix/live.m3u8",
+  "guideUrl": "https://canales-con-comerciales.elmanuchale.workers.dev/fenixmix/guide.json",
+  "statusUrl": "https://canales-con-comerciales.elmanuchale.workers.dev/fenixmix/status",
   "streamFormat": "hls",
   "id": "fenixmix",
-  "enabled": true,
-  "guideUrl": "https://canales-con-comerciales.elmanuchale.workers.dev/fenixmix/guide.json"
+  "showLogoOnVideo": true,
+  "hideLogoDuringCommercials": true,
+  "bugPosition": "top-right",
+  "bugWidth": 280,
+  "bugHeight": 125,
+  "bugOpacity": 0.88,
+  "epgPrefetch": true,
+  "enabled": true
 },
         {
           "Title": "Sistema 1 TV",
