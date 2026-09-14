@@ -6860,14 +6860,24 @@
           "enabled": true
         },
         {
-          "Title": "BAJOTERRA 24/7",
-          "Description": "BAJOTERRA 24 horas.",
-          "logo": "https://i.pinimg.com/originals/78/19/78/781978699e110766e89c7f0b986ccd63.png",
-          "Url": "https://canal-bluey.elmanuchale.workers.dev/bajoterra/live.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-24-7-bajo-24-7",
-          "enabled": true
-        },
+  "Title": "BAJOTERRA 24/7",
+  "Description": "BAJOTERRA 24 horas.",
+  "Logo": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/file_00000000e06481f5a1ff52260b785d6f.png",
+  "bugUrl": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/file_00000000e06481f5a1ff52260b785d6f.png",
+  "Url": "https://canal-bluey.elmanuchale.workers.dev/bajoterra/live.m3u8",
+  "guideUrl": "https://canal-bluey.elmanuchale.workers.dev/bajoterra/guide.json",
+  "statusUrl": "https://canal-bluey.elmanuchale.workers.dev/bajoterra/status",
+  "streamFormat": "hls",
+  "id": "tv-24-7-bajo-24-7",
+  "showLogoOnVideo": true,
+  "hideLogoDuringCommercials": true,
+  "bugPosition": "top-right",
+  "bugWidth": 380,
+  "bugHeight": 192,
+  "bugOpacity": 0.88,
+  "epgPrefetch": true,
+  "enabled": true
+},
         {
           "Title": "Wow Movies 24/7",
           "Description": "Películas 24 horas.",
