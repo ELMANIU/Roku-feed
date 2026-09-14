@@ -4769,8 +4769,8 @@
   "showLogoOnVideo": true,
   "hideLogoDuringCommercials": true,
   "bugPosition": "top-right",
-  "bugWidth": 280,
-  "bugHeight": 125,
+  "bugWidth": 340,
+  "bugHeight": 152,
   "bugOpacity": 0.88,
   "epgPrefetch": true,
   "enabled": true
@@ -4788,8 +4788,8 @@
   "showLogoOnVideo": true,
   "hideLogoDuringCommercials": true,
   "bugPosition": "top-right",
-  "bugWidth": 280,
-  "bugHeight": 125,
+  "bugWidth": 340,
+  "bugHeight": 152,
   "bugOpacity": 0.88,
   "epgPrefetch": true,
   "enabled": true
