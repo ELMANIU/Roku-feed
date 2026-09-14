@@ -4767,6 +4767,16 @@
   "guideUrl": "https://canales-con-comerciales.elmanuchale.workers.dev/guide.json"
 },
         {
+  "Title": "FÉNIX MIX",
+  "Description": "Estrenos y películas 24/7.",
+  "Logo": "TU_LOGO",
+  "Url": "https://canales-con-comerciales.elmanuchale.workers.dev/fenixmix/live.m3u8",
+  "streamFormat": "hls",
+  "id": "fenixmix",
+  "enabled": true,
+  "guideUrl": "https://canales-con-comerciales.elmanuchale.workers.dev/fenixmix/guide.json"
+},
+        {
           "Title": "Sistema 1 TV",
           "Description": "Programación general en vivo.",
           "Url": "https://lbgo.bozztv.com/ssh101/ssh101/sistema1tv/playlist.m3u8",
