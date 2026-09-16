@@ -5342,91 +5342,27 @@
           "enabled": true
         },
         {
-          "Title": "Golden",
-          "Description": "Películas y cine en español en vivo.",
-          "Url": "http://xtvpe.ddns.net:2400/play/a1bb/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-golden",
-          "enabled": true
-        },
-        {
           "Title": "Golden Edge",
           "Description": "Cine de acción y suspenso en vivo.",
-          "Url": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/495.m3u8",
+          "Url": "https://cablered.iptvperu.tv:1936/cablered/goldenedge_new/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-golden-edge",
           "enabled": true
         },
         {
-          "Title": "TCM",
-          "Description": "Cine clásico en vivo.",
-          "Url": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/862.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-tcm",
-          "enabled": true
-        },
-        {
           "Title": "TNT",
           "Description": "Películas y entretenimiento en vivo.",
-          "Url": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/921.m3u8",
+          "Url": "https://cablered.iptvperu.tv:1936/cablered/tnt_new/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-tnt",
           "enabled": true
         },
         {
-          "Title": "HBO",
-          "Description": "Películas y producciones HBO en vivo.",
-          "Url": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/512.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-hbo",
-          "enabled": true
-        },
-        {
-          "Title": "HBO HD",
-          "Description": "Películas y producciones HBO en vivo.",
-          "Url": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/527.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-hbohd",
-          "enabled": true
-        },
-        {
-          "Title": "HBO Plus",
-          "Description": "Películas y entretenimiento premium en vivo.",
-          "Url": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/518.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-hbo-plus",
-          "enabled": true
-        },
-        {
-          "Title": "HBO Family",
-          "Description": "Películas para toda la familia en vivo.",
-          "Url": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/525.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-hbo-family",
-          "enabled": true
-        },
-        {
-          "Title": "HBO Xtreme",
-          "Description": "Cine de acción y suspenso en vivo.",
-          "Url": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/543.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-hbo-xtreme",
-          "enabled": true
-        },
-        {
-          "Title": "Cinemax",
+          "Title": "Cinecanal",
           "Description": "Películas y cine en vivo.",
-          "Url": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/190.m3u8",
+          "Url": "https://cablered.iptvperu.tv:1936/cablered/cinecanal_new/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-cinemax",
-          "enabled": true
-        },
-        {
-          "Title": "Sony Movies",
-          "Description": "Películas de Sony en vivo.",
-          "Url": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/815.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-sony-movies",
           "enabled": true
         },
         {
@@ -5435,14 +5371,6 @@
           "Url": "https://cablered.iptvperu.tv:1936/cablered/space_new/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-space",
-          "enabled": true
-        },
-        {
-          "Title": "Studio Universal",
-          "Description": "Cine y películas de Studio Universal en vivo.",
-          "Url": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/845.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-studio-universal",
           "enabled": true
         },
         {
@@ -5846,161 +5774,17 @@
           "enabled": true
         },
         {
-          "Title": "AMC",
-          "Description": "Canal en vivo.",
-          "Url": "http://xtvpe.ddns.net:2400/play/a1ah/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-amc",
-          "enabled": true
-        },
-        {
-          "Title": "AMC Series",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a03p/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-amc-series",
-          "enabled": true
-        },
-        {
-          "Title": "Cinemax",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a01u/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-cinemax",
-          "enabled": true
-        },
-        {
           "Title": "FX HD",
           "Description": "Canal en vivo.",
-          "Url": "http://xtvpe.ddns.net:2400/play/a1p9/index.m3u8",
+          "Url": "https://cablered.iptvperu.tv:1936/cablered/fx_new/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-fx-hd",
           "enabled": true
         },
         {
-          "Title": "Film&Arts",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a03n/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-film-arts",
-          "enabled": true
-        },
-        {
-          "Title": "Golden Edge",
-          "Description": "Canal en vivo.",
-          "Url": "http://xtvpe.ddns.net:2400/play/a1b2/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-golden-edge",
-          "enabled": true
-        },
-        {
-          "Title": "Golden HD R",
-          "Description": "Canal en vivo.",
-          "Url": "http://xtvpe.ddns.net:2400/play/a1bb/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-golden-hd-r",
-          "enabled": true
-        },
-        {
-          "Title": "HBO",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a0tr/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-hbo",
-          "enabled": true
-        },
-        {
-          "Title": "HBO 2 R",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a026/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-hbo-2-r",
-          "enabled": true
-        },
-        {
-          "Title": "HBO Family HD",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a07x/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-hbo-family-hd",
-          "enabled": true
-        },
-        {
-          "Title": "HBO Mundi",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a084/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-hbo-mundi",
-          "enabled": true
-        },
-        {
-          "Title": "HBO POP HD",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a0ts/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-hbo-pop-hd",
-          "enabled": true
-        },
-        {
-          "Title": "HBO Plus",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a00s/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-hbo-plus",
-          "enabled": true
-        },
-        {
-          "Title": "HBO Signature",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a082/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-hbo-signature",
-          "enabled": true
-        },
-        {
-          "Title": "HBO Xtreme HD",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a00p/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-hbo-xtreme-hd",
-          "enabled": true
-        },
-        {
-          "Title": "Sony HD",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a00q/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-sony-hd",
-          "enabled": true
-        },
-        {
-          "Title": "Sony Movies",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a07l/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-sony-movies",
-          "enabled": true
-        },
-        {
-          "Title": "Space HD",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a0u2/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-space-hd",
-          "enabled": true
-        },
-        {
-          "Title": "Studio Universal HD",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a06e/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-studio-universal-hd",
-          "enabled": true
-        },
-        {
           "Title": "TNT HD",
           "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a06y/index.m3u8",
+          "Url": "https://cablered.iptvperu.tv:1936/cablered/tnt_new/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-tnt-hd",
           "enabled": true
@@ -6008,7 +5792,7 @@
         {
           "Title": "TNT Novelas HD",
           "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a08p/index.m3u8",
+          "Url": "https://cablered.iptvperu.tv:1936/cablered/tntnovelas_new/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-tnt-novelas-hd",
           "enabled": true
@@ -6016,7 +5800,7 @@
         {
           "Title": "TNT Series",
           "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a09y/index.m3u8",
+          "Url": "https://cablered.iptvperu.tv:1936/cablered/tntseries_new/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-tnt-series",
           "enabled": true
@@ -6024,25 +5808,9 @@
         {
           "Title": "UNIVERSAL CHANNEL HD",
           "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a07w/index.m3u8",
+          "Url": "https://cablered.iptvperu.tv:1936/cablered/universalchannel_new/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-universal-channel-hd",
-          "enabled": true
-        },
-        {
-          "Title": "VVD CINECANAL",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a0t0/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-vvd-cinecanal",
-          "enabled": true
-        },
-        {
-          "Title": "VVD FX",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a0sz/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-vvd-fx",
           "enabled": true
         }
       ]
@@ -6052,38 +5820,6 @@
       "Key": "series",
       "Description": "Series, novelas y programación de ficción en vivo.",
       "Channels": [
-        {
-          "Title": "AMC",
-          "Description": "Series y películas de AMC en vivo.",
-          "Url": "http://181.119.177.253:8000/play/a0dg/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-series-amc",
-          "enabled": true
-        },
-        {
-          "Title": "A&E",
-          "Description": "Series, realities y entretenimiento en vivo.",
-          "Url": "http://xtvpe.ddns.net:2400/play/a17a/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-series-a-e",
-          "enabled": true
-        },
-        {
-          "Title": "AXN",
-          "Description": "Series de acción y suspenso en vivo.",
-          "Url": "http://xtvpe.ddns.net:2400/play/a1p4/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-series-axn",
-          "enabled": true
-        },
-        {
-          "Title": "Pasiones",
-          "Description": "Telenovelas y dramas en vivo.",
-          "Url": "http://181.119.177.253:8000/play/a0ct/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-series-pasiones",
-          "enabled": true
-        },
         {
           "Title": "Warner",
           "Description": "Series y entretenimiento Warner en vivo.",
@@ -6098,22 +5834,6 @@
           "Url": "http://181.119.177.253:8000/play/a03z/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-series-sony",
-          "enabled": true
-        },
-        {
-          "Title": "TNT Series",
-          "Description": "Series y producciones TNT en vivo.",
-          "Url": "http://181.119.177.253:8000/play/a0cq/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-series-tnt-series",
-          "enabled": true
-        },
-        {
-          "Title": "TNT Novelas",
-          "Description": "Novelas y dramas en vivo.",
-          "Url": "http://181.119.177.253:8000/play/a01n/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-series-tnt-novelas",
           "enabled": true
         },
         {
@@ -6157,14 +5877,6 @@
           "enabled": true
         },
         {
-          "Title": "The Blacklist",
-          "Description": "The Blacklist en vivo.",
-          "Url": "https://3b89cc08f6e6d00a61.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-834-ES-SONYONETHEBLACKLIST-LG_ES/playlist.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-series-the-blacklist",
-          "enabled": true
-        },
-        {
           "Title": "Runtime Series",
           "Description": "Series de Runtime en vivo.",
           "Url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=12863",
@@ -6204,22 +5916,6 @@
       "Description": "Eventos y programación deportiva.",
       "Channels": [
         {
-          "Title": "ESPN Deportes",
-          "Description": "Programación deportiva en español en vivo.",
-          "Url": "http://181.119.177.253:8000/play/a0ck/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-deportes-espn-deportes",
-          "enabled": true
-        },
-        {
-          "Title": "ESPN 6",
-          "Description": "Eventos y programación deportiva en vivo.",
-          "Url": "http://181.119.177.253:8000/play/a0cn/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-deportes-espn-6",
-          "enabled": true
-        },
-        {
           "Title": "Telemundo Deportes Ahora",
           "Description": "Noticias, análisis y eventos deportivos en vivo.",
           "Url": "https://d1rqgw5gocwo9i.cloudfront.net/10009/99951459/hls/master.m3u8?ads.xumo_channelId=99951459&ads.asnw=169843&ads.afid=442535792&ads.sfid=23780352&ads.caid=telemundodeportesahora_linear&ads.csid=xumo_&.m3u8",
@@ -6228,169 +5924,81 @@
           "enabled": true
         },
         {
-          "Title": "DSPORTS +",
+          "Title": "ESPN 1 HD",
           "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a011/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-deportes-dsports",
-          "enabled": true
-        },
-        {
-          "Title": "DSPORTS 1",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a09o/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-deportes-dsports-1",
-          "enabled": true
-        },
-        {
-          "Title": "DSPORTS 2",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a066/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-deportes-dsports-2",
-          "enabled": true
-        },
-        {
-          "Title": "ESPN 2 HD R",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a02a/index.m3u8",
+          "Url": "https://cablered.iptvperu.tv:1936/cablered/espn_new/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-deportes-espn-2-hd-r",
           "enabled": true
         },
         {
-          "Title": "ESPN 4 R",
+          "Title": "ESPN 2 HD",
           "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a075/index.m3u8",
+          "Url": "https://cablered.iptvperu.tv:1936/cablered/espn2_new/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-deportes-espn-4-r",
           "enabled": true
         },
         {
-          "Title": "ESPN HD R",
+          "Title": "ESPN 3 HD",
           "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a02d/index.m3u8",
+          "Url": "https://cablered.iptvperu.tv:1936/cablered/espn3_new/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-deportes-espn-hd-r",
           "enabled": true
         },
         {
-          "Title": "ESPN Premium HD",
+          "Title": "ESPN 4 HD",
           "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a05g/index.m3u8",
+          "Url": "https://cablered.iptvperu.tv:1936/cablered/espn4_new/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-deportes-espn-premium-hd",
           "enabled": true
         },
         {
-          "Title": "LIGA 1",
+          "Title": "ESPN 5 HD",
           "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a07s/index.m3u8",
+          "Url": "https://cablered.iptvperu.tv:1936/cablered/espn5_new/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-deportes-liga-1",
           "enabled": true
         },
         {
-          "Title": "Movistar Deportes",
+          "Title": "ESPN 6 HD",
           "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a08o/index.m3u8",
+          "Url": "https://cablered.iptvperu.tv:1936/cablered/espn6_new/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-deportes-movistar-deportes",
           "enabled": true
         },
         {
-          "Title": "REAL MADRID",
+          "Title": "ESPN 7 HD",
           "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a00x/index.m3u8",
+          "Url": "https://cablered.iptvperu.tv:1936/cablered/espn7_new/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-deportes-real-madrid",
           "enabled": true
         },
         {
-          "Title": "TNT Sports Premiun HD",
+          "Title": "TELEFORMULA HD",
           "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a0rb/index.m3u8",
+          "Url": "https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8",
           "streamFormat": "hls",
           "id": "tv-deportes-tnt-sports-premiun-hd",
           "enabled": true
         },
         {
-          "Title": "VVD ESPN 1",
+          "Title": "CLARO SPORT HD",
           "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a0t6/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-deportes-vvd-espn-1",
-          "enabled": true
-        },
-        {
-          "Title": "VVD ESPN 2",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a0t5/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-deportes-vvd-espn-2",
-          "enabled": true
-        },
-        {
-          "Title": "VVD ESPN 3",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a0t4/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-deportes-vvd-espn-3",
-          "enabled": true
-        },
-        {
-          "Title": "VVD ESPN 4",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a0t3/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-deportes-vvd-espn-4",
-          "enabled": true
-        },
-        {
-          "Title": "VVD ESPN 5",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a0t2/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-deportes-vvd-espn-5",
-          "enabled": true
-        },
-        {
-          "Title": "VVD ESPN 6",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a0t1/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-deportes-vvd-espn-6",
-          "enabled": true
-        },
-        {
-          "Title": "VVD ESPN 7",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a0l5/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-deportes-vvd-espn-7",
-          "enabled": true
-        },
-        {
-          "Title": "Via X Esports",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a03t/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-deportes-via-x-esports",
-          "enabled": true
-        },
-        {
-          "Title": "Win Sports+ HD",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a09r/index.m3u8",
+          "Url": "https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8",
           "streamFormat": "hls",
           "id": "tv-deportes-win-sports-hd",
           "enabled": true
         },
         {
-          "Title": "dsport 1 .. prueba 4",
+          "Title": "AYM SPORTS HD",
           "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a09w/index.m3u8",
+          "Url": "https://thm-it-roku.otteravision.com/thm/it/it_720p_high.m3u8",
           "streamFormat": "hls",
           "id": "tv-deportes-dsport-1-prueba-4",
           "enabled": true
@@ -6403,9 +6011,9 @@
       "Description": "Ciencia, historia, naturaleza y documentales en vivo.",
       "Channels": [
         {
-          "Title": "Discovery",
+          "Title": "Discovery HD",
           "Description": "Ciencia, tecnología y documentales en vivo.",
-          "Url": "http://181.119.177.253:8000/play/a0cr/index.m3u8",
+          "Url": "https://cablered.iptvperu.tv:1936/cablered/discoveryhd_new/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-documentales-discovery",
           "enabled": true
@@ -6413,7 +6021,7 @@
         {
           "Title": "Animal Planet",
           "Description": "Naturaleza y vida animal en vivo.",
-          "Url": "http://181.119.177.253:8000/play/a0dc/index.m3u8",
+          "Url": "https://cablered.iptvperu.tv:1936/cablered/animalplanet_new/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-documentales-animal-planet",
           "enabled": true
@@ -6421,39 +6029,15 @@
         {
           "Title": "National Geographic",
           "Description": "Ciencia, historia y naturaleza en vivo.",
-          "Url": "http://181.119.177.253:8000/play/a0co/index.m3u8",
+          "Url": "https://cablered.iptvperu.tv:1936/cablered/natgeo_new/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-documentales-national-geographic",
           "enabled": true
         },
         {
-          "Title": "History",
-          "Description": "Historia y documentales en vivo.",
-          "Url": "http://181.119.177.253:8000/play/a0en/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-documentales-history",
-          "enabled": true
-        },
-        {
-          "Title": "H2",
-          "Description": "Historia, ciencia y documentales en vivo.",
-          "Url": "http://181.119.177.253:8000/play/a039/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-documentales-h2",
-          "enabled": true
-        },
-        {
-          "Title": "Discovery World",
-          "Description": "Viajes, cultura y documentales en vivo.",
-          "Url": "http://181.119.177.253:8000/play/a0cs/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-documentales-discovery-world",
-          "enabled": true
-        },
-        {
           "Title": "Investigation Discovery",
           "Description": "Investigación y crimen real en vivo.",
-          "Url": "http://181.119.177.253:8000/play/a0cv/index.m3u8",
+          "Url": "https://cablered.iptvperu.tv:1936/cablered/discoveryid_new/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-documentales-investigation-discovery",
           "enabled": true
@@ -6461,7 +6045,7 @@
         {
           "Title": "Discovery Turbo",
           "Description": "Motores, tecnología y velocidad en vivo.",
-          "Url": "http://181.119.177.253:8000/play/a04k/index.m3u8",
+          "Url": "https://cablered.iptvperu.tv:1936/cablered/discoveryturbo_new/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-documentales-discovery-turbo",
           "enabled": true
@@ -6469,121 +6053,9 @@
         {
           "Title": "Discovery Science",
           "Description": "Ciencia y tecnología en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a00g/index.m3u8",
+          "Url": "https://cablered.iptvperu.tv:1936/cablered/discoveryscience_new/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-documentales-discovery-science",
-          "enabled": true
-        },
-        {
-          "Title": "Discovery Theater",
-          "Description": "Documentales y producciones especiales en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a06w/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-documentales-discovery-theater",
-          "enabled": true
-        },
-        {
-          "Title": "Discovery H&H",
-          "Description": "Hogar, salud y estilo de vida en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a080/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-documentales-discovery-h-h",
-          "enabled": true
-        },
-        {
-          "Title": "HGTV",
-          "Description": "Hogar, diseño y renovación en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a03b/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-documentales-hgtv",
-          "enabled": true
-        },
-        {
-          "Title": "Animal Planet HD",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a06v/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-documentales-animal-planet-hd",
-          "enabled": true
-        },
-        {
-          "Title": "Discovery Channel  HD",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a0u1/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-documentales-discovery-channel-hd",
-          "enabled": true
-        },
-        {
-          "Title": "Discovery H&H",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a080/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-documentales-discovery-h-h",
-          "enabled": true
-        },
-        {
-          "Title": "Discovery Kids HD",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a07k/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-documentales-discovery-kids-hd",
-          "enabled": true
-        },
-        {
-          "Title": "Discovery Science",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a00g/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-documentales-discovery-science",
-          "enabled": true
-        },
-        {
-          "Title": "Discovery Theater HD",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a06w/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-documentales-discovery-theater-hd",
-          "enabled": true
-        },
-        {
-          "Title": "Discovery Turbo",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a0u9/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-documentales-discovery-turbo",
-          "enabled": true
-        },
-        {
-          "Title": "History 2",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a0tk/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-documentales-history-2",
-          "enabled": true
-        },
-        {
-          "Title": "History Channel",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a068/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-documentales-history-channel",
-          "enabled": true
-        },
-        {
-          "Title": "ID - Investigation Discovery",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a067/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-documentales-id-investigation-discovery",
-          "enabled": true
-        },
-        {
-          "Title": "VVD NAT GEO CABLE MAX",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a0su/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-documentales-vvd-nat-geo-cable-max",
           "enabled": true
         }
       ]
