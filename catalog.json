@@ -5782,6 +5782,14 @@
           "enabled": true
         },
         {
+          "Title": "STAR CHANNEL HD",
+          "Description": "Canal en vivo.",
+          "Url": "https://cablered.iptvperu.tv:1936/cablered/starchannel_new/playlist.m3u8",
+          "streamFormat": "hls",
+          "id": "tv-peliculas-fx-hdf",
+          "enabled": true
+        },
+        {
           "Title": "TNT HD",
           "Description": "Canal en vivo.",
           "Url": "https://cablered.iptvperu.tv:1936/cablered/tnt_new/playlist.m3u8",
@@ -6451,31 +6459,23 @@
         {
           "Title": "Disney Junior",
           "Description": "Programación infantil de Disney en vivo.",
-          "Url": "http://45.226.28.9:8085/Live/5a13eba449269ad831f5bc9fd563ccb3/local-hbofamily_720.m3u8",
+          "Url": "https://cablered.iptvperu.tv:1936/cablered/disneyjunior_new/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-infantil-disney-junior",
           "enabled": true
         },
         {
-          "Title": "Tooncast",
+          "Title": "Disney Channel",
           "Description": "Caricaturas y animación en vivo.",
-          "Url": "http://181.119.177.253:8000/play/a03p/index.m3u8",
+          "Url": "https://cablered.iptvperu.tv:1936/cablered/disneychannel_new/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-infantil-tooncast",
           "enabled": true
         },
         {
-          "Title": "Cartoonito",
-          "Description": "Programación para los más pequeños en vivo.",
-          "Url": "http://181.119.177.253:8000/play/a01e/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-infantil-cartoonito",
-          "enabled": true
-        },
-        {
           "Title": "Cartoon Network",
           "Description": "Caricaturas y series animadas en vivo.",
-          "Url": "http://181.119.177.253:8000/play/a00w/index.m3u8",
+          "Url": "https://cablered.iptvperu.tv:1936/cablered/cartoonnetwork_new/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-infantil-cartoon-network",
           "enabled": true
@@ -6483,121 +6483,57 @@
         {
           "Title": "Discovery Kids",
           "Description": "Programación educativa e infantil en vivo.",
-          "Url": "http://181.119.177.253:8000/play/a04h/index.m3u8",
+          "Url": "https://cablered.iptvperu.tv:1936/cablered/discoverykids_new/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-infantil-discovery-kids",
           "enabled": true
         },
         {
-          "Title": "BabyTV",
-          "Description": "Programación para bebés y preescolares en vivo.",
-          "Url": "http://181.119.177.253:8000/play/a06c/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-infantil-babytv",
-          "enabled": true
-        },
-        {
           "Title": "Adult Swim",
           "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a03e/index.m3u8",
+          "Url": "https://cablered.iptvperu.tv:1936/cablered/adultswing_new/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-infantil-adult-swim",
           "enabled": true
         },
         {
-          "Title": "Baby First HD",
+          "Title": "Baby Firts Hd",
           "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a09t/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-infantil-baby-first-hd",
-          "enabled": true
-        },
-        {
-          "Title": "Baby TV",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a0u3/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-infantil-baby-tv",
-          "enabled": true
-        },
-        {
-          "Title": "Cartoon Network HD",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a07j/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-infantil-cartoon-network-hd",
-          "enabled": true
-        },
-        {
-          "Title": "Cartoonito",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a08k/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-infantil-cartoonito",
-          "enabled": true
-        },
-        {
-          "Title": "Disney Jr. R",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a028/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-infantil-disney-jr-r",
-          "enabled": true
-        },
-        {
-          "Title": "Nick HD",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a0tt/index.m3u8",
+          "Url": "https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8",
           "streamFormat": "hls",
           "id": "tv-infantil-nick-hd",
           "enabled": true
         },
         {
-          "Title": "Nick Jr.",
+          "Title": "Nick jr Club Hd",
           "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a081/index.m3u8",
+          "Url": "https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8",
           "streamFormat": "hls",
-          "id": "tv-infantil-nick-jr",
+          "id": "tv-infantil-nick-hdclub",
           "enabled": true
         },
         {
-          "Title": "Nickelodeon HD",
+          "Title": "Nickelodeon Clasico HD",
           "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a02s/index.m3u8",
+          "Url": "https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8",
           "streamFormat": "hls",
           "id": "tv-infantil-nickelodeon-hd",
           "enabled": true
         },
         {
-          "Title": "Teen Nick",
+          "Title": "Nickelodeon Toons HD",
           "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a03m/index.m3u8",
+          "Url": "https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8",
           "streamFormat": "hls",
-          "id": "tv-infantil-teen-nick",
+          "id": "tv-infantil-nickelodeon-hdtoons",
           "enabled": true
         },
         {
-          "Title": "Tooncast",
+          "Title": "Nickelodeon Teen HD",
           "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a03a/index.m3u8",
+          "Url": "https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8",
           "streamFormat": "hls",
-          "id": "tv-infantil-tooncast",
-          "enabled": true
-        },
-        {
-          "Title": "VVD DISNEY CHANNEL",
-          "Description": "Canal en vivo.",
-          "Url": "http://xtvpe.ddns.net:2400/play/a1p7/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-infantil-vvd-disney-channel",
-          "enabled": true
-        },
-        {
-          "Title": "VVD DISNEY JUNIOR",
-          "Description": "Canal en vivo.",
-          "Url": "http://181.119.177.253:8000/play/a0em/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-infantil-vvd-disney-junior",
+          "id": "tv-infantil-nickelodeon-hdten",
           "enabled": true
         }
       ]
@@ -6608,99 +6544,84 @@
       "Description": "Canales informativos y noticias en vivo.",
       "Channels": [
         {
-          "Title": "BBC News",
-          "Description": "Noticias internacionales en vivo.",
-          "Url": "https://streamer.metronethn.com/BBC_News/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-noticias-bbc-news",
-          "enabled": true
-        },
-        {
-          "Title": "France 24",
-          "Description": "Noticias internacionales en vivo.",
-          "Url": "https://streamer.metronethn.com/France24/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-noticias-france-24",
-          "enabled": true
-        },
-        {
-          "Title": "RT",
-          "Description": "Noticias y actualidad internacional en vivo.",
-          "Url": "https://streamer.metronethn.com/RT/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-noticias-rt",
-          "enabled": true
-        },
-        {
-          "Title": "24 Horas TVN",
+          "Title": "Univisión",
           "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a04a/index.m3u8",
+          "Logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_Univision_2019.svg",
+          "Url": "https://linear-254.frequency.stream:443/mt/studio/254/hls/master/playlist_1280x720.m3u8",
           "streamFormat": "hls",
-          "id": "tv-noticias-24-horas-tvn",
+          "id": "tv-noticias-telemundo-noticias",
           "enabled": true
         },
-        {
-          "Title": "CNN Chile",
+         {
+          "Title": "DPELICULA HD",
           "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a02u/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-noticias-cnn-chile",
-          "enabled": true
-        },
-        {
-          "Title": "CNN Español",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a0u7/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-noticias-cnn-espanol",
-          "enabled": true
-        },
-        {
-          "Title": "CNN International",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a034/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-noticias-cnn-international",
-          "enabled": true
-        },
-        {
-          "Title": "Canal 24 Horas",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a02w/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-noticias-canal-24-horas",
-          "enabled": true
-        },
-        {
-          "Title": "NTN24",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a03r/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-noticias-ntn24",
-          "enabled": true
-        },
-        {
-          "Title": "RT Noticias",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a083/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-noticias-rt-noticias",
-          "enabled": true
-        },
-        {
-          "Title": "TELEMUNDO NOTICIAS",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a05t/index.m3u8",
+           "Logo": "https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",
+          "Url": "http://138.121.15.230:9002/DEPELICULA/tracks-v1a1/manifest.m3u8",
           "streamFormat": "hls",
           "id": "tv-noticias-telemundo-noticias",
           "enabled": true
         },
         {
-          "Title": "prueba sdport 1",
+          "Title": "Morbido HD",
           "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a096/index.m3u8",
+          "Logo": "https://morbido.tv/wp-content/uploads/2024/02/Logo-Morbido-TV-Blanco.png",
+          "Url": "https://cablered.iptvperu.tv:1936/cablered/morbido_new/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-noticias-prueba-sdport-1",
+          "enabled": true
+        },
+        {
+          "Title": "DHE HD",
+          "Description": "Canal en vivo.",
+          "Logo": "https://static.wikia.nocookie.net/logopedia/images/f/f9/DHE2019.png/revision/latest?cb=20210514013226&path-prefix=es",
+          "Url": "https://cablered.iptvperu.tv:1936/cablered/dhe_new/playlist.m3u8",
+          "streamFormat": "hls",
+          "id": "tv-noticias-prueba-sdport-12",
+          "enabled": true
+        },
+        {
+          "Title": "Tlnovelas HD",
+          "Description": "Canal en vivo.",
+         "Logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Tlnovelas_2011_logo.svg/1280px-Tlnovelas_2011_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail", 
+          "Url": "https://cablered.iptvperu.tv:1936/cablered/tlnovelas_new/playlist.m3u8",
+          "streamFormat": "hls",
+          "id": "tv-noticias-prueba-sdport-123",
+          "enabled": true
+        },
+        {
+          "Title": "Az Corazón HD",
+          "Description": "Canal en vivo.",
+          "Logo": "https://upload.wikimedia.org/wikipedia/commons/1/15/Coraz%C3%B3n_%28TV_channel%29_logo_2021.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",
+          "Url": "https://cablered.iptvperu.tv:1936/cablered/azcorazon_new/playlist.m3u8",
+          "streamFormat": "hls",
+          "id": "tv-noticias-prueba-sdport-1234",
+          "enabled": true
+        },
+        {
+          "Title": "Telemundo HD",
+          "Description": "Canal en vivo.",
+          "Logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/3840px-Telemundo_logo_2018.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+          "Url": "https://cablered.iptvperu.tv:1936/cablered/telemundo_new/playlist.m3u8",
+          "streamFormat": "hls",
+          "id": "tv-noticias-prueba-sdport-12345",
+          "enabled": true
+        },
+        {
+          "Title": "Bandamax HD",
+          "Description": "Canal en vivo.",
+          "Logo": "https://upload.wikimedia.org/wikipedia/commons/1/12/Bandamax_2015_Logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",
+          "Url": "https://cablered.iptvperu.tv:1936/cablered/bandamax_new/playlist.m3u8",
+          "streamFormat": "hls",
+          "id": "tv-noticias-prueba-sdport-12346",
+          "enabled": true
+        },
+        {
+          "Title": "Telemundo Internacional HD",
+          "Description": "Canal en vivo.",
+          "Logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/3840px-Telemundo_logo_2018.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+          "Url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
+          "streamFormat": "hls",
+          "id": "tv-noticias-prueba-sdport-123467",
           "enabled": true
         }
       ]
@@ -6714,6 +6635,14 @@
           "Title": "Canal Once",
           "Description": "Cultura, educación y programación pública en vivo.",
           "Url": "https://streamer.metronethn.com/Canal11/index.m3u8",
+          "streamFormat": "hls",
+          "id": "tv-cultura-canal-once",
+          "enabled": true
+        },
+        {
+          "Title": "Maria Visin Hd",
+          "Description": "Religión, educación y programación pública en vivo.",
+          "Url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Italiatre/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-cultura-canal-once",
           "enabled": true
