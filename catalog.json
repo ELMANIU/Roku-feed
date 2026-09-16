@@ -5136,46 +5136,6 @@
           "enabled": true
         },
         {
-          "Title": "TLC",
-          "Description": "Entretenimiento, estilo de vida y realities en vivo.",
-          "Url": "http://45.5.118.188:8000/play/a049/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-entretenimiento-tlc",
-          "enabled": true
-        },
-        {
-          "Title": "Adult Swim",
-          "Description": "Animación y entretenimiento para adultos en vivo.",
-          "Url": "http://45.5.118.188:8000/play/a01e/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-entretenimiento-adult-swim",
-          "enabled": true
-        },
-        {
-          "Title": "Universal",
-          "Description": "Series, películas y entretenimiento en vivo.",
-          "Url": "http://45.5.118.188:8000/play/a022/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-entretenimiento-universal",
-          "enabled": true
-        },
-        {
-          "Title": "MTV",
-          "Description": "Música, realities y entretenimiento en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a087/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-entretenimiento-mtv",
-          "enabled": true
-        },
-        {
-          "Title": "Lifetime",
-          "Description": "Series, películas y entretenimiento en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a03d/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-entretenimiento-lifetime",
-          "enabled": true
-        },
-        {
           "Title": "Las Estrellas HD",
           "Description": "Programación mexicana y entretenimiento en vivo.",
           "Logo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
@@ -5472,7 +5432,7 @@
         {
           "Title": "Space",
           "Description": "Cine de acción y entretenimiento en vivo.",
-          "Url": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/823.m3u8",
+          "Url": "https://cablered.iptvperu.tv:1936/cablered/space_new/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-space",
           "enabled": true
