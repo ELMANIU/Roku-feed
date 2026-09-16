@@ -5178,6 +5178,7 @@
         {
           "Title": "Las Estrellas HD",
           "Description": "Programación mexicana y entretenimiento en vivo.",
+          "Logo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
           "Url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-entretenimiento-las-estrellas-hd",
