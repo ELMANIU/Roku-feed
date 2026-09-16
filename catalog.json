@@ -1937,6 +1937,105 @@
   ],
   "series": [
     {
+  "Title": "EL JUICIO (2026)",
+  "seriesName": "EL JUICIO (2026)",
+  "Category": "Drama",
+  "Description": "Cuando el hijo de un poderoso empresario es acusado de abuso sexual por una compañera de clases, los padres de ambos jóvenes se declaran la guerra. Mientras unos buscan justicia, otros utilizan todos sus recursos para protegerse. Una intensa serie dramática judicial mexicana protagonizada por Eugenio Derbez y Pedro Alonso.",
+  "Logo": "https://image.tmdb.org/t/p/original/8tim2R1DnlLz5piMosrTc3JWuGo.jpg",
+  "episodes": [
+    {
+      "Title": "S01 E01 - Miguel",
+      "season": "1",
+      "episode": "1",
+      "Description": "Andrea le cuenta a Miguel, su padre, lo que ocurrió en la fiesta. Miguel enfrenta a Raúl Huerta, el padre de Carlos. Primera batalla entre ambas familias.",
+      "Logo": "https://image.tmdb.org/t/p/original/8tim2R1DnlLz5piMosrTc3JWuGo.jpg",
+      "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/e1/s8/2/e/_/i/Y/e_iYA.aaa.mp4",
+      "streamFormat": "mp4",
+      "id": "series-el-juicio-2026-s1e1",
+      "enabled": true
+    },
+    {
+      "Title": "S01 E02 - Andrea",
+      "season": "1",
+      "episode": "2",
+      "Description": "Andrea va a denunciar al Ministerio Público. Huerta intimida a Andrea para evitar que termine su declaración. Carlos intenta distraerse.",
+      "Logo": "https://image.tmdb.org/t/p/original/8tim2R1DnlLz5piMosrTc3JWuGo.jpg",
+      "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/a8/s8/2/E/h/j/Y/EhjYA.aaa.mp4",
+      "streamFormat": "mp4",
+      "id": "series-el-juicio-2026-s1e2",
+      "enabled": true
+    },
+    {
+      "Title": "S01 E03 - Carlos",
+      "season": "1",
+      "episode": "3",
+      "Description": "Miguel se acerca a Verónica, una periodista, y decide atacar a los Huerta. Carlos comete errores. Andrea busca una salida.",
+      "Logo": "https://image.tmdb.org/t/p/original/8tim2R1DnlLz5piMosrTc3JWuGo.jpg",
+      "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/97/s8/2/-/X/j/Y/-XjYA.aaa.mp4",
+      "streamFormat": "mp4",
+      "id": "series-el-juicio-2026-s1e3",
+      "enabled": true
+    },
+    {
+      "Title": "S01 E04 - Huerta",
+      "season": "1",
+      "episode": "4",
+      "Description": "Miguel difunde el caso de su hija. Andrea reanuda el proceso legal. Los Huerta están contra las cuerdas.",
+      "Logo": "https://image.tmdb.org/t/p/original/8tim2R1DnlLz5piMosrTc3JWuGo.jpg",
+      "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/32/s8/2/s/4/j/Y/s4jYA.aaa.mp4",
+      "streamFormat": "mp4",
+      "id": "series-el-juicio-2026-s1e4",
+      "enabled": true
+    },
+    {
+      "Title": "S01 E05 - Miguel & Joaquín",
+      "season": "1",
+      "episode": "5",
+      "Description": "Miguel, Verónica y Andrea van en busca de testigos. Huerta prepara el contraataque.",
+      "Logo": "https://image.tmdb.org/t/p/original/8tim2R1DnlLz5piMosrTc3JWuGo.jpg",
+      "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/88/s8/2/Q/8/j/Y/Q8jYA.aaa.mp4",
+      "streamFormat": "mp4",
+      "id": "series-el-juicio-2026-s1e5",
+      "enabled": true
+    },
+    {
+      "Title": "S01 E06 - Andrea & Verónica",
+      "season": "1",
+      "episode": "6",
+      "Description": "Huerta consigue un aliado clave. Andrea y Miguel intentan defenderse. Gerardo tiene que tomar una difícil decisión.",
+      "Logo": "https://image.tmdb.org/t/p/original/8tim2R1DnlLz5piMosrTc3JWuGo.jpg",
+      "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/a9/s8/2/k/b/k/Y/kbkYA.aaa.mp4",
+      "streamFormat": "mp4",
+      "id": "series-el-juicio-2026-s1e6",
+      "enabled": true
+    },
+    {
+      "Title": "S01 E07 - Carlos vs Andrea",
+      "season": "1",
+      "episode": "7",
+      "Description": "El juicio se acerca a su fin. Andrea y Carlos se enfrentan. Miguel hace control de daños. Huerta descubre la verdad.",
+      "Logo": "https://image.tmdb.org/t/p/original/8tim2R1DnlLz5piMosrTc3JWuGo.jpg",
+      "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/db/s8/2/i/d/k/Y/idkYA.aaa.mp4",
+      "streamFormat": "mp4",
+      "id": "series-el-juicio-2026-s1e7",
+      "enabled": true
+    },
+    {
+      "Title": "S01 E08 - Miguel vs Huerta",
+      "season": "1",
+      "episode": "8",
+      "Description": "Andrea y Miguel encuentran un camino para ganar. Huerta intenta proteger a su hijo por última vez.",
+      "Logo": "https://image.tmdb.org/t/p/original/8tim2R1DnlLz5piMosrTc3JWuGo.jpg",
+      "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/83/s8/2/m/g/k/Y/mgkYA.aaa.mp4",
+      "streamFormat": "mp4",
+      "id": "series-el-juicio-2026-s1e8",
+      "enabled": true
+    }
+  ],
+  "id": "series-el-juicio-2026",
+  "enabled": true
+},
+    {
       "Title": "BLUEY (2018)",
       "seriesName": "BLUEY (2018)",
       "Category": "animacion",
