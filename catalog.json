@@ -5180,19 +5180,9 @@
   "Title": "FÉNIX PREMIER",
   "Description": "Estrenos y películas 24/7.",
   "Logo": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/file_00000000452c81fd8d72873263854d48.png",
-  "bugUrl": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/file_00000000452c81fd8d72873263854d48.png",
   "Url": "https://canales-con-comerciales.elmanuchale.workers.dev/premiere/live.m3u8",
-  "guideUrl": "https://canales-con-comerciales.elmanuchale.workers.dev/premiere/guide.json",
-  "statusUrl": "https://canales-con-comerciales.elmanuchale.workers.dev/premiere/status",
   "streamFormat": "hls",
   "id": "premiere",
-  "showLogoOnVideo": true,
-  "hideLogoDuringCommercials": true,
-  "bugPosition": "top-right",
-  "bugWidth": 380,
-  "bugHeight": 192,
-  "bugOpacity": 0.88,
-  "epgPrefetch": true,
   "enabled": true
 },
 {
@@ -5202,8 +5192,6 @@
   "Url": "https://canales-con-comerciales.elmanuchale.workers.dev/fenixmix/live.m3u8",
   "streamFormat": "hls",
   "id": "fenixmix",
-  "showLogoOnVideo": true,
-  "hideLogoDuringCommercials": true,
   "enabled": true
 },
         {
