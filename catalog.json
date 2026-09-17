@@ -5340,7 +5340,7 @@
         {
           "Title": "TNT",
           "Description": "Películas y entretenimiento en vivo.",
-          "Url": "https://cablered.iptvperu.tv:1936/cablered/tnt_new/playlist.m3u8",
+          "Url": "https://lbgo.bozztv.com/ssh101/ssh101/tnt/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-tnt",
           "enabled": true
@@ -5348,7 +5348,7 @@
         {
           "Title": "Cinecanal",
           "Description": "Películas y cine en vivo.",
-          "Url": "https://cablered.iptvperu.tv:1936/cablered/cinecanal_new/playlist.m3u8",
+          "Url": "https://lbgo.bozztv.com/ssh101/ssh101/cinecanal/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-cinemax",
           "enabled": true
@@ -5764,7 +5764,7 @@
         {
           "Title": "FX HD",
           "Description": "Canal en vivo.",
-          "Url": "https://cablered.iptvperu.tv:1936/cablered/fx_new/playlist.m3u8",
+          "Url": "https://lbgo.bozztv.com/ssh101/ssh101/fx/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-fx-hd",
           "enabled": true
@@ -5783,6 +5783,14 @@
           "Url": "https://lbgo.bozztv.com/ssh101/ssh101/tnt/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-tnt-hd",
+          "enabled": true
+        },
+        {
+          "Title": "VENUS HD",
+          "Description": "Canal en vivo.",
+          "Url": "https://lbgo.bozztv.com/ssh101/ssh101/venus/playlist.m3u8",
+          "streamFormat": "hls",
+          "id": "tv-peliculas-tnt-hdH",
           "enabled": true
         },
         {
