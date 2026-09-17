@@ -5354,6 +5354,14 @@
           "enabled": true
         },
         {
+          "Title": "Dreamworks",
+          "Description": "Películas y cine en vivo.",
+          "Url": "https://lbgo.bozztv.com/ssh101/ssh101/dreamworks/playlist.m3u8",
+          "streamFormat": "hls",
+          "id": "tv-peliculas-cinemaxh",
+          "enabled": true
+        },
+        {
           "Title": "Space",
           "Description": "Cine de acción y entretenimiento en vivo.",
           "Url": "http://200.234.234.244/hls/space/space.m3u8",
