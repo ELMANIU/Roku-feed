@@ -5948,7 +5948,7 @@
           "Description": "Noticias, análisis y eventos deportivos en vivo.",
           "Url": "https://lbgo.bozztv.com/ssh101/ssh101/tudn/playlist.m3u8",
           "streamFormat": "hls",
-          "id": "tv-deportes-telemundo-deportes-ahorasY",
+          "id": "tvtudn",
           "enabled": true
         },
         {
