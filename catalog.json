@@ -5944,6 +5944,14 @@
           "enabled": true
         },
         {
+          "Title": "TUDN",
+          "Description": "Noticias, análisis y eventos deportivos en vivo.",
+          "Url": "https://lbgo.bozztv.com/ssh101/ssh101/tudn/playlist.m3u8",
+          "streamFormat": "hls",
+          "id": "tv-deportes-telemundo-deportes-ahorasY",
+          "enabled": true
+        },
+        {
           "Title": "ESPN 1 HD",
           "Description": "Canal en vivo.",
           "Url": "https://cablered.iptvperu.tv:1936/cablered/espn_new/playlist.m3u8",
