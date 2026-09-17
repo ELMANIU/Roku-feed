@@ -5356,7 +5356,7 @@
         {
           "Title": "Space",
           "Description": "Cine de acción y entretenimiento en vivo.",
-          "Url": "https://cablered.iptvperu.tv:1936/cablered/space_new/playlist.m3u8",
+          "Url": "http://200.234.234.244/hls/space/space.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-space",
           "enabled": true
