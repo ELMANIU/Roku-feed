@@ -5334,7 +5334,7 @@
           "Description": "Cine de acción y suspenso en vivo.",
           "Url": "http://200.234.234.244/hls/ae/ae.m3u8?live=12345",
           "streamFormat": "hls",
-          "id": "tv-peliculas-golden-edge",
+          "id": "tv-peliculas-golden-edget",
           "enabled": true
         },
         {
