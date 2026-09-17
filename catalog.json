@@ -5932,6 +5932,14 @@
           "enabled": true
         },
         {
+          "Title": "Imagen Televisión Evnetos",
+          "Description": "Noticias, análisis y eventos deportivos en vivo.",
+          "Url": "http://igd-it-runtime.otteravision.com/igd/it/it.m3u8",
+          "streamFormat": "hls",
+          "id": "tv-deportes-telemundo-deportes-ahoras",
+          "enabled": true
+        },
+        {
           "Title": "ESPN 1 HD",
           "Description": "Canal en vivo.",
           "Url": "https://cablered.iptvperu.tv:1936/cablered/espn_new/playlist.m3u8",
