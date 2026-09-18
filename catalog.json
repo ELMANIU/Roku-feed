@@ -5396,23 +5396,15 @@
         {
           "Title": "Golden Edge",
           "Description": "Cine de acción y suspenso en vivo.",
-          "Url": "http://200.234.234.244/hls/golden/golden.m3u8",
+          "Url": "https://cablered.iptvperu.tv:1936/cablered/goldenedge_new/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-golden-edge",
           "enabled": true
         },
         {
-          "Title": "A&E",
-          "Description": "Cine de acción y suspenso en vivo.",
-          "Url": "https://hugh.cdn.rumble.cloud/live/d5a20b4d/live-hls/uond-rdqk/chunklist_i1_DVR.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-golden-edget",
-          "enabled": true
-        },
-        {
           "Title": "TNT",
           "Description": "Películas y entretenimiento en vivo.",
-          "Url": "https://lbgo.bozztv.com/ssh101/ssh101/tnt/playlist.m3u8",
+          "Url": "https://cablered.iptvperu.tv:1936/cablered/tnt_new/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-tnt",
           "enabled": true
@@ -5420,23 +5412,15 @@
         {
           "Title": "Cinecanal",
           "Description": "Películas y cine en vivo.",
-          "Url": "https://lbgo.bozztv.com/ssh101/ssh101/canalccn/playlist.m3u8",
+          "Url": "https://cablered.iptvperu.tv:1936/cablered/cinecanal_new/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-cinemax",
           "enabled": true
         },
         {
-          "Title": "Dreamworks",
-          "Description": "Películas y cine en vivo.",
-          "Url": "https://lbgo.bozztv.com/ssh101/ssh101/dreamworks/playlist.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-cinemaxh",
-          "enabled": true
-        },
-        {
           "Title": "Space",
           "Description": "Cine de acción y entretenimiento en vivo.",
-          "Url": "http://200.234.234.244/hls/space/space.m3u8",
+          "Url": "https://cablered.iptvperu.tv:1936/cablered/space_new/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-space",
           "enabled": true
@@ -5844,7 +5828,7 @@
         {
           "Title": "FX HD",
           "Description": "Canal en vivo.",
-          "Url": "https://lbgo.bozztv.com/ssh101/ssh101/200/playlist.m3u8",
+          "Url": "https://cablered.iptvperu.tv:1936/cablered/fx_new/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-fx-hd",
           "enabled": true
@@ -5852,23 +5836,15 @@
         {
           "Title": "STAR CHANNEL HD",
           "Description": "Canal en vivo.",
-          "Url": "http://200.234.234.244/starchannel/index.m3u8",
+          "Url": "https://cablered.iptvperu.tv:1936/cablered/starchannel_new/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-fx-hdf",
           "enabled": true
         },
         {
-          "Title": "TNT HD",
-          "Description": "Canal en vivo.",
-          "Url": "http://200.234.234.244/tnt/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-tnt-hd",
-          "enabled": true
-        },
-        {
           "Title": "VENUS HD",
           "Description": "Canal en vivo.",
-          "Url": "https://lbgo.bozztv.com/ssh101/ssh101/v100/playlist.m3u8",
+          "Url": "https://cablered.iptvperu.tv:1936/cablered/venus_new/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-tnt-hdH",
           "enabled": true
@@ -6013,14 +5989,6 @@
           "Url": "http://igd-it-runtime.otteravision.com/igd/it/it.m3u8",
           "streamFormat": "hls",
           "id": "tv-deportes-telemundo-deportes-ahoras",
-          "enabled": true
-        },
-        {
-          "Title": "TUDN",
-          "Description": "Noticias, análisis y eventos deportivos en vivo.",
-          "Url": "https://lbgo.bozztv.com/ssh101/ssh101/tudn/playlist.m3u8",
-          "streamFormat": "hls",
-          "id": "tvtudn",
           "enabled": true
         },
         {
