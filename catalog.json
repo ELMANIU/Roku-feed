@@ -5772,7 +5772,7 @@
         {
           "Title": "FX HD",
           "Description": "Canal en vivo.",
-          "Url": "https://lbgo.bozztv.com/ssh101/200/f/playlist.m3u8",
+          "Url": "https://lbgo.bozztv.com/ssh101/ssh101/200/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-fx-hd",
           "enabled": true
