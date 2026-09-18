@@ -5348,7 +5348,7 @@
         {
           "Title": "Cinecanal",
           "Description": "Películas y cine en vivo.",
-          "Url": "https://lbgo.bozztv.com/ssh101/ssh101/cinecanal/playlist.m3u8",
+          "Url": "https://lbgo.bozztv.com/ssh101/ssh101/canalccn/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-cinemax",
           "enabled": true
@@ -5356,7 +5356,7 @@
         {
           "Title": "Dreamworks",
           "Description": "Películas y cine en vivo.",
-          "Url": "https://hugh.cdn.rumble.cloud/live/d5a20b4d/live-hls/uond-rdqk/chunklist_i1_DVR.m3u8",
+          "Url": "https://lbgo.bozztv.com/ssh101/ssh101/dreamworks/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-cinemaxh",
           "enabled": true
@@ -5772,7 +5772,7 @@
         {
           "Title": "FX HD",
           "Description": "Canal en vivo.",
-          "Url": "https://lbgo.bozztv.com/ssh101/ssh101/fx/playlist.m3u8",
+          "Url": "https://lbgo.bozztv.com/ssh101/200/f/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-fx-hd",
           "enabled": true
@@ -5796,7 +5796,7 @@
         {
           "Title": "VENUS HD",
           "Description": "Canal en vivo.",
-          "Url": "https://lbgo.bozztv.com/ssh101/ssh101/venus/playlist.m3u8",
+          "Url": "https://lbgo.bozztv.com/ssh101/ssh101/v100/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-tnt-hdH",
           "enabled": true
@@ -6049,7 +6049,7 @@
         {
           "Title": "Animal Planet",
           "Description": "Naturaleza y vida animal en vivo.",
-          "Url": "https://cablered.iptvperu.tv:1936/cablered/animalplanet_new/playlist.m3u8",
+          "Url": "https://hugh.cdn.rumble.cloud/live/d5a20b4d/live-hls/uond-rdqk/chunklist_i1_DVR.m3u8",
           "streamFormat": "hls",
           "id": "tv-documentales-animal-planet",
           "enabled": true
