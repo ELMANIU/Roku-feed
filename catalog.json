@@ -6,6 +6,24 @@
   "replaceLocalTv": true,
   "movies": [
     {
+  "Title": "Esto, aquello y todo lo demás (2026)",
+  "Section": "Drama",
+  "Year": "2026",
+  "Genre": "Drama · Familiar · Romance",
+  "Runtime": "100 min",
+  "Director": "Cholo Laurel",
+  "Cast": "Jodi Sta. Maria, Agot Isidro, Gardo Versoza, Ruby Ruiz",
+  "Language": "Español Latino",
+  "Country": "Filipinas",
+  "Quality": "FHD",
+  "Description": "Una guionista que ha reconstruido su vida con mucho esfuerzo comienza a ver cómo todo se desmorona cuando los recuerdos del pasado y los conflictos familiares regresan. Una historia sobre el perdón, la pérdida y las segundas oportunidades.",
+  "Logo": "https://image.tmdb.org/t/p/original/q71j2435ZU7UDhROJz5UjHBEk3J.jpg",
+  "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/5a/s8/2/2/h/f/Z/2hfZA.aaa.mkv",
+  "streamFormat": "mkv",
+  "id": "movie-esto-aquello-y-todo-lo-demas-2026",
+  "enabled": true
+},
+    {
   "Title": "Doctor Who: Joy por el mundo (2024)",
   "Section": "Ciencia Ficción",
   "Year": "2024",
