@@ -5780,7 +5780,7 @@
         {
           "Title": "STAR CHANNEL HD",
           "Description": "Canal en vivo.",
-          "Url": "https://cablered.iptvperu.tv:1936/cablered/starchannel_new/playlist.m3u8",
+          "Url": "http://200.234.234.244/starchannel/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-fx-hdf",
           "enabled": true
@@ -5788,7 +5788,7 @@
         {
           "Title": "TNT HD",
           "Description": "Canal en vivo.",
-          "Url": "https://lbgo.bozztv.com/ssh101/ssh101/tnt/playlist.m3u8",
+          "Url": "http://200.234.234.244/tnt/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-tnt-hd",
           "enabled": true
