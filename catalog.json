@@ -5440,9 +5440,25 @@
         {
           "Title": "TNT",
           "Description": "Películas y entretenimiento en vivo.",
-          "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/canales/tnthd/index.m3u8",
+          "Url": "https://canales-premiu.elmanuchale.workers.dev/tnthd/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-tnt",
+          "enabled": true
+        },
+        {
+          "Title": "CINECLUB",
+          "Description": "Películas y entretenimiento en vivo.",
+          "Url": "https://canales-premiu.elmanuchale.workers.dev/cineclub/index.m3u8",
+          "streamFormat": "hls",
+          "id": "tv-peliculas-tnt",
+          "enabled": true
+        },
+        {
+          "Title": "HBO FAMILY",
+          "Description": "Películas y entretenimiento en vivo.",
+          "Url": "https://canales-premiu.elmanuchale.workers.dev/xtvpe/index.m3u8",
+          "streamFormat": "hls",
+          "id": "tv-peliculas-hbofamily",
           "enabled": true
         },
         {
@@ -5880,7 +5896,7 @@
         {
           "Title": "VENUS HD",
           "Description": "Canal en vivo.",
-          "Url": "https://cablered.iptvperu.tv:1936/cablered/venus_new/playlist.m3u8",
+          "Url": "https://canales-premiu.elmanuchale.workers.dev/venus/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-tnt-hdH",
           "enabled": true
@@ -6582,6 +6598,14 @@
           "Url": "https://cablered.iptvperu.tv:1936/cablered/discoverykids_new/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-infantil-discovery-kids",
+          "enabled": true
+        },
+        {
+          "Title": "Bitme",
+          "Description": "Canal en vivo.",
+          "Url": "canales-premiu.elmanuchale.workers.dev/bitme/index.m3u8",
+          "streamFormat": "hls",
+          "id": "tv-infantil-bitme",
           "enabled": true
         },
         {
