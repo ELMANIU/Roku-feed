@@ -6,6 +6,24 @@
   "replaceLocalTv": true,
   "movies": [
     {
+  "Title": "Resident Evil: Noche Cero (2026)",
+  "Section": "Terror",
+  "Year": "2026",
+  "Genre": "Terror · Acción · Ciencia Ficción · Suspenso",
+  "Runtime": "90 min",
+  "Director": "Zach Cregger",
+  "Cast": "Austin Abrams, Zach Cherry, Kali Reis, Paul Walter Hauser, Johnno Wilson",
+  "Language": "Español Latino",
+  "Country": "Estados Unidos · Alemania",
+  "Quality": "FHD",
+  "Description": "En medio de un brote biológico en Raccoon City, Bryan, un mensajero médico, queda atrapado en una noche de terror cuando criaturas infectadas comienzan a aparecer. Mientras intenta sobrevivir y completar una peligrosa misión, descubrirá los secretos detrás del desastre provocado por el virus.",
+  "Logo": "https://image.tmdb.org/t/p/original/ntmaNFJ7O60n45E1E6HZlXeSV5e.jpg",
+  "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/89/s8/2/I/L/8/Z/IL8ZA.aaa.mp4",
+  "streamFormat": "mp4",
+  "id": "movie-resident-evil-noche-cero-2026",
+  "enabled": true
+    },
+    {
   "Title": "Esto, aquello y todo lo demás (2026)",
   "Section": "Drama",
   "Year": "2026",
