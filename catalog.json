@@ -6603,7 +6603,7 @@
         {
           "Title": "Bitme",
           "Description": "Canal en vivo.",
-          "Url": "canales-premiu.elmanuchale.workers.dev/bitme/index.m3u8",
+          "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/canales/bitme/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-infantil-bitme",
           "enabled": true
