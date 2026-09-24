@@ -5164,6 +5164,87 @@
       "Description": "Canales de entretenimiento y programación variada.",
       "Channels": [
         {
+  "Title": "ANIMAL PLANET HD",
+  "Description": "Programación general en vivo.",
+  "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/canales/animalplanetfenix/index.m3u8",
+  "streamFormat": "hls",
+  "id": "tv-documentales-animal-planet-hd",
+  "enabled": true,
+  "Logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/960px-Animal_Planet_logo.svg.png"
+},
+{
+  "Title": "BITME HD",
+  "Description": "Programación general en vivo.",
+  "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/canales/bitme/index.m3u8",
+  "streamFormat": "hls",
+  "id": "tv-anime-bitme-hd",
+  "enabled": true,
+  "Logo": "https://static.wikia.nocookie.net/logopedia/images/5/54/BitMe_2025.svg"
+},
+{
+  "Title": "CINECANAL HD",
+  "Description": "Programación general en vivo.",
+  "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/canales/cinecanalfenix/index.m3u8",
+  "streamFormat": "hls",
+  "id": "tv-cine-cinecanal-hd",
+  "enabled": true,
+  "Logo": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Cinecanal_1995.png"
+},
+{
+  "Title": "DISCOVERY HD",
+  "Description": "Programación general en vivo.",
+  "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/canales/discoveryfenix/index.m3u8",
+  "streamFormat": "hls",
+  "id": "tv-documentales-discovery-hd",
+  "enabled": true,
+  "Logo": "https://static.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png"
+},
+{
+  "Title": "FX HD",
+  "Description": "Programación general en vivo.",
+  "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/canales/fxfenix/index.m3u8",
+  "streamFormat": "hls",
+  "id": "tv-series-fx-hd",
+  "enabled": true,
+  "Logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/3840px-FX_Logo_2023.svg.png"
+},
+{
+  "Title": "GOLDEN EDGE HD",
+  "Description": "Programación general en vivo.",
+  "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/canales/goldenedgefenix/index.m3u8",
+  "streamFormat": "hls",
+  "id": "tv-cine-golden-edge-hd",
+  "enabled": true,
+  "Logo": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png"
+},
+{
+  "Title": "SPACE HD",
+  "Description": "Programación general en vivo.",
+  "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/canales/space/index.m3u8",
+  "streamFormat": "hls",
+  "id": "tv-cine-space-hd",
+  "enabled": true,
+  "Logo": "https://upload.wikimedia.org/wikipedia/commons/1/1a/SpaceLogo.svg"
+},
+{
+  "Title": "TLENOVELAS HD",
+  "Description": "Programación general en vivo.",
+  "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/canales/tlnovelas/index.m3u8",
+  "streamFormat": "hls",
+  "id": "tv-novelas-tlnovelas-hd",
+  "enabled": true,
+  "Logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Tlnovelas_2011_logo.svg/1280px-Tlnovelas_2011_logo.svg.png"
+},
+{
+  "Title": "TNT HD",
+  "Description": "Programación general en vivo.",
+  "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/canales/tnthd/index.m3u8",
+  "streamFormat": "hls",
+  "id": "tv-cine-tnt-hd",
+  "enabled": true,
+  "Logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/3840px-TNT_TV_logo.svg.png"
+},
+        {
           "Title": "Metro TV",
           "Description": "Programación general en vivo.",
           "Url": "https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8",
