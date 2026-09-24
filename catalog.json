@@ -5172,6 +5172,24 @@
   "enabled": true,
   "Logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/960px-Animal_Planet_logo.svg.png"
 },
+        {
+  "Title": "CINECLUB HD",
+  "Description": "Programación general en vivo.",
+  "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/canales/cinepremium/index.m3u8",
+  "streamFormat": "hls",
+  "id": "tv-anime-bitme-hdJJJ",
+  "enabled": true,
+  "Logo": "https://static.wikia.nocookie.net/censuras/images/c/c9/CineclubDK.png/revision/latest/scale-to-width-down/248?cb=20250530071536&path-prefix=es"
+},
+        {
+  "Title": "HBO FAMILY HD",
+  "Description": "Programación general en vivo.",
+  "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/canales/hbofamilyhd/index.m3u8",
+  "streamFormat": "hls",
+  "id": "tv-anime-bitme-hdjsusjwwiwiwow",
+  "enabled": true,
+  "Logo": "https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original"
+},
 {
   "Title": "BITME HD",
   "Description": "Programación general en vivo.",
