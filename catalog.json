@@ -5179,7 +5179,7 @@
   "streamFormat": "hls",
   "id": "tv-anime-bitme-hd",
   "enabled": true,
-  "Logo": "https://static.wikia.nocookie.net/logopedia/images/5/54/BitMe_2025.svg"
+  "Logo": "https://upload.wikimedia.org/wikipedia/commons/8/8e/BitMe.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original"
 },
 {
   "Title": "CINECANAL HD",
@@ -5224,7 +5224,7 @@
   "streamFormat": "hls",
   "id": "tv-cine-space-hd",
   "enabled": true,
-  "Logo": "https://upload.wikimedia.org/wikipedia/commons/1/1a/SpaceLogo.svg"
+  "Logo": "https://logos-world.net/wp-content/uploads/2023/03/Space-Logo.png"
 },
 {
   "Title": "TLENOVELAS HD",
