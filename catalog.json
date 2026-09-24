@@ -5245,72 +5245,9 @@
   "Logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/3840px-TNT_TV_logo.svg.png"
 },
         {
-          "Title": "Metro TV",
-          "Description": "Programación general en vivo.",
-          "Url": "https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-entretenimiento-metro-tv",
-          "enabled": true
-        },
-        {
-          "Title": "Maxc TV",
-          "Description": "Programación general en vivo.",
-          "Url": "https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-entretenimiento-maxc-tv",
-          "enabled": true
-        },
-        {
-          "Title": "Max 2 TV",
-          "Description": "Programación variada en vivo.",
-          "Url": "https://live20.bozztv.com/giatvplayout7/giatv-209163/playlist.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-entretenimiento-max-2-tv",
-          "enabled": true
-        },
-        {
-          "Title": "Maxc Family TV",
-          "Description": "Programación familiar en vivo.",
-          "Url": "https://live20.bozztv.com/giatvplayout7/giatv-208817/playlist.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-entretenimiento-maxc-family-tv",
-          "enabled": true
-        },
-        {
-          "Title": "Max Comedy TV",
-          "Description": "Comedia en vivo.",
-          "Url": "https://live20.bozztv.com/giatvplayout7/giatv-208730/playlist.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-entretenimiento-max-comedy-tv",
-          "enabled": true
-        },
-        {
-          "Title": "Imagen Universal TV",
-          "Description": "Programación general en vivo.",
-          "Url": "https://imagenuniversaltv.net:3771/live/iutvlive.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-entretenimiento-imagen-universal-tv",
-          "enabled": true
-        },
-        {
-          "Title": "Gam TV",
-          "Description": "Programación variada en vivo.",
-          "Url": "https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-entretenimiento-gam-tv",
-          "enabled": true
-        },
-        {
-          "Title": "Cosmo TV",
-          "Description": "Programación general en vivo.",
-          "Url": "https://canaletaplus.com:3922/hybrid/play.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-entretenimiento-cosmo-tv",
-          "enabled": true
-        },
-        {
           "Title": "ENT Family",
           "Description": "Entretenimiento familiar en vivo.",
+          "Logo": "https://www.40mediagroup.com/images/channels/ent-family.png",
           "Url": "https://cdn.40mediagroup.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8",
           "streamFormat": "hls",
           "id": "tv-entretenimiento-ent-family",
@@ -5319,6 +5256,7 @@
         {
           "Title": "ENT Channel",
           "Description": "Canal de entretenimiento en vivo.",
+          "Logo": "https://www.40mediagroup.com/images/channels/ent-channel.png",
           "Url": "https://cdn.40mediagroup.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8",
           "streamFormat": "hls",
           "id": "tv-entretenimiento-ent-channel",
@@ -5336,6 +5274,7 @@
         {
           "Title": "Imagen TV Plus HD",
           "Description": "Entretenimiento y programación mexicana en vivo.",
+          "Logo": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",
           "Url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=13917&device_os=html5&livestream=1&custom_targeting=html5",
           "streamFormat": "hls",
           "id": "tv-entretenimiento-imagen-tv-plus-hd",
@@ -5344,25 +5283,10 @@
         {
           "Title": "TV Azteca Clic",
           "Description": "Entretenimiento y programación de TV Azteca en vivo.",
+          "Logo": "https://static.wikia.nocookie.net/logofanon2/images/3/3d/AzClic.svg/revision/latest?cb=20240910185609",
           "Url": "https://amg00658-amg00658c59-canelatv-international-5440.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clictvaztecaappta-canelatvinternational/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-entretenimiento-tv-azteca-clic",
-          "enabled": true
-        },
-        {
-          "Title": "FMTV Mundo",
-          "Description": "Programación general en vivo.",
-          "Url": "https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-entretenimiento-fmtv-mundo",
-          "enabled": true
-        },
-        {
-          "Title": "Xiomoz",
-          "Description": "Entretenimiento y programación variada en vivo.",
-          "Url": "https://lbgo.bozztv.com/ssh101/ssh101/xiomoz/playlist.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-entretenimiento-xiomoz",
           "enabled": true
         },
         {
@@ -5384,24 +5308,9 @@
   "enabled": true
 },
         {
-          "Title": "Sistema 1 TV",
-          "Description": "Programación general en vivo.",
-          "Url": "https://lbgo.bozztv.com/ssh101/ssh101/sistema1tv/playlist.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-entretenimiento-sistema-1-tv",
-          "enabled": true
-        },
-        {
-          "Title": "Neo TV",
-          "Description": "Entretenimiento y programación variada en vivo.",
-          "Url": "https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-entretenimiento-neo-tv",
-          "enabled": true
-        },
-        {
           "Title": "Sony One Éxitos",
           "Description": "Éxitos de Sony One.",
+          "Logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Fast_Amazon_Faves_ChannelTile_1920x1080_ES._SL500_FMpng_.png",
           "Url": "https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-entretenimiento-sony-one-exitos",
@@ -5410,6 +5319,7 @@
         {
           "Title": "Sony One Hits Acción",
           "Description": "Acción de Sony One.",
+          "Logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Fast_Amazon_ActionHits_ChannelTile_1920x1080_ES._SL500_FMpng_.png",
           "Url": "https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-829-ES-SONYONEHITSACCIN-LG_ES/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-entretenimiento-sony-one-hits-accion",
@@ -5418,6 +5328,7 @@
         {
           "Title": "Sony One Hits Comedia",
           "Description": "Comedia de Sony One.",
+          "Logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Fast_Amazon_ComedyHits_ChannelTile_1920x1080_ES._SL500_FMpng_.png",
           "Url": "https://0296181dff19a115d0.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-830-ES-SONYONEHITSCOMEDIA-LG_ES/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-entretenimiento-sony-one-hits-comedia",
@@ -5511,22 +5422,6 @@
           "enabled": true
         },
         {
-          "Title": "Golden Edge",
-          "Description": "Cine de acción y suspenso en vivo.",
-          "Url": "https://cablered.iptvperu.tv:1936/cablered/goldenedge_new/playlist.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-golden-edge",
-          "enabled": true
-        },
-        {
-          "Title": "TNT",
-          "Description": "Películas y entretenimiento en vivo.",
-          "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/canales/tnthd/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-tnth",
-          "enabled": true
-        },
-        {
           "Title": "CINECLUB",
           "Description": "Películas y entretenimiento en vivo.",
           "Url": "https://canales-premiu.elmanuchale.workers.dev/cineclub/index.m3u8",
@@ -5540,22 +5435,6 @@
           "Url": "https://canales-premiu.elmanuchale.workers.dev/hbofamily/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-hbofamily",
-          "enabled": true
-        },
-        {
-          "Title": "Cinecanal",
-          "Description": "Películas y cine en vivo.",
-          "Url": "https://cablered.iptvperu.tv:1936/cablered/cinecanal_new/playlist.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-cinemax",
-          "enabled": true
-        },
-        {
-          "Title": "Space",
-          "Description": "Cine de acción y entretenimiento en vivo.",
-          "Url": "https://cablered.iptvperu.tv:1936/cablered/space_new/playlist.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-space",
           "enabled": true
         },
         {
@@ -5783,187 +5662,11 @@
           "enabled": true
         },
         {
-          "Title": "Runtime Cine y Series",
-          "Description": "Cine y series de Runtime en vivo.",
-          "Url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=12857",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-runtime-cine-y-series",
-          "enabled": true
-        },
-        {
-          "Title": "Runtime Acción",
-          "Description": "Películas de acción de Runtime.",
-          "Url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=12858",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-runtime-accion",
-          "enabled": true
-        },
-        {
-          "Title": "Runtime Clásicos",
-          "Description": "Cine clásico de Runtime.",
-          "Url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=12859",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-runtime-clasicos",
-          "enabled": true
-        },
-        {
-          "Title": "Runtime Comedia",
-          "Description": "Películas de comedia de Runtime.",
-          "Url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=12860",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-runtime-comedia",
-          "enabled": true
-        },
-        {
-          "Title": "Runtime Crimen",
-          "Description": "Crimen y suspenso de Runtime.",
-          "Url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=12861",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-runtime-crimen",
-          "enabled": true
-        },
-        {
-          "Title": "Runtime Familia",
-          "Description": "Películas familiares de Runtime.",
-          "Url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=13228",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-runtime-familia",
-          "enabled": true
-        },
-        {
-          "Title": "Runtime Romance",
-          "Description": "Romance de Runtime.",
-          "Url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=12862",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-runtime-romance",
-          "enabled": true
-        },
-        {
-          "Title": "Runtime Thriller",
-          "Description": "Thriller de Runtime.",
-          "Url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=12864",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-runtime-thriller",
-          "enabled": true
-        },
-        {
-          "Title": "Águila Roja",
-          "Description": "Series y acción medieval.",
-          "Url": "https://djpkijcsi04ot.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-534sg92d7s442/aguro.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-aguila-roja",
-          "enabled": true
-        },
-        {
-          "Title": "Rakuten TV Pelis Top",
-          "Description": "Películas destacadas de Rakuten TV.",
-          "Url": "https://top-movies-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-rakuten-tv-pelis-top",
-          "enabled": true
-        },
-        {
-          "Title": "Rakuten TV Acción",
-          "Description": "Acción de Rakuten TV.",
-          "Url": "https://action-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-rakuten-tv-accion",
-          "enabled": true
-        },
-        {
-          "Title": "Rakuten TV Comedia",
-          "Description": "Comedia de Rakuten TV.",
-          "Url": "https://comedy-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-rakuten-tv-comedia",
-          "enabled": true
-        },
-        {
-          "Title": "Rakuten TV Drama",
-          "Description": "Drama de Rakuten TV.",
-          "Url": "https://drama-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-rakuten-tv-drama",
-          "enabled": true
-        },
-        {
-          "Title": "Rakuten TV Romance",
-          "Description": "Romance de Rakuten TV.",
-          "Url": "https://romance-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-rakuten-tv-romance",
-          "enabled": true
-        },
-        {
-          "Title": "Rakuten TV Cine Español",
-          "Description": "Cine español de Rakuten TV.",
-          "Url": "https://spanish-cinema-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-rakuten-tv-cine-espanol",
-          "enabled": true
-        },
-        {
-          "Title": "Rakuten TV Sci-Fi",
-          "Description": "Ciencia ficción de Rakuten TV.",
-          "Url": "https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-rakuten-tv-sci-fi",
-          "enabled": true
-        },
-        {
-          "Title": "Rakuten TV Thriller",
-          "Description": "Thriller de Rakuten TV.",
-          "Url": "https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-rakuten-tv-thriller",
-          "enabled": true
-        },
-        {
-          "Title": "Rakuten TV Crimen",
-          "Description": "Crimen de Rakuten TV.",
-          "Url": "https://crime-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6220/master.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-rakuten-tv-crimen",
-          "enabled": true
-        },
-        {
           "Title": "Grinjo Películas del Oeste",
           "Description": "Películas del oeste.",
           "Url": "https://86ebcafef90e449fbb9439c196e7d149.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_GrjngoPeliculasDelOeste-1/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-peliculas-grinjo-peliculas-del-oeste",
-          "enabled": true
-        },
-        {
-          "Title": "Cine Friki",
-          "Description": "Cine de ciencia ficción y fantasía.",
-          "Url": "https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefriki-rakuten/CDN/master.m3u8?ads_amagi_channel_id=851",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-cine-friki",
-          "enabled": true
-        },
-        {
-          "Title": "Cine Sony HD",
-          "Description": "Cine Sony en alta definición.",
-          "Url": "https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-cine-sony-hd",
-          "enabled": true
-        },
-        {
-          "Title": "Sony One Cinema",
-          "Description": "Cine de Sony One.",
-          "Url": "https://8e146e2a14a0288735149357b44c0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneCinema/playlist.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-sony-one-cinema",
-          "enabled": true
-        },
-        {
-          "Title": "CINEMAX HD",
-          "Description": "Canal en vivo.",
-          "Url": "https://canales-premiu.elmanuchale.workers.dev/cinemax/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-peliculas-fx-hd",
           "enabled": true
         },
         {
@@ -6022,14 +5725,6 @@
           "enabled": true
         },
         {
-          "Title": "Sony",
-          "Description": "Series y entretenimiento Sony en vivo.",
-          "Url": "http://181.119.177.253:8000/play/a03z/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-series-sony",
-          "enabled": true
-        },
-        {
           "Title": "RCN Novelas",
           "Description": "Telenovelas y series de RCN en vivo.",
           "Url": "http://181.119.177.253:8000/play/a037/index.m3u8",
@@ -6043,14 +5738,6 @@
           "Url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=12863",
           "streamFormat": "hls",
           "id": "tv-series-runtime-series",
-          "enabled": true
-        },
-        {
-          "Title": "Sony One Novelas",
-          "Description": "Sony One Novelas en vivo.",
-          "Url": "https://8d4a17fe54c04f04bb010a8d291c7d41.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneNovelas/playlist.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-series-sony-one-novelas",
           "enabled": true
         },
         {
@@ -6117,7 +5804,7 @@
           "enabled": true
         },
         {
-          "Title": "Imagen Televisión Evnetos",
+          "Title": "Imagen Televisión Eventos",
           "Description": "Noticias, análisis y eventos deportivos en vivo.",
           "Url": "http://igd-it-runtime.otteravision.com/igd/it/it.m3u8",
           "streamFormat": "hls",
@@ -6267,158 +5954,6 @@
       "Description": "Canales internacionales en español.",
       "Channels": [
         {
-          "Title": "Latina HD",
-          "Description": "Canal peruano en vivo.",
-          "Url": "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-internacional-latina-hd",
-          "enabled": true
-        },
-        {
-          "Title": "TV Perú HD",
-          "Description": "Canal estatal peruano en vivo.",
-          "Url": "https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-internacional-tv-peru-hd",
-          "enabled": true
-        },
-        {
-          "Title": "Global TV HD",
-          "Description": "Canal peruano en vivo.",
-          "Url": "https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/playlist.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-internacional-global-tv-hd",
-          "enabled": true
-        },
-        {
-          "Title": "Antena 1 HD",
-          "Description": "Canal peruano en vivo.",
-          "Url": "https://tv.canala1.com:8081/web/video.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-internacional-antena-1-hd",
-          "enabled": true
-        },
-        {
-          "Title": "Antena 1 HD (opc 2)",
-          "Description": "Canal peruano en vivo (respaldo).",
-          "Url": "https://live-evg8.tv360.bitel.com.pe/bitel/aunoSRT/playlist.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-internacional-antena-1-hd-opc-2",
-          "enabled": true
-        },
-        {
-          "Title": "Cr TV",
-          "Description": "Canal peruano en vivo.",
-          "Url": "https://live.obslivestream.com/crtvmux/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-internacional-cr-tv",
-          "enabled": true
-        },
-        {
-          "Title": "Mega TV",
-          "Description": "Canal peruano en vivo.",
-          "Url": "https://183.bozztv.com/giatv/giatv-megatv/megatv/playlist.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-internacional-mega-tv",
-          "enabled": true
-        },
-        {
-          "Title": "Latina Clásicos HD",
-          "Description": "Canal peruano de clásicos.",
-          "Url": "https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-internacional-latina-clasicos-hd",
-          "enabled": true
-        },
-        {
-          "Title": "Milenial TV HD",
-          "Description": "Canal peruano en vivo.",
-          "Url": "https://www.milenial.news/salida/milenial.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-internacional-milenial-tv-hd",
-          "enabled": true
-        },
-        {
-          "Title": "Onda Digital",
-          "Description": "Canal peruano en vivo.",
-          "Url": "https://live.ondadigitaltv.com/ODTV/index.fmp4.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-internacional-onda-digital",
-          "enabled": true
-        },
-        {
-          "Title": "Onda Digital 2",
-          "Description": "Canal peruano en vivo (respaldo).",
-          "Url": "https://live.ondadigitaltv.com/ODTV2/index.fmp4.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-internacional-onda-digital-2",
-          "enabled": true
-        },
-        {
-          "Title": "USMP TV",
-          "Description": "Canal universitario peruano.",
-          "Url": "https://streamusmptv.ddns.net/live/stream.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-internacional-usmp-tv",
-          "enabled": true
-        },
-        {
-          "Title": "Canal 21 Huancayo",
-          "Description": "Canal regional peruano.",
-          "Url": "https://play.agenciastreaming.com:8081/tvwanka/playlist.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-internacional-canal-21-huancayo",
-          "enabled": true
-        },
-        {
-          "Title": "Antena Sur HD",
-          "Description": "Canal peruano en vivo.",
-          "Url": "https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-internacional-antena-sur-hd",
-          "enabled": true
-        },
-        {
-          "Title": "Impacto TV Digital",
-          "Description": "Canal peruano en vivo.",
-          "Url": "https://live.obslivestream.com/reddigital/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-internacional-impacto-tv-digital",
-          "enabled": true
-        },
-        {
-          "Title": "Eco Televisión",
-          "Description": "Canal peruano en vivo.",
-          "Url": "https://stream.ecoperu.tv/ECOTV/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-internacional-eco-television",
-          "enabled": true
-        },
-        {
-          "Title": "Radio TV Oriente",
-          "Description": "Canal peruano en vivo.",
-          "Url": "https://live.obslivestream.com/tvoriente/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-internacional-radio-tv-oriente",
-          "enabled": true
-        },
-        {
-          "Title": "BH TV",
-          "Description": "Canal peruano en vivo.",
-          "Url": "https://5949aa132c8fb.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-internacional-bh-tv",
-          "enabled": true
-        },
-        {
-          "Title": "Intuitiva TV",
-          "Description": "Canal peruano en vivo.",
-          "Url": "https://video2.lhdserver.es/cableperu/live.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-internacional-intuitiva-tv",
-          "enabled": true
-        },
-        {
           "Title": "Radio Tropical TV",
           "Description": "Canal peruano en vivo.",
           "Url": "https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8",
@@ -6528,118 +6063,6 @@
           "Url": "http://38.224.175.2:8000/play/a020/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-internacional-tve",
-          "enabled": true
-        },
-        {
-          "Title": "Telemundo",
-          "Description": "Entretenimiento y programación internacional en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a01w/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-internacional-telemundo",
-          "enabled": true
-        },
-        {
-          "Title": "Univision",
-          "Description": "Noticias y entretenimiento hispano en vivo.",
-          "Url": "http://181.119.177.253:8000/play/a0cu/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-internacional-univision",
-          "enabled": true
-        },
-        {
-          "Title": "AMERICA",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a05m/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-internacional-america",
-          "enabled": true
-        },
-        {
-          "Title": "CANAL LUZ",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a0nl/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-internacional-canal-luz",
-          "enabled": true
-        },
-        {
-          "Title": "CHV HD",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a073/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-internacional-chv-hd",
-          "enabled": true
-        },
-        {
-          "Title": "CHV HD",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a0sa/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-internacional-chv-hd",
-          "enabled": true
-        },
-        {
-          "Title": "Canal N",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a08r/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-internacional-canal-n",
-          "enabled": true
-        },
-        {
-          "Title": "CanalB",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a0b1/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-internacional-canalb",
-          "enabled": true
-        },
-        {
-          "Title": "Caracol HD",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a09k/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-internacional-caracol-hd",
-          "enabled": true
-        },
-        {
-          "Title": "Latina HD",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a07c/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-internacional-latina-hd",
-          "enabled": true
-        },
-        {
-          "Title": "Panamericana",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a08e/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-internacional-panamericana",
-          "enabled": true
-        },
-        {
-          "Title": "TV PERU",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a08y/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-internacional-tv-peru",
-          "enabled": true
-        },
-        {
-          "Title": "TVN HD",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a02r/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-internacional-tvn-hd",
-          "enabled": true
-        },
-        {
-          "Title": "america.2",
-          "Description": "Canal en vivo.",
-          "Url": "http://38.224.175.2:8000/play/a0a0/index.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-internacional-america-2",
           "enabled": true
         }
       ]
@@ -6753,15 +6176,6 @@
           "id": "tv-noticias-telemundo-noticias",
           "enabled": true
         },
-         {
-          "Title": "DPELICULA HD",
-          "Description": "Canal en vivo.",
-           "Logo": "https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",
-          "Url": "http://138.121.15.230:9002/DEPELICULA/tracks-v1a1/manifest.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-noticias-telemundo-noticias",
-          "enabled": true
-        },
         {
           "Title": "Morbido HD",
           "Description": "Canal en vivo.",
@@ -6778,15 +6192,6 @@
           "Url": "https://cablered.iptvperu.tv:1936/cablered/dhe_new/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-noticias-prueba-sdport-12",
-          "enabled": true
-        },
-        {
-          "Title": "Tlnovelas HD",
-          "Description": "Canal en vivo.",
-         "Logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Tlnovelas_2011_logo.svg/1280px-Tlnovelas_2011_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail", 
-          "Url": "https://cablered.iptvperu.tv:1936/cablered/tlnovelas_new/playlist.m3u8",
-          "streamFormat": "hls",
-          "id": "tv-noticias-prueba-sdport-123",
           "enabled": true
         },
         {
@@ -6833,16 +6238,18 @@
       "Description": "Contenido cultural y educativo.",
       "Channels": [
         {
-          "Title": "Canal Once",
+          "Title": "CANAL ONCE",
           "Description": "Cultura, educación y programación pública en vivo.",
+          "Logo": "https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",
           "Url": "https://streamer.metronethn.com/Canal11/index.m3u8",
           "streamFormat": "hls",
           "id": "tv-cultura-canal-once",
           "enabled": true
         },
         {
-          "Title": "Maria Visin Hd",
+          "Title": "MARIA VISIÓN HD",
           "Description": "Religión, educación y programación pública en vivo.",
+          "Logo": "https://static.wixstatic.com/media/ae9e39_98c192d6a3754e0188199e96fc46b514~mv2.png/v1/fill/w_1920,h_1080,al_c/ae9e39_98c192d6a3754e0188199e96fc46b514~mv2.png",
           "Url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Italiatre/playlist.m3u8",
           "streamFormat": "hls",
           "id": "tv-cultura-canal-once",
