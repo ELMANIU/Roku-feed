@@ -5245,6 +5245,78 @@
   "Logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/3840px-TNT_TV_logo.svg.png"
 },
         {
+  "Title": "DPELICULA HD",
+  "Description": "Programación general en vivo.",
+  "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/canales/dpelicula/index.m3u8",
+  "streamFormat": "hls",
+  "id": "tv-cine-tnt-hdjsksisi",
+  "enabled": true,
+  "Logo": "https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original"
+},
+        {
+  "Title": "HISTORY HD",
+  "Description": "Programación general en vivo.",
+  "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/canales/historychannel/index.m3u8",
+  "streamFormat": "hls",
+  "id": "tv-cine-tnt-hdjwiwowo",
+  "enabled": true,
+  "Logo": "https://logos-world.net/wp-content/uploads/2023/07/History-Logo.png"
+},
+        {
+  "Title": "CARTOON NETWORK HD",
+  "Description": "Programación general en vivo.",
+  "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/canales/cartoonnetwork/index.m3u8",
+  "streamFormat": "hls",
+  "id": "tv-cine-tnt-hdbkki",
+  "enabled": true,
+  "Logo": "https://logos-marcas.com/wp-content/uploads/2021/08/Cartoon-Network-Logo.png"
+},
+        {
+  "Title": "DISNEY CHANNEL HD",
+  "Description": "Programación general en vivo.",
+  "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/canales/disneychannel/index.m3u8",
+  "streamFormat": "hls",
+  "id": "tv-cine-tnt-hdhj",
+  "enabled": true,
+  "Logo": "https://static.wikia.nocookie.net/logopedia/images/7/72/Disney_Channel_2019.svg/revision/latest/scale-to-width-down/300?cb=20220920223409"
+},
+        {
+  "Title": "TNT NOVELAS HD",
+  "Description": "Programación general en vivo.",
+  "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/canales/tntnovelas/index.m3u8",
+  "streamFormat": "hls",
+  "id": "tv-cine-tnt-hdjkkl",
+  "enabled": true,
+  "Logo": "https://brandlogos.net/wp-content/uploads/2025/09/tnt_novelas-logo_brandlogos.net_nwspq.png"
+},
+        {
+  "Title": "TNT SERIES HD",
+  "Description": "Programación general en vivo.",
+  "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/canales/tntseries/index.m3u8",
+  "streamFormat": "hls",
+  "id": "tv-cine-tnt-hdyhj",
+  "enabled": true,
+  "Logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/TNT_Series_2025.svg/3840px-TNT_Series_2025.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+},
+        {
+  "Title": "ADULT SWING HD",
+  "Description": "Programación general en vivo.",
+  "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/canales/adultswing/index.m3u8",
+  "streamFormat": "hls",
+  "id": "tv-cine-tnt-hdusidie",
+  "enabled": true,
+  "Logo": "https://static.wikia.nocookie.net/logopedia/images/d/da/Adult_Swim_2001.svg/revision/latest?cb=20170707075733"
+},
+        {
+  "Title": "VENUS HD +18",
+  "Description": "Programación general en vivo.",
+  "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/canales/venus/index.m3u8",
+  "streamFormat": "hls",
+  "id": "tv-cine-tnt-hdvenus",
+  "enabled": true,
+  "Logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/3840px-Canal_Venus_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+},
+        {
           "Title": "ENT Family",
           "Description": "Entretenimiento familiar en vivo.",
           "Logo": "https://www.40mediagroup.com/images/channels/ent-family.png",
@@ -5283,10 +5355,10 @@
         {
           "Title": "TV Azteca Clic",
           "Description": "Entretenimiento y programación de TV Azteca en vivo.",
-          "Logo": "https://static.wikia.nocookie.net/logofanon2/images/3/3d/AzClic.svg/revision/latest?cb=20240910185609",
+          "Logo": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Clic_%28TV_channel%29_logo_2021.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
           "Url": "https://amg00658-amg00658c59-canelatv-international-5440.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clictvaztecaappta-canelatvinternational/playlist.m3u8",
           "streamFormat": "hls",
-          "id": "tv-entretenimiento-tv-azteca-clic",
+          "id": "tv-entretkklic",
           "enabled": true
         },
         {
