@@ -2459,6 +2459,83 @@
   ],
   "series": [
     {
+  "Title": "LUNA NERA (2020)",
+  "seriesName": "LUNA NERA (2020)",
+  "Category": "drama",
+  "Description": "En la Italia del siglo XVII, una joven acusada de brujería descubre su destino entre un grupo de mujeres con poderes sobrenaturales, mientras el padre del joven que ama lidera una persecución contra ellas.",
+  "Logo": "https://image.tmdb.org/t/p/original/ukAWA52fqoNSfkbbNB3XkKqsycz.jpg",
+  "episodes": [
+    {
+      "Title": "S01 E01 - Presagio",
+      "season": "1",
+      "episode": "1",
+      "Description": "Ade tiene un oscuro presagio mientras ayuda a su abuela durante un parto. Después de lo ocurrido, ambas son acusadas de practicar brujería.",
+      "Logo": "https://image.tmdb.org/t/p/original/ukAWA52fqoNSfkbbNB3XkKqsycz.jpg",
+      "Stream": "https://pub-f73f420becbc4680a6751ce347e991d1.r2.dev/LUNA%20NERA/Luna%20Nera%20S01E01.mkv",
+      "streamFormat": "mkv",
+      "id": "series-luna-nera-2020-s1e1",
+      "enabled": true
+    },
+    {
+      "Title": "S01 E02 - Libro",
+      "season": "1",
+      "episode": "2",
+      "Description": "Ade descubre la existencia del misterioso Libro de los Reinos y conoce la historia de las Ciudades Perdidas, mientras Cesaria y Spirto buscan nuevas pistas.",
+      "Logo": "https://image.tmdb.org/t/p/original/ukAWA52fqoNSfkbbNB3XkKqsycz.jpg",
+      "Stream": "https://pub-f73f420becbc4680a6751ce347e991d1.r2.dev/LUNA%20NERA/Luna%20Nera%20S01E02.mkv",
+      "streamFormat": "mkv",
+      "id": "series-luna-nera-2020-s1e2",
+      "enabled": true
+    },
+    {
+      "Title": "S01 E03 - Voces",
+      "season": "1",
+      "episode": "3",
+      "Description": "Ade comienza a escuchar misteriosas voces de mujeres y debe decidir qué responderle a Pietro. Mientras tanto, Leptis entrena a Valente con el arco.",
+      "Logo": "https://image.tmdb.org/t/p/original/ukAWA52fqoNSfkbbNB3XkKqsycz.jpg",
+      "Stream": "https://pub-f73f420becbc4680a6751ce347e991d1.r2.dev/LUNA%20NERA/Luna%20Nera%20S01E03.mkv",
+      "streamFormat": "mkv",
+      "id": "series-luna-nera-2020-s1e3",
+      "enabled": true
+    },
+    {
+      "Title": "S01 E04 - Destino",
+      "season": "1",
+      "episode": "4",
+      "Description": "Pietro se distancia de Ade mientras enfrenta una dolorosa pérdida y considera unirse a la causa de su padre. Ade y las brujas intentan salvar a más mujeres.",
+      "Logo": "https://image.tmdb.org/t/p/original/ukAWA52fqoNSfkbbNB3XkKqsycz.jpg",
+      "Stream": "https://pub-f73f420becbc4680a6751ce347e991d1.r2.dev/LUNA%20NERA/Luna%20Nera%20S01E04.mkv",
+      "streamFormat": "mkv",
+      "id": "series-luna-nera-2020-s1e4",
+      "enabled": true
+    },
+    {
+      "Title": "S01 E05 - Armas",
+      "season": "1",
+      "episode": "5",
+      "Description": "Valente busca vengarse de Sante mientras Leptis y Tebe discuten sobre la estrategia a seguir. Los Benandanti intensifican su persecución y Pietro comienza a dudar.",
+      "Logo": "https://image.tmdb.org/t/p/original/ukAWA52fqoNSfkbbNB3XkKqsycz.jpg",
+      "Stream": "https://pub-f73f420becbc4680a6751ce347e991d1.r2.dev/LUNA%20NERA/Luna%20Nera%20S01E05.mkv",
+      "streamFormat": "mkv",
+      "id": "series-luna-nera-2020-s1e5",
+      "enabled": true
+    },
+    {
+      "Title": "S01 E06 - Luz",
+      "season": "1",
+      "episode": "6",
+      "Description": "Las brujas y los Benandanti se enfrentan en una batalla decisiva que cambiará para siempre sus destinos, sus relaciones y el futuro de las Ciudades Perdidas.",
+      "Logo": "https://image.tmdb.org/t/p/original/ukAWA52fqoNSfkbbNB3XkKqsycz.jpg",
+      "Stream": "https://pub-f73f420becbc4680a6751ce347e991d1.r2.dev/LUNA%20NERA/Luna%20Nera%20S01E06.mkv",
+      "streamFormat": "mkv",
+      "id": "series-luna-nera-2020-s1e6",
+      "enabled": true
+    }
+  ],
+  "id": "series-luna-nera-2020",
+  "enabled": true
+},
+    {
   "Title": "EL JUICIO (2026)",
   "seriesName": "EL JUICIO (2026)",
   "Category": "Drama",
