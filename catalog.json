@@ -5315,7 +5315,7 @@
         {
   "Title": "HBO FAMILY HD",
   "Description": "Programación general en vivo.",
-  "Url": "https://hbo-family-worker.elmanuchale.workers.dev/hbo_family/live.m3u8",
+  "Url": "https://canal-blueyy.elmanuchale.workers.dev/hbofamily/live.m3u8",
   "streamFormat": "hls",
   "id": "tv-anime-bitme-hdjsusjwwiwiwow",
   "enabled": true,
