@@ -5332,12 +5332,28 @@
 },
         {
   "Title": "HBO FAMILY HD",
-  "Description": "Programación general en vivo.",
-  "Url": "https://canal-blueyy.elmanuchale.workers.dev/hbofamily/live.m3u8",
+  "Description": "Programación familiar en vivo 24/7.",
+  "Url": "https://hbo-family-worker.elmanuchale.workers.dev/live.m3u8",
   "streamFormat": "hls",
-  "id": "tv-anime-bitme-hdjsusjwwiwiwow",
+
+  "id": "hbo-family-hd",
   "enabled": true,
-  "Logo": "https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original"
+
+  "specialKey": "hbofamily",
+  "channelMode": "linear",
+  "playerStyle": "hbofamily",
+
+  "Logo": "https://dl.dropbox.com/scl/fi/lc6b4gg1twqumr4vrakqj/file_00000000ea5081f5ae4dbb5801f12815.png?rlkey=m6w76492cyq0z12lx91mgo31b&st=kq7ilsda&dl=0",
+
+  "channelBugUrl": "https://dl.dropbox.com/scl/fi/wfvxs2ld2nkrw2p5mvxr4/file_00000000875881f5b8eb4726d70d23c3.png?rlkey=hdpi75re6qn1ehrhq446ps2zr&st=r6ak8axz&dl=0",
+
+  "channelBugOpacity": 0.78,
+
+  "programOverlay": true,
+
+  "statusUrl": "https://hbo-family-worker.elmanuchale.workers.dev/status",
+  "guideUrl": "https://hbo-family-worker.elmanuchale.workers.dev/guide.json",
+  "channelJsonUrl": "https://hbo-family-worker.elmanuchale.workers.dev/channel.json"
 },
 {
   "Title": "BITME HD",
