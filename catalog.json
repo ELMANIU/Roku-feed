@@ -7009,6 +7009,52 @@
       }
     },
     {
+      "id": "hbo-family-hd",
+      "enabled": true,
+      "Title": "HBO FAMILY HD",
+      "Description": "Canal lineal sincronizado 24/7 con películas familiares.",
+      "CategoryKey": "peliculas",
+      "CategoryTitle": "Películas",
+
+      "specialKey": "hbofamily",
+      "channelMode": "linear",
+      "playerStyle": "hbofamily",
+
+      "linearAnchor": 1790964000,
+
+      "tagline": "HBO FAMILY HD",
+
+      "Logo": "https://dl.dropbox.com/scl/fi/lc6b4gg1twqumr4vrakqj/file_00000000ea5081f5ae4dbb5801f12815.png?rlkey=m6w76492cyq0z12lx91mgo31b&st=kq7ilsda&dl=0",
+
+      "channelBugUrl": "https://dl.dropbox.com/scl/fi/wfvxs2ld2nkrw2p5mvxr4/file_00000000875881f5b8eb4726d70d23c3.png?rlkey=hdpi75re6qn1ehrhq446ps2zr&st=r6ak8axz&dl=0",
+
+      "channelBugOpacity": 0.78,
+      "videoAspectRatio": "16:9",
+      "programOverlay": true,
+
+      "schedule": {
+        "type": "playlist",
+        "items": [
+          {
+            "Title": "Shrek",
+            "Url": "https://hugh.cdn.rumble.cloud/video/fwe2/40/s8/2/e/s/0/2/es02A.aaa.mp4",
+            "streamFormat": "mp4",
+            "Duration": "5400",
+            "aspectRatio": "16:9",
+            "enabled": true
+          },
+          {
+            "Title": "Shrek 2",
+            "Url": "https://hugh.cdn.rumble.cloud/video/fwe2/50/s8/2/q/6/9/2/q692A.aaa.mp4",
+            "streamFormat": "mp4",
+            "Duration": "5580",
+            "aspectRatio": "16:9",
+            "enabled": true
+          }
+        ]
+      }
+    },
+    {
   "id": "equipo-umizoomi-247",
   "enabled": true,
   "Title": "Equipo Umizoomi 24/7",
