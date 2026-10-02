@@ -6,6 +6,24 @@
   "replaceLocalTv": true,
   "movies": [
     {
+  "Title": "Shrek (2001)",
+  "Section": "Animación",
+  "Year": "2001",
+  "Genre": "Animación · Aventura · Comedia · Fantasía · Familiar",
+  "Runtime": "90 min",
+  "Director": "Andrew Adamson, Vicky Jenson",
+  "Cast": "Mike Myers, Eddie Murphy, Cameron Diaz, John Lithgow, Vincent Cassel",
+  "Language": "Español Latino",
+  "Country": "Estados Unidos",
+  "Quality": "FHD",
+  "Description": "Shrek, un ogro que disfruta de su vida solitaria, descubre que su pantano ha sido ocupado por criaturas de cuentos de hadas expulsadas por Lord Farquaad. Para recuperar su hogar, acepta rescatar a la princesa Fiona acompañado de Burro, un parlanchín compañero de aventuras. Durante el viaje, Shrek descubre que Fiona guarda un secreto y que el amor puede desafiar las apariencias.",
+  "Logo": "https://image.tmdb.org/t/p/original/fRVz4mtYDOoDHLFx4wRRaQKShCd.jpg",
+  "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/40/s8/2/e/s/0/2/es02A.Faa.mp4",
+  "streamFormat": "mp4",
+  "id": "movie-shrek-2001",
+  "enabled": true
+    },
+    {
   "Title": "Pacto siniestro (1951)",
   "Section": "Suspenso",
   "Year": "1951",
