@@ -5331,15 +5331,6 @@
   "Logo": "https://static.wikia.nocookie.net/censuras/images/c/c9/CineclubDK.png/revision/latest/scale-to-width-down/248?cb=20250530071536&path-prefix=es"
 },
 {
-  "Title": "BITME HD",
-  "Description": "Programación general en vivo.",
-  "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/canales/bitme/index.m3u8",
-  "streamFormat": "hls",
-  "id": "tv-anime-bitme-hd",
-  "enabled": true,
-  "Logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/3840px-BitMe_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
-},
-{
   "Title": "CINECANAL HD",
   "Description": "Programación general en vivo.",
   "Url": "https://pub-31c3df763d1f4f2bbd2602595581aa82.r2.dev/canales/cinecanalfenix/index.m3u8",
