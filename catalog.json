@@ -6,6 +6,24 @@
   "replaceLocalTv": true,
   "movies": [
     {
+  "Title": "Harry Potter y la piedra filosofal (2001)",
+  "Section": "Fantasía",
+  "Year": "2001",
+  "Genre": "Fantasía · Aventura · Familiar · Misterio",
+  "Runtime": "152 min",
+  "Director": "Chris Columbus",
+  "Cast": "Daniel Radcliffe, Rupert Grint, Emma Watson, Richard Harris, Alan Rickman, Maggie Smith, Robbie Coltrane",
+  "Language": "Español Latino",
+  "Country": "Reino Unido · Estados Unidos",
+  "Quality": "FHD",
+  "Description": "Harry Potter, un niño huérfano que vive con sus desagradables tíos, descubre al cumplir once años que en realidad es un mago. Al ingresar al Colegio Hogwarts de Magia y Hechicería conoce a Ron Weasley y Hermione Granger, con quienes comienza una extraordinaria aventura. Mientras aprende sobre el mundo mágico y el pasado de sus padres, Harry descubre que una misteriosa piedra oculta en Hogwarts podría estar relacionada con el regreso de un poderoso enemigo.",
+  "Logo": "https://image.tmdb.org/t/p/original/kNNtiEp5qktfRjiwjkRq8WLmF40.jpg",
+  "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/12/s8/2/O/o/v/3/Oov3A.aaa.mp4",
+  "streamFormat": "mp4",
+  "id": "movie-harry-potter-piedra-filosofal-2001",
+  "enabled": true
+    },
+    {
   "Title": "Shrek (2001)",
   "Section": "Animación",
   "Year": "2001",
