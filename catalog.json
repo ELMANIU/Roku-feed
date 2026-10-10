@@ -2603,6 +2603,105 @@
     }
   ],
   "series": [
+{
+  "Title": "MONSTRUO: LA HISTORIA DE LIZZIE BORDEN (2026)",
+  "seriesName": "MONSTRUO: LA HISTORIA DE LIZZIE BORDEN (2026)",
+  "Category": "terror",
+  "Description": "En 1892, Lizzie Borden vive atrapada en un hogar victoriano dominado por la represión, los conflictos familiares y la crueldad. La llegada de una nueva empleada doméstica transforma su vida y despierta sentimientos prohibidos, mientras las tensiones dentro de la familia aumentan peligrosamente. Cuando su padre y su madrastra son brutalmente asesinados con un hacha, Lizzie queda en el centro de uno de los casos criminales más impactantes de Estados Unidos. Una inquietante historia de obsesión, violencia, secretos y misterio inspirada en hechos reales. Protagonizada por Ella Beatty, Vicky Krieps, Charlie Hunnam, Rebecca Hall, Jessica Barden y Sarah Paulson.",
+  "Logo": "https://image.tmdb.org/t/p/original/8XFqpmHwbBcqMHJUHglukTeTU7Z.jpg",
+  "episodes": [
+    {
+      "Title": "S01 E01 - Baño de sangre",
+      "season": "1",
+      "episode": "1",
+      "Description": "Lizzie Borden soporta las constantes humillaciones y el carácter autoritario de su madrastra Abby. Su existencia cambia con la llegada de Maggie Sullivan, una joven empleada doméstica cuya personalidad desafiante despierta en Lizzie emociones y deseos que jamás había experimentado. Una relación inesperada comienza a alterar la tranquilidad de la familia Borden.",
+      "Logo": "https://image.tmdb.org/t/p/original/8XFqpmHwbBcqMHJUHglukTeTU7Z.jpg",
+      "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/e6/s8/2/m/r/q/5/mrq5A.aaa.mkv",
+      "streamFormat": "mkv",
+      "id": "series-monstruo-lizzie-borden-2026-s1e1",
+      "enabled": true
+    },
+    {
+      "Title": "S01 E02 - Gatita fuerte",
+      "season": "1",
+      "episode": "2",
+      "Description": "La relación entre Lizzie y Maggie se vuelve cada vez más cercana, pero una dolorosa realidad amenaza su creciente intimidad. Mientras Maggie intenta sobrevivir a las difíciles condiciones del hogar, un cruel acto cometido por Abby Borden lleva a Lizzie al límite de su paciencia y provoca una peligrosa reacción.",
+      "Logo": "https://image.tmdb.org/t/p/original/8XFqpmHwbBcqMHJUHglukTeTU7Z.jpg",
+      "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/c9/s8/2/i/Y/q/5/iYq5A.aaa.mkv",
+      "streamFormat": "mkv",
+      "id": "series-monstruo-lizzie-borden-2026-s1e2",
+      "enabled": true
+    },
+    {
+      "Title": "S01 E03 - ¡Un golpe de locura!",
+      "season": "1",
+      "episode": "3",
+      "Description": "El inesperado regreso de un familiar desaparecido durante años pone a Andrew Borden bajo presión para cumplir una petición. Mientras tanto, Maggie sufre un castigo cruel y humillante que intensifica su sufrimiento. Unidas por el resentimiento y el deseo de escapar, Lizzie y Maggie comienzan a modificar sus planes de venganza.",
+      "Logo": "https://image.tmdb.org/t/p/original/8XFqpmHwbBcqMHJUHglukTeTU7Z.jpg",
+      "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/d3/s8/2/Q/9/q/5/Q9q5A.aaa.mkv",
+      "streamFormat": "mkv",
+      "id": "series-monstruo-lizzie-borden-2026-s1e3",
+      "enabled": true
+    },
+    {
+      "Title": "S01 E04 - Q. E. P. D. (que en pestilencia descanse) Abby Borden",
+      "season": "1",
+      "episode": "4",
+      "Description": "Abby Borden busca desesperadamente una solución a la profunda insatisfacción que domina su vida. Mientras las tensiones familiares alcanzan un punto crítico, Lizzie decide actuar y libera años de frustración, resentimiento y represión. Un plan brutal comienza a ejecutarse y cambia para siempre el destino de la familia.",
+      "Logo": "https://image.tmdb.org/t/p/original/8XFqpmHwbBcqMHJUHglukTeTU7Z.jpg",
+      "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/6b/s8/2/A/d/r/5/Adr5A.aaa.mkv",
+      "streamFormat": "mkv",
+      "id": "series-monstruo-lizzie-borden-2026-s1e4",
+      "enabled": true
+    },
+    {
+      "Title": "S01 E05 - 41",
+      "season": "1",
+      "episode": "5",
+      "Description": "Andrew Borden revive recuerdos de su pasado mientras enfrenta las dificultades de su matrimonio y los conflictos de su familia. Después de una noche marcada por los excesos, se encuentra frente a una expresión de ira femenina que jamás había imaginado. Los acontecimientos se precipitan hacia una tragedia que marcará la historia criminal estadounidense.",
+      "Logo": "https://image.tmdb.org/t/p/original/8XFqpmHwbBcqMHJUHglukTeTU7Z.jpg",
+      "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/45/s8/2/S/M/r/5/SMr5A.aaa.mkv",
+      "streamFormat": "mkv",
+      "id": "series-monstruo-lizzie-borden-2026-s1e5",
+      "enabled": true
+    },
+    {
+      "Title": "S01 E06 - La posada",
+      "season": "1",
+      "episode": "6",
+      "Description": "Después de los brutales asesinatos, Lizzie y Maggie trabajan desesperadamente para eliminar cualquier evidencia que pueda relacionarlas con el crimen. Sin embargo, una declaración contradictoria despierta las sospechas de las autoridades. Los investigadores comienzan a examinar cada detalle de la escena mientras la presión sobre Lizzie aumenta.",
+      "Logo": "https://image.tmdb.org/t/p/original/8XFqpmHwbBcqMHJUHglukTeTU7Z.jpg",
+      "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/5e/s8/2/a/5/r/5/a5r5A.aaa.mkv",
+      "streamFormat": "mkv",
+      "id": "series-monstruo-lizzie-borden-2026-s1e6",
+      "enabled": true
+    },
+    {
+      "Title": "S01 E07 - El juicio del siglo",
+      "season": "1",
+      "episode": "7",
+      "Description": "El escandaloso caso de los asesinatos de la familia Borden captura la atención de todo Estados Unidos. Lizzie enfrenta un juicio de enormes repercusiones, donde cada declaración puede determinar su destino. Obligada a defender su inocencia ante la opinión pública, recibe ayuda de una persona inesperada mientras el país observa cada movimiento.",
+      "Logo": "https://image.tmdb.org/t/p/original/8XFqpmHwbBcqMHJUHglukTeTU7Z.jpg",
+      "Stream": "",
+      "streamFormat": "mkv",
+      "id": "series-monstruo-lizzie-borden-2026-s1e7",
+      "enabled": false
+    },
+    {
+      "Title": "S01 E08 - Carnival",
+      "season": "1",
+      "episode": "8",
+      "Description": "Las consecuencias del caso Borden continúan persiguiendo a Lizzie mientras intenta encontrar un nuevo significado para su existencia. El peso de su oscuro legado amenaza con consumirla y su historia comienza a trascender generaciones. En este desenlace, Lizzie busca una forma de seguir adelante mientras su nombre queda grabado para siempre en la historia del crimen.",
+      "Logo": "https://image.tmdb.org/t/p/original/8XFqpmHwbBcqMHJUHglukTeTU7Z.jpg",
+      "Stream": "",
+      "streamFormat": "mkv",
+      "id": "series-monstruo-lizzie-borden-2026-s1e8",
+      "enabled": false
+    }
+  ],
+  "id": "series-monstruo-lizzie-borden-2026",
+  "enabled": true
+},
     {
   "Title": "LUNA NERA (2020)",
   "seriesName": "LUNA NERA (2020)",
