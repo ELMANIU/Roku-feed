@@ -5,6 +5,25 @@
   "replaceLocalSeries": true,
   "replaceLocalTv": true,
   "movies": [
+
+{
+  "Title": "Wasabi: El trato sucio de la mafia (2001)",
+  "Section": "Acción",
+  "Year": "2001",
+  "Genre": "Acción · Comedia · Crimen · Suspenso",
+  "Runtime": "94 min",
+  "Director": "Gérard Krawczyk",
+  "Cast": "Jean Reno, Ryoko Hirosue, Michel Muller, Carole Bouquet, Yoshi Oida, Christian Sinniger, Alexandre Brik, Véronique Balme, Fabio Zenoni",
+  "Language": "Español Latino",
+  "Country": "Francia · Japón",
+  "Quality": "FHD",
+  "Description": "Hubert Fiorentini es un duro inspector de policía francés conocido por sus métodos poco convencionales para combatir el crimen. Después de ser obligado a tomar unas vacaciones, recibe una inesperada llamada desde Japón informándole que Miko, la mujer que amó veinte años atrás, ha fallecido. Al viajar a Tokio, descubre que tiene una hija adolescente llamada Yumi, quien ha heredado una misteriosa fortuna de 200 millones de dólares. Sin embargo, la poderosa mafia japonesa, conocida como la Yakuza, está dispuesta a todo para apoderarse del dinero. Con la ayuda de su antiguo compañero Momo, Hubert deberá enfrentarse a peligrosos criminales mientras intenta proteger a su hija. Una emocionante aventura llena de acción, humor, persecuciones y enfrentamientos en las calles de Japón.",
+  "Logo": "https://image.tmdb.org/t/p/original/kPFxcrfLLeuefx1OLw4SxzXphTF.jpg",
+  "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/b7/s8/2/4/E/q/5/4Eq5A.aaa.mkv",
+  "streamFormat": "mkv",
+  "id": "movie-wasabi-el-trato-sucio-de-la-mafia-2001",
+  "enabled": true
+},
     {
   "Title": "La noche del demonio: Están entre nosotros (2026)",
   "Section": "Terror",
