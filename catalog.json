@@ -4,8 +4,25 @@
   "replaceLocalMovies": true,
   "replaceLocalSeries": true,
   "replaceLocalTv": true,
-  "movies": [
-
+  "movies": [  
+{
+  "Title": "Matchbox: La película (2026)",
+  "Section": "Acción",
+  "Year": "2026",
+  "Genre": "Acción · Aventura · Comedia · Espionaje",
+  "Runtime": "126 min",
+  "Director": "Sam Hargrave",
+  "Cast": "John Cena, Jessica Biel, Sam Richardson, Teyonah Parris, Arturo Castro, Corey Stoll, Danai Gurira, Bill Camp, Golshifteh Farahani, Daniel Bernhardt, Randeep Hooda",
+  "Language": "Español Latino",
+  "Country": "Estados Unidos",
+  "Quality": "FHD",
+  "Description": "Inspirada en los famosos automóviles de juguete Matchbox de Mattel, esta emocionante aventura sigue a Sean, un agente encubierto de la CIA que regresa inesperadamente a su ciudad natal después de muchos años de ausencia. Allí se reencuentra con su antiguo grupo de amigos de la infancia, quienes llevaban vidas completamente normales hasta su llegada. Sin imaginarlo, todos terminan involucrados en una peligrosa conspiración internacional que amenaza la seguridad del mundo. Perseguidos por poderosos enemigos y obligados a enfrentarse a situaciones extremas, los amigos deberán utilizar su ingenio, valentía y trabajo en equipo para sobrevivir. Entre espectaculares persecuciones automovilísticas, explosiones, combates y divertidas situaciones, descubrirán que su amistad puede convertirse en su mejor arma para salvar al mundo.",
+  "Logo": "https://image.tmdb.org/t/p/original/ev2GnYar3LUyui8sOu4gqeMXvLi.jpg",
+  "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/d9/s8/2/k/E/J/5/kEJ5A.aaa.mkv",
+  "streamFormat": "mkv",
+  "id": "movie-matchbox-la-pelicula-2026",
+  "enabled": true
+},
 {
   "Title": "Wasabi: El trato sucio de la mafia (2001)",
   "Section": "Acción",
