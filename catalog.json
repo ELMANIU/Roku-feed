@@ -2621,6 +2621,50 @@
   ],
   "series": [
 {
+  "Title": "ESCENA DEL CRIMEN: ASESINATO EN TIMES SQUARE (2021)",
+  "seriesName": "ESCENA DEL CRIMEN: ASESINATO EN TIMES SQUARE (2021)",
+  "Category": "documental",
+  "Description": "Nueva York, década de 1970. En las peligrosas calles de Times Square, un despiadado asesino en serie conocido como el Asesino del Torso comete brutales crímenes contra mujeres mientras evade a las autoridades. A través de testimonios de investigadores, sobrevivientes, familiares de las víctimas y material de archivo, esta impactante miniserie documental reconstruye los asesinatos, las dificultades de la investigación y las circunstancias que permitieron al criminal actuar durante años. Una inquietante historia real sobre Richard Cottingham y uno de los casos más estremecedores de la historia criminal de Estados Unidos.",
+  "Logo": "https://image.tmdb.org/t/p/original/nUFH0rgitTvAqOKxaIVIPb2Sut8.jpg",
+  "episodes": [
+    {
+      "Title": "S01 E01 - Asesinato en la calle 42",
+      "season": "1",
+      "episode": "1",
+      "Description": "En diciembre de 1979, las autoridades de Nueva York acuden a un hotel ubicado en las inmediaciones de Times Square después de recibir una alerta de incendio. En el interior de una habitación descubren los cuerpos de dos mujeres asesinadas brutalmente. Las circunstancias del crimen desconciertan a los investigadores y desencadenan una investigación que revela el lado más oscuro de la ciudad durante los años setenta.",
+      "Logo": "https://image.tmdb.org/t/p/original/nUFH0rgitTvAqOKxaIVIPb2Sut8.jpg",
+      "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/13/s8/2/8/I/y/5/8Iy5A.aaa.mkv",
+      "streamFormat": "mkv",
+      "id": "series-escena-del-crimen-asesinato-en-times-square-2021-s1e1",
+      "enabled": true
+    },
+    {
+      "Title": "S01 E02 - El territorio de caza perfecto",
+      "season": "1",
+      "episode": "2",
+      "Description": "Mientras la policía continúa investigando los asesinatos de Times Square, aparecen nuevas víctimas y aterradoras similitudes con otros crímenes cometidos en Nueva Jersey. Los detectives entrevistan a trabajadoras sexuales, examinan registros de clientes y buscan pistas sobre el responsable. La investigación revela cómo el ambiente de Times Square durante aquella época facilitaba que un peligroso asesino en serie seleccionara a sus víctimas sin despertar sospechas.",
+      "Logo": "https://image.tmdb.org/t/p/original/nUFH0rgitTvAqOKxaIVIPb2Sut8.jpg",
+      "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/96/s8/2/6/A/z/5/6Az5A.aaa.mkv",
+      "streamFormat": "mkv",
+      "id": "series-escena-del-crimen-asesinato-en-times-square-2021-s1e2",
+      "enabled": true
+    },
+    {
+      "Title": "S01 E03 - El fin de una era",
+      "season": "1",
+      "episode": "3",
+      "Description": "Una mujer consigue escapar de un violento ataque y proporciona información fundamental para que los investigadores de Nueva Jersey avancen en el caso. Las autoridades comienzan a relacionar las evidencias con los asesinatos cometidos en Nueva York y finalmente identifican al responsable. Mientras se esclarecen los crímenes de Richard Cottingham, los familiares de las víctimas continúan buscando respuestas, justicia y un cierre para una de las etapas más oscuras de Times Square.",
+      "Logo": "https://image.tmdb.org/t/p/original/nUFH0rgitTvAqOKxaIVIPb2Sut8.jpg",
+      "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/7c/s8/2/I/a/I/5/IaI5A.aaa.mkv",
+      "streamFormat": "mkv",
+      "id": "series-escena-del-crimen-asesinato-en-times-square-2021-s1e3",
+      "enabled": true
+    }
+  ],
+  "id": "series-escena-del-crimen-asesinato-en-times-square-2021",
+  "enabled": true
+},
+{
   "Title": "MONSTRUO: LA HISTORIA DE LIZZIE BORDEN (2026)",
   "seriesName": "MONSTRUO: LA HISTORIA DE LIZZIE BORDEN (2026)",
   "Category": "terror",
@@ -2699,10 +2743,10 @@
       "episode": "7",
       "Description": "El escandaloso caso de los asesinatos de la familia Borden captura la atención de todo Estados Unidos. Lizzie enfrenta un juicio de enormes repercusiones, donde cada declaración puede determinar su destino. Obligada a defender su inocencia ante la opinión pública, recibe ayuda de una persona inesperada mientras el país observa cada movimiento.",
       "Logo": "https://image.tmdb.org/t/p/original/8XFqpmHwbBcqMHJUHglukTeTU7Z.jpg",
-      "Stream": "",
+      "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/8a/s8/2/E/x/s/5/Exs5A.aaa.mkv",
       "streamFormat": "mkv",
       "id": "series-monstruo-lizzie-borden-2026-s1e7",
-      "enabled": false
+      "enabled": true
     },
     {
       "Title": "S01 E08 - Carnival",
@@ -2710,10 +2754,10 @@
       "episode": "8",
       "Description": "Las consecuencias del caso Borden continúan persiguiendo a Lizzie mientras intenta encontrar un nuevo significado para su existencia. El peso de su oscuro legado amenaza con consumirla y su historia comienza a trascender generaciones. En este desenlace, Lizzie busca una forma de seguir adelante mientras su nombre queda grabado para siempre en la historia del crimen.",
       "Logo": "https://image.tmdb.org/t/p/original/8XFqpmHwbBcqMHJUHglukTeTU7Z.jpg",
-      "Stream": "",
+      "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/4b/s8/2/S/E/t/5/SEt5A.aaa.mkv",
       "streamFormat": "mkv",
       "id": "series-monstruo-lizzie-borden-2026-s1e8",
-      "enabled": false
+      "enabled": true
     }
   ],
   "id": "series-monstruo-lizzie-borden-2026",
