@@ -2693,6 +2693,39 @@
   ],
   "series": [
 {
+  "Title": "EL PALACIO DEL ESTE (2026)",
+  "seriesName": "EL PALACIO DEL ESTE (2026)",
+  "Category": "terror",
+  "Description": "En la antigua Corea, un misterioso palacio real esconde oscuros secretos y aterradoras presencias sobrenaturales. Gu-cheon, un hombre con la extraordinaria capacidad de viajar entre el mundo de los vivos y el de los espíritus, es convocado por el rey para investigar una serie de sucesos inexplicables. Durante su misión conoce a Saeng-gang, una joven dama de la corte que posee el inquietante don de escuchar las voces de los muertos. Juntos deberán enfrentarse a peligrosos espíritus, antiguas maldiciones y conspiraciones dentro de la familia real. Mientras investigan las misteriosas muertes relacionadas con el palacio, descubrirán una terrible verdad que amenaza con destruir el reino. Una emocionante serie coreana de terror, fantasía, misterio y suspenso protagonizada por Nam Joo-hyuk, Roh Yoon-seo y Cho Seung-woo.",
+  "Logo": "https://image.tmdb.org/t/p/original/zlKETP9iErKueFfNRuKxivsDLWe.jpg",
+  "episodes": [
+    {
+      "Title": "S01 E01 - Episodio 1",
+      "season": "1",
+      "episode": "1",
+      "Description": "Después de una misteriosa muerte en el palacio real, el rey convoca a Gu-cheon, un poderoso cazador de espíritus capaz de cruzar al mundo sobrenatural, para investigar y expulsar a una peligrosa entidad que habita en un estanque. Durante su llegada conoce a Saeng-gang, una dama de la corte que puede escuchar las voces de los muertos. Ambos comienzan a descubrir los aterradores secretos que se ocultan detrás de los extraños acontecimientos del palacio.",
+      "Logo": "https://image.tmdb.org/t/p/original/zlKETP9iErKueFfNRuKxivsDLWe.jpg",
+      "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/1e/s8/2/M/K/V/5/MKV5A.aaa.mkv",
+      "streamFormat": "mkv",
+      "id": "series-el-palacio-del-este-2026-s1e1",
+      "enabled": true
+    },
+    {
+      "Title": "S01 E02 - Episodio 2",
+      "season": "1",
+      "episode": "2",
+      "Description": "Después de sobrevivir a un peligroso encuentro mientras perseguía al espíritu del estanque, Gu-cheon decide formar una alianza con Saeng-gang para continuar investigando los misterios del palacio. Gracias a sus habilidades sobrenaturales, ambos descubren información inquietante sobre una entidad que habita en el depósito de sal. Mientras intentan comprender su origen y las circunstancias de su muerte, nuevas amenazas revelan que los secretos del palacio son mucho más oscuros de lo que imaginaban.",
+      "Logo": "https://image.tmdb.org/t/p/original/zlKETP9iErKueFfNRuKxivsDLWe.jpg",
+      "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/ee/s8/2/G/R/V/5/GRV5A.aaa.mkv",
+      "streamFormat": "mkv",
+      "id": "series-el-palacio-del-este-2026-s1e2",
+      "enabled": true
+    }
+  ],
+  "id": "series-el-palacio-del-este-2026",
+  "enabled": true
+},
+{
   "Title": "ESCENA DEL CRIMEN: ASESINATO EN TIMES SQUARE (2021)",
   "seriesName": "ESCENA DEL CRIMEN: ASESINATO EN TIMES SQUARE (2021)",
   "Category": "documental",
