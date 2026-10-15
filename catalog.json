@@ -6,6 +6,24 @@
   "replaceLocalTv": true,
   "movies": [      
 {
+  "Title": "Power Rangers: La película (1995)",
+  "Section": "Acción",
+  "Year": "1995",
+  "Genre": "Acción · Aventura · Ciencia ficción · Familiar",
+  "Runtime": "95 min",
+  "Director": "Bryan Spicer",
+  "Cast": "Jason David Frank, Amy Jo Johnson, David Yost, Johnny Yong Bosch, Karan Ashley, Steve Cardenas, Paul Freeman, Gabrielle Fitzpatrick",
+  "Language": "Español Latino",
+  "Country": "Estados Unidos · Japón",
+  "Quality": "FHD",
+  "Description": "Los Power Rangers enfrentan una de sus mayores amenazas cuando el malvado Ivan Ooze es liberado después de permanecer encerrado durante miles de años. Tras destruir el Centro de Mando y dejar a Zordon gravemente herido, los Rangers pierden sus poderes y deben viajar al lejano planeta Phaedos en busca del legendario poder Ninjetti. Con la ayuda de la guerrera Dulcea, tendrán que superar peligrosas pruebas, descubrir nuevas habilidades y regresar a la Tierra antes de que Ivan Ooze consiga dominar el mundo.",
+  "Logo": "https://image.tmdb.org/t/p/original/pk67rEjEZnouTu1gnhrIC0aqNra.jpg",
+  "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/e3/s8/2/S/Z/7/5/SZ75A.aaa.mkv",
+  "streamFormat": "mkv",
+  "id": "movie-power-rangers-la-pelicula-1995",
+  "enabled": true
+},
+{
   "Title": "Hombres, mujeres y niños (2014)",
   "Section": "Drama",
   "Year": "2014",
