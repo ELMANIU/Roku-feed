@@ -4819,6 +4819,127 @@
       "Description": "Un científico alcohólico y algo misántropo arrastra a su ingenuo nieto a través del espacio y el tiempo en aventuras que desafían toda lógica. Una loca comedia animada de ciencia ficción creada por Justin Roiland y Dan Harmon.",
       "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTThjHs93XnNMr0_G5eO-XkQSIx0enszhNvAJp4v8vJQvAdKGnuIk5QDno&s=10",
       "episodes": [
+  {
+    "Title": "S01 E01 - Buscando las semillas",
+    "season": "1",
+    "episode": "1",
+    "Description": "Rick lleva a Morty a otra dimensión para conseguir semillas de megaárboles, mientras Jerry y Beth cuestionan la influencia del científico sobre su nieto.",
+    "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/oWaKdUeMOlVZem3v9DWsdDGlTuY.jpg",
+    "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/b5/s8/2/U/s/k/6/Usk6A.aaa.mp4",
+    "streamFormat": "mp4",
+    "id": "series-rick-y-morty-2013-s1e1",
+    "enabled": true
+  },
+  {
+    "Title": "S01 E02 - Invasión canina",
+    "season": "1",
+    "episode": "2",
+    "Description": "Rick crea un dispositivo que aumenta la inteligencia del perro de la familia, provocando una rebelión canina. Mientras tanto, Rick y Morty se adentran en los sueños del profesor de matemáticas de Morty.",
+    "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/zsO5ylZLn7ihplZFqPmOz2v87R7.jpg",
+    "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/77/s8/2/m/V/K/6/mVK6A.aaa.mp4",
+    "streamFormat": "mp4",
+    "id": "series-rick-y-morty-2013-s1e2",
+    "enabled": true
+  },
+  {
+    "Title": "S01 E03 - Parque anatómico",
+    "season": "1",
+    "episode": "3",
+    "Description": "Durante Navidad, Rick reduce a Morty de tamaño para enviarlo al interior de un hombre donde funciona un parque temático de anatomía. Mientras tanto, Jerry recibe una inesperada visita familiar.",
+    "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/2Je8EzKGQo0Iw7GlVsRudz9Yr6h.jpg",
+    "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/3f/s8/2/g/X/K/6/gXK6A.aaa.mp4",
+    "streamFormat": "mp4",
+    "id": "series-rick-y-morty-2013-s1e3",
+    "enabled": true
+  },
+  {
+    "Title": "S01 E04 - La simulación alienígena",
+    "season": "1",
+    "episode": "4",
+    "Description": "Un grupo de extraterrestres atrapa a Rick y Morty dentro de una simulación para obtener información secreta. Jerry también queda involucrado sin comprender lo que sucede.",
+    "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/x03BaaoxUEwYm9OYRqgc0LWGxGo.jpg",
+    "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/81/s8/2/Q/0/K/6/Q0K6A.aaa.mp4",
+    "streamFormat": "mp4",
+    "id": "series-rick-y-morty-2013-s1e4",
+    "enabled": true
+  },
+  {
+    "Title": "S01 E05 - Meeseeks destructores",
+    "season": "1",
+    "episode": "5",
+    "Description": "Rick entrega a la familia una caja que invoca criaturas llamadas Meeseeks para resolver problemas. Mientras tanto, Morty decide dirigir una aventura que termina siendo más peligrosa de lo esperado.",
+    "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/d8rSvLEROKeA1SKGVQ0ZjjFsDcV.jpg",
+    "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/2c/s8/2/k/2/K/6/k2K6A.aaa.mp4",
+    "streamFormat": "mp4",
+    "id": "series-rick-y-morty-2013-s1e5",
+    "enabled": true
+  },
+  {
+    "Title": "S01 E06 - La poción de Rick",
+    "season": "1",
+    "episode": "6",
+    "Description": "Morty pide a Rick una poción de amor para conquistar a Jessica, pero el experimento provoca una epidemia que transforma a la humanidad y amenaza con destruir el mundo.",
+    "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/hY750JVvL7K9KQN9lcqPTqcUEkN.jpg",
+    "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/c5/s8/2/u/J/W/6/uJW6A.aaa.mp4",
+    "streamFormat": "mp4",
+    "id": "series-rick-y-morty-2013-s1e6",
+    "enabled": true
+  },
+  {
+    "Title": "S01 E07 - Criando un Gazorpazorp",
+    "season": "1",
+    "episode": "7",
+    "Description": "Morty compra un robot extraterrestre y termina convirtiéndose inesperadamente en padre. Mientras intenta cuidar a su hijo, Rick y Summer visitan un extraño planeta gobernado por mujeres.",
+    "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/kDbvUQXyphvSs9fTBXangBtE8Qu.jpg",
+    "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/59/s8/2/2/O/W/6/2OW6A.aaa.mp4",
+    "streamFormat": "mp4",
+    "id": "series-rick-y-morty-2013-s1e7",
+    "enabled": true
+  },
+  {
+    "Title": "S01 E08 - Televisión interdimensional",
+    "season": "1",
+    "episode": "8",
+    "Description": "Rick instala un sistema de televisión que permite ver programas de universos alternativos. Mientras disfrutan de los extraños canales, la familia descubre cómo serían sus vidas en otras realidades.",
+    "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/HaTpHoQw2DWFAtHgGKn4gLOEaX.jpg",
+    "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/65/s8/2/i/S/W/6/iSW6A.aaa.mp4",
+    "streamFormat": "mp4",
+    "id": "series-rick-y-morty-2013-s1e8",
+    "enabled": true
+  },
+  {
+    "Title": "S01 E09 - Cosas necesarias",
+    "season": "1",
+    "episode": "9",
+    "Description": "Summer comienza a trabajar en una tienda administrada por el diablo, donde los objetos tienen consecuencias sobrenaturales. Mientras tanto, Jerry y Morty viajan a Plutón para resolver una discusión científica.",
+    "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/daA9q3U3ibIcm5OGuklySeIsQWV.jpg",
+    "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/dc/s8/2/k/W/W/6/kWW6A.aaa.mp4",
+    "streamFormat": "mp4",
+    "id": "series-rick-y-morty-2013-s1e9",
+    "enabled": true
+  },
+  {
+    "Title": "S01 E10 - Encuentros cercanos a lo Rick",
+    "season": "1",
+    "episode": "10",
+    "Description": "Rick es acusado de asesinar a otros Ricks de universos alternativos y llevado ante el Consejo de Ricks. Junto a Morty deberá escapar, investigar los crímenes y descubrir quién está detrás de la conspiración.",
+    "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/tReg2lQTllqfmrt4xWFMaXWkhpx.jpg",
+    "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/c7/s8/2/K/Z/W/6/KZW6A.aaa.mp4",
+    "streamFormat": "mp4",
+    "id": "series-rick-y-morty-2013-s1e10",
+    "enabled": true
+  },
+  {
+    "Title": "S01 E11 - Es hora de la fiesta",
+    "season": "1",
+    "episode": "11",
+    "Description": "Mientras Beth y Jerry disfrutan de una escapada, Rick y Summer organizan una fiesta en casa que rápidamente se convierte en una celebración intergaláctica fuera de control.",
+    "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/1lFPbyT7ZSBQeosXmUoLXjXF2UL.jpg",
+    "Stream": "",
+    "streamFormat": "mp4",
+    "id": "series-rick-y-morty-2013-s1e11",
+    "enabled": false
+  },
         {
           "Title": "S02 E01 - Rupturas en el Tiempo",
           "season": "2",
