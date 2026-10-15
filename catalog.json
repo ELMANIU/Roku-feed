@@ -4,7 +4,25 @@
   "replaceLocalMovies": true,
   "replaceLocalSeries": true,
   "replaceLocalTv": true,
-  "movies": [     
+  "movies": [      
+{
+  "Title": "Hombres, mujeres y niños (2014)",
+  "Section": "Drama",
+  "Year": "2014",
+  "Genre": "Drama · Romance · Comedia dramática · Adolescencia",
+  "Runtime": "119 min",
+  "Director": "Jason Reitman",
+  "Cast": "Adam Sandler, Jennifer Garner, Rosemarie DeWitt, Ansel Elgort, Kaitlyn Dever, Judy Greer, Dean Norris, Timothée Chalamet, Emma Thompson, J.K. Simmons, Dennis Haysbert, Elena Kampouris, Olivia Crocicchia",
+  "Language": "Español Latino",
+  "Country": "Estados Unidos",
+  "Quality": "FHD",
+  "Description": "En una pequeña comunidad estadounidense, varias familias intentan adaptarse a un mundo dominado por internet, los teléfonos inteligentes y las redes sociales. Mientras los adolescentes descubren el amor, la sexualidad y su propia identidad a través de las pantallas, sus padres enfrentan problemas de pareja, infidelidades, inseguridades y dificultades para comunicarse. Don y Helen atraviesan una crisis matrimonial que los lleva a buscar nuevas experiencias en internet, mientras Patricia controla obsesivamente la vida digital de su hija Brandy. Por otro lado, Tim, un joven que encuentra refugio en los videojuegos, intenta superar sus problemas familiares y construir una relación auténtica. A medida que sus historias se entrelazan, todos descubrirán que la tecnología puede acercar a las personas, pero también provocar aislamiento, obsesiones y consecuencias inesperadas. Un emotivo drama sobre el amor, la familia, la adolescencia y las complejidades de las relaciones humanas en la era digital.",
+  "Logo": "https://image.tmdb.org/t/p/original/g5JdaRO2MQHiDARlYNXu3NAnH3S.jpg",
+  "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/4e/s8/2/i/7/K/6/i7K6A.aaa.mp4",
+  "streamFormat": "mp4",
+  "id": "movie-hombres-mujeres-y-ninos-2014",
+  "enabled": true
+},
 {
   "Title": "The Uprising (2026)",
   "Section": "Acción",
